@@ -4,7 +4,7 @@ project:
 
 website:
   title: "newsletter"
-  margin-header: subscribe.html
+#  margin-header: subscribe.html
   navbar:
     right:
       - about.qmd
@@ -15,7 +15,7 @@ website:
 format:
   html:
     grid:
-      sidebar-width: 300px
+      margin-width: 520px
     theme:
       - cosmo
       - brand
