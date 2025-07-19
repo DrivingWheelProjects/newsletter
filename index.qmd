@@ -11,8 +11,3 @@ page-layout: full
 title-block-banner: true
 ---
 
-::: {.column-margin}
-```{=html}
-<iframe src="https://cdn.forms-content.sg-form.com/e08bd10f-6400-11f0-b566-82c707d7b7db" style="border: 1px solid black; width:420px; height:420px" / >
-```
-:::
