@@ -2,7 +2,6 @@
 title: "ADCN: A sports science and technology newsletter by Brad Stenger"
 author: "Brad Stenger"
 date: "2025-08-26"
-draft: true
 ---
 
 Welcome to my resurrected sports science and technology newsletter. I\'ve given it a title, the \"Athletes Data Community Newsletter,\" something that reflects my research interests. 
