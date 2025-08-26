@@ -8,30 +8,8 @@
 <title>newsletter</title>
 <link>https://newsletter.bradstenger.com/</link>
 <atom:link href="https://newsletter.bradstenger.com/index.xml" rel="self" type="application/rss+xml"/>
-<description>newsletter</description>
+<description>ADCN - Athletes Data Community Newsletter</description>
 <generator>quarto-1.7.24</generator>
-<lastBuildDate>Fri, 18 Jul 2025 04:00:00 GMT</lastBuildDate>
-<item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://newsletter.bradstenger.com/posts/post-with-code/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is a post with executable code.</p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
-  <guid>https://newsletter.bradstenger.com/posts/post-with-code/</guid>
-  <pubDate>Fri, 18 Jul 2025 04:00:00 GMT</pubDate>
-  <media:content url="https://newsletter.bradstenger.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
-</item>
+<lastBuildDate>Tue, 26 Aug 2025 18:50:02 GMT</lastBuildDate>
 </channel>
 </rss>

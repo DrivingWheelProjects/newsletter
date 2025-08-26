@@ -1,5 +1,5 @@
 ---
-title: "newsletter"
+title: "Athletes Data Community Newsletter"
 listing:
   contents: posts
   sort: "date desc"

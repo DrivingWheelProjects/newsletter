@@ -5,7 +5,7 @@ project:
 website:
   title: "newsletter"
   site-url: https://newsletter.bradstenger.com
-  description: "newsletter"
+  description: "ADCN - Athletes Data Community Newsletter"
   navbar:
     right:
       - about.qmd
