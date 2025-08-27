@@ -25,7 +25,7 @@ management from concussion likely increases athletes\' awareness of head
 impacts and improves their ability to protect themselves. 
 
 Awareness is
-central to a smart impact-sensing mouthguard with a bright red light
+central to a [smart impact-sensing mouthguard](https://www.theguardian.com/sport/2025/aug/11/rugby-union-womens-world-cup-flashing-mouthgards-concussion){target="_blank"} with a bright red light
 that flashes above threshold acceleration values (75g for men, 65g for
 women, or 4500 radians per second squared). Years ago, research
 biomedical engineer [Eric
