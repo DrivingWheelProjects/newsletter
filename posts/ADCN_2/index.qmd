@@ -1,5 +1,5 @@
 ---
-title: "ADCN: A sports science and technology newsletter by Brad Stenger"
+title: "ADCN: Public Health | Nutrition | Injury Algorithms"
 author: "Brad Stenger"
 date: "2025-09-08"
 ---
