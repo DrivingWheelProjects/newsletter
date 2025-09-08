@@ -1,5 +1,5 @@
 ---
-title: "ADCN: Public Health | Nutrition | Injury Algorithms"
+title: "ADCN: Public Health, Nutrition, Injury Algorithms"
 author: "Brad Stenger"
 date: "2025-09-08"
 ---
