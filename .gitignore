@@ -1,3 +1,4 @@
 /.quarto/
 /notebooks/.env
+/notebooks/.ipynb
 sendgrid.env
