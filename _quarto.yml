@@ -1,7 +1,9 @@
 project:
   type: website
   output-dir: docs
-
+render:
+ - "*.qmd"
+ - "!notebooks/"
 website:
   title: "newsletter"
   site-url: https://newsletter.bradstenger.com
