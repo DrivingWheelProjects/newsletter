@@ -13,15 +13,13 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
   margin-header: subscribe.html
 format:
   html:
     grid:
       margin-width: 410px;
     theme:
-      - cosmo
+      - sandstone
       - brand
     css: styles.css
 

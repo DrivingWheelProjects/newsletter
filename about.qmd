@@ -1,19 +1,19 @@
 ---
-title: "About"
-image: profile.jpg
+title: "Brad Stenger"
+image: profile.png
 about:
   template: jolla
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/bradstenger
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: linkedin.com/in/brad-stenger-561a8b50
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/DrivingWheelConsulting
 
 ---
 
-About this blog
+Brad Stenger studies Computer Science at the University of Vermont.
