@@ -15,7 +15,7 @@ Biolyz references 125 biomarkers that are relevant to athletic performance, a nu
 
 Could something like Biolyz work for high stakes professional and college sports leagues in the U.S.? The compact geography of Europe works in favor of Biolyz' rapid processing. The company's academic roots also set Biolyz up to translate and commercialize what had been a research project. T
 
-wo paths to create a similar service might work in American sports. Regional sports mass spec labs could spin up in places with large enough athlete and technician populations, helped by investment from deep-pocketed sports team(s) who want the competitive advantage. Alternatively, global mass spec manufacturers like Thermo Rest or Agilent might look to sports as a way to increase their public profile with the attention that partnership with a sports league offers. 
+Two paths to create a similar service might work in American sports. Regional sports mass spec labs could spin up in places with large enough athlete and technician populations, helped by investment from deep-pocketed sports team(s) who want the competitive advantage. Alternatively, global mass spec manufacturers like Thermo Rest or Agilent might look to sports as a way to increase their public profile with the attention that partnership with a sports league offers. 
 
 For comparison, sample testing on drawn blood in the U.S. takes 7-14 days and returns 50-70 biomarkers. Blood test cost hundreds of dollars despite (or maybe because of) the nationwide network of medical and lab infrastructure that supports blood testing. 
 
