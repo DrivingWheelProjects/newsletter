@@ -3,6 +3,7 @@ title: "ADCN: Journaling, Stacks vs. Open, Big Data Bowl"
 author: "Brad Stenger"
 date: "2025-10-29"
 ---
+
 Bumps in the road to regular newsletter production. I think that there will progress toward a weekly ADCN newsletter between now and the end of the year. Once I achieve some consistency I should be able to end the "soft" launch phase that we need to work through. PhD research is, in its way, a content pipeline. The key to regular newsletter production will be wrestling the PhD content pipeline into something readable. Thanks for your patience.
 
 ### Journaling with Wearables
