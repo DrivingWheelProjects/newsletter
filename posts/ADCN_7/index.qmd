@@ -54,7 +54,11 @@ Eric Cressey is Director of Player Performance for the New York Yankees and a lo
 ### More News
 
 * [The effects of stroboscopic vision training on physical performance in athletes: a systematic review](https://link.springer.com/article/10.1186/s13102-025-01459-x) *BMC Sports Science, Medicine and Rehabilitation* journal by Birgul Dingirdan Gultekinler et al. on Dec 19
+
 * [Perspectives on sports analytics to inform constraint manipulation, representative learning and functional variability in practice design](https://www.sciencedirect.com/science/article/abs/pii/S0167945725001290) *Human Movement Science* journal by Ben Teune et al. on Dec 21
+
 * [The National Science Foundation just had a big reorganization. Here are five things to know](https://www.science.org/content/article/national-science-foundation-just-had-big-reorganization-here-are-five-things-know) *Science*, ScienceInsider by Jeffrey Mervis on Dec 29
+
 * [An App, an Apple Watch and AI: UMass Amherst Creates a New Way for Researchers to Study Sleep Health](https://www.umass.edu/news/article/app-apple-watch-and-ai-umass-amherst-creates-new-way-researchers-study-sleep-health) *News Release* University of Massachusetts Amherst on Oct 29
+
 * [Peripheral Labs taps into self-driving car sensors to bring sports fans right into the game](https://techcrunch.com/2025/12/18/peripheral-labs-taps-into-self-driving-car-sensors-to-bring-sports-fans-right-into-the-game/) *TechCrunch* by Ivan Mehta on Dec 18
