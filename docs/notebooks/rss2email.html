@@ -158,99 +158,118 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 
-<div id="8884c899" class="cell" data-execution_count="2">
+<div id="8884c899" class="cell">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> os</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> dotenv <span class="im">import</span> load_dotenv</span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>load_dotenv()</span>
 <span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>os.environ.get(<span class="st">'SENDGRID_ALT_KEY'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-display" data-execution_count="2">
-<pre><code>'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'</code></pre>
-</div>
 </div>
 <div id="04ca7b21" class="cell" data-execution_count="4">
-<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> sendgrid</span>
-<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> os</span>
-<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> dotenv <span class="im">import</span> load_dotenv</span>
-<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>load_dotenv()</span>
-<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>sg <span class="op">=</span> sendgrid.SendGridAPIClient(os.environ.get(<span class="st">'SENDGRID_API_KEY'</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> sendgrid</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> os</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> dotenv <span class="im">import</span> load_dotenv</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>load_dotenv()</span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>sg <span class="op">=</span> sendgrid.SendGridAPIClient(os.environ.get(<span class="st">'SENDGRID_API_KEY'</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <div id="c068bda2" class="cell">
-<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="co"># test SendGrid mailing list operations</span></span>
-<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> sendgrid</span>
-<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> os</span>
-<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> dotenv <span class="im">import</span> load_dotenv</span>
-<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>load_dotenv()</span>
-<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>sg <span class="op">=</span> sendgrid.SendGridAPIClient(os.environ.get(<span class="st">'SENDGRID_API_KEY'</span>))</span>
-<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a>params <span class="op">=</span> {<span class="st">'page'</span>: <span class="dv">1</span>, <span class="st">'page_size'</span>: <span class="dv">1</span>}</span>
-<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a>response <span class="op">=</span> sg.client.contactdb.recipients.get(query_params<span class="op">=</span>params)</span>
-<span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(response.status_code)</span>
-<span id="cb4-10"><a href="#cb4-10" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(response.body)</span>
-<span id="cb4-11"><a href="#cb4-11" aria-hidden="true" tabindex="-1"></a><span class="co">#print(response.headers)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co"># test SendGrid mailing list operations</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> sendgrid</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> os</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> dotenv <span class="im">import</span> load_dotenv</span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>load_dotenv()</span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>sg <span class="op">=</span> sendgrid.SendGridAPIClient(os.environ.get(<span class="st">'SENDGRID_API_KEY'</span>))</span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>params <span class="op">=</span> {<span class="st">'page'</span>: <span class="dv">1</span>, <span class="st">'page_size'</span>: <span class="dv">1</span>}</span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>response <span class="op">=</span> sg.client.contactdb.recipients.get(query_params<span class="op">=</span>params)</span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(response.status_code)</span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(response.body)</span>
+<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a><span class="co">#print(response.headers)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <div id="f3c265d2" class="cell">
-<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Sendgrid retrieve recipients</span></span>
-<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> os</span>
-<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> sendgrid <span class="im">import</span> SendGridAPIClient</span>
-<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> json</span>
-<span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
-<span id="cb5-6"><a href="#cb5-6" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> requests</span>
-<span id="cb5-7"><a href="#cb5-7" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> io <span class="im">import</span> StringIO</span>
-<span id="cb5-8"><a href="#cb5-8" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb5-9"><a href="#cb5-9" aria-hidden="true" tabindex="-1"></a>sg <span class="op">=</span> SendGridAPIClient(os.environ.get(<span class="st">'SENDGRID_API_KEY'</span>))</span>
-<span id="cb5-10"><a href="#cb5-10" aria-hidden="true" tabindex="-1"></a>response <span class="op">=</span> sg.client.marketing.contacts.exports.post()</span>
-<span id="cb5-11"><a href="#cb5-11" aria-hidden="true" tabindex="-1"></a><span class="bu">id</span> <span class="op">=</span> response.body.decode(<span class="st">"utf-8"</span>)</span>
-<span id="cb5-12"><a href="#cb5-12" aria-hidden="true" tabindex="-1"></a>response <span class="op">=</span> sg.client.marketing.contacts.exports._(json.loads(<span class="bu">id</span>)[<span class="st">'id'</span>]).get()</span>
-<span id="cb5-13"><a href="#cb5-13" aria-hidden="true" tabindex="-1"></a>urls <span class="op">=</span> response.body.decode(<span class="st">"utf-8"</span>)</span>
-<span id="cb5-14"><a href="#cb5-14" aria-hidden="true" tabindex="-1"></a>download <span class="op">=</span> json.loads(urls)[<span class="st">"urls"</span>][<span class="dv">0</span>]</span>
-<span id="cb5-15"><a href="#cb5-15" aria-hidden="true" tabindex="-1"></a>req <span class="op">=</span> requests.get(download)</span>
-<span id="cb5-16"><a href="#cb5-16" aria-hidden="true" tabindex="-1"></a>df <span class="op">=</span> pd.read_csv(StringIO(req.text))</span>
-<span id="cb5-17"><a href="#cb5-17" aria-hidden="true" tabindex="-1"></a>df[<span class="st">'EMAIL'</span>]</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Sendgrid retrieve recipients</span></span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> os</span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> sendgrid <span class="im">import</span> SendGridAPIClient</span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> json</span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> time</span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
+<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> requests</span>
+<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> io <span class="im">import</span> StringIO</span>
+<span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-10"><a href="#cb4-10" aria-hidden="true" tabindex="-1"></a>sg <span class="op">=</span> SendGridAPIClient(os.environ.get(<span class="st">'SENDGRID_API_KEY'</span>))</span>
+<span id="cb4-11"><a href="#cb4-11" aria-hidden="true" tabindex="-1"></a>response <span class="op">=</span> sg.client.marketing.contacts.exports.post()</span>
+<span id="cb4-12"><a href="#cb4-12" aria-hidden="true" tabindex="-1"></a><span class="bu">id</span> <span class="op">=</span> response.body.decode(<span class="st">"utf-8"</span>)</span>
+<span id="cb4-13"><a href="#cb4-13" aria-hidden="true" tabindex="-1"></a>response <span class="op">=</span> sg.client.marketing.contacts.exports._(json.loads(<span class="bu">id</span>)[<span class="st">'id'</span>]).get()</span>
+<span id="cb4-14"><a href="#cb4-14" aria-hidden="true" tabindex="-1"></a>time.sleep(<span class="dv">10</span>)</span>
+<span id="cb4-15"><a href="#cb4-15" aria-hidden="true" tabindex="-1"></a>urls <span class="op">=</span> response.body.decode(<span class="st">"utf-8"</span>)</span>
+<span id="cb4-16"><a href="#cb4-16" aria-hidden="true" tabindex="-1"></a>download <span class="op">=</span> json.loads(urls)[<span class="st">"urls"</span>][<span class="dv">0</span>]</span>
+<span id="cb4-17"><a href="#cb4-17" aria-hidden="true" tabindex="-1"></a>req <span class="op">=</span> requests.get(download)</span>
+<span id="cb4-18"><a href="#cb4-18" aria-hidden="true" tabindex="-1"></a>df <span class="op">=</span> pd.read_csv(StringIO(req.text))</span>
+<span id="cb4-19"><a href="#cb4-19" aria-hidden="true" tabindex="-1"></a>df[<span class="st">'EMAIL'</span>]</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-error">
+<div class="ansi-escaped-output">
+<pre><span class="ansi-red-fg">---------------------------------------------------------------------------</span>
+<span class="ansi-red-fg">IndexError</span>                                Traceback (most recent call last)
+<span class="ansi-cyan-fg">Cell</span><span class="ansi-cyan-fg"> </span><span class="ansi-green-fg">In[52]</span><span class="ansi-green-fg">, line 16</span>
+<span class="ansi-green-fg">     14</span> time.sleep(<span class="ansi-green-fg">3</span>)
+<span class="ansi-green-fg">     15</span> urls = response.body.decode(<span class="ansi-yellow-fg">"</span><span class="ansi-yellow-fg">utf-8</span><span class="ansi-yellow-fg">"</span>)
+<span class="ansi-green-fg">---&gt; </span><span class="ansi-green-fg">16</span> download = json.loads(urls)[<span class="ansi-yellow-fg">"</span><span class="ansi-yellow-fg">urls</span><span class="ansi-yellow-fg">"</span>][<span class="ansi-green-fg">0</span>]
+<span class="ansi-green-fg">     17</span> req = requests.get(download)
+<span class="ansi-green-fg">     18</span> df = pd.read_csv(StringIO(req.text))
+
+<span class="ansi-red-fg">IndexError</span>: list index out of range</pre>
+</div>
+</div>
+</div>
+<div id="677777f8" class="cell" data-execution_count="51">
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>response.body</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="51">
+<pre><code>b'{"id":"1eb4d0fe-568b-4a62-864f-8d0f2afa204d","status":"pending","created_at":"2026-01-14T22:22:25Z","updated_at":"2026-01-14T22:22:25Z","completed_at":"1970-01-01T00:00:00Z","expires_at":"2026-01-15T10:22:25Z","urls":[],"user_id":1757996,"export_type":"contacts_export","segments":[],"lists":null,"_metadata":{"self":"https://api.sendgrid.com/v3/marketing/contacts/export/1eb4d0fe-568b-4a62-864f-8d0f2afa204d"}}\n'</code></pre>
+</div>
 </div>
 <p>parse index.xml to get latest feed item</p>
 <div id="85797e3d" class="cell">
-<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> feedparser</span>
-<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a>feed <span class="op">=</span> feedparser.parse(<span class="st">'../docs/index.xml'</span>)</span>
-<span id="cb6-4"><a href="#cb6-4" aria-hidden="true" tabindex="-1"></a>newsletter <span class="op">=</span> feed.entries[<span class="dv">0</span>]</span>
-<span id="cb6-5"><a href="#cb6-5" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(newsletter.title)</span>
-<span id="cb6-6"><a href="#cb6-6" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(newsletter.description)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> feedparser</span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a>feed <span class="op">=</span> feedparser.parse(<span class="st">'../docs/index.xml'</span>)</span>
+<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a>newsletter <span class="op">=</span> feed.entries[<span class="dv">0</span>]</span>
+<span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(newsletter.title)</span>
+<span id="cb7-6"><a href="#cb7-6" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(newsletter.description)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <div id="6c7c7e1d" class="cell">
-<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> re</span>
-<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> bs4 <span class="im">import</span> BeautifulSoup</span>
-<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a>soup <span class="op">=</span> BeautifulSoup(newsletter.description, <span class="st">'html.parser'</span>)</span>
-<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a>sections <span class="op">=</span> soup.find_all(<span class="st">'section'</span>)</span>
-<span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a>subject <span class="op">=</span> <span class="st">'"subject": "'</span> <span class="op">+</span> newsletter.title <span class="op">+</span> <span class="st">'"'</span></span>
-<span id="cb7-6"><a href="#cb7-6" aria-hidden="true" tabindex="-1"></a>introduction <span class="op">=</span> <span class="st">'"introduction":'</span> <span class="op">+</span> <span class="st">'['</span> <span class="op">+</span> <span class="st">","</span>.join([ <span class="st">'{"p":"'</span> <span class="op">+</span> re.sub(<span class="vs">r'"'</span>, <span class="vs">r'</span><span class="ch">\"</span><span class="vs">'</span>, <span class="bu">str</span>(p))  <span class="op">+</span> <span class="st">'"}'</span> <span class="cf">for</span> p <span class="kw">in</span> <span class="bu">reversed</span>(sections[<span class="dv">0</span>].find_previous_siblings(<span class="st">'p'</span>))]) <span class="op">+</span> <span class="st">']'</span></span>
-<span id="cb7-7"><a href="#cb7-7" aria-hidden="true" tabindex="-1"></a><span class="co">#section = '"sections":' + '[' + ",".join([ '{"section":"' + re.sub(r'"', r'\"', str(s)) + '"}' for s in sections]) + ']'</span></span>
-<span id="cb7-8"><a href="#cb7-8" aria-hidden="true" tabindex="-1"></a>section <span class="op">=</span> []</span>
-<span id="cb7-9"><a href="#cb7-9" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> s <span class="kw">in</span> sections:</span>
-<span id="cb7-10"><a href="#cb7-10" aria-hidden="true" tabindex="-1"></a>    heading <span class="op">=</span> <span class="st">'"heading": "'</span> <span class="op">+</span> re.sub(<span class="vs">r'"'</span>, <span class="vs">r'</span><span class="ch">\"</span><span class="vs">'</span>, <span class="bu">str</span>(s.find(<span class="st">'h3'</span>))) <span class="op">+</span> <span class="st">'"'</span></span>
-<span id="cb7-11"><a href="#cb7-11" aria-hidden="true" tabindex="-1"></a>    description <span class="op">=</span> <span class="st">'"description": "'</span> <span class="op">+</span> re.sub(<span class="vs">r'"'</span>, <span class="vs">r'</span><span class="ch">\"</span><span class="vs">'</span>, <span class="bu">str</span>(s.find(<span class="st">'p'</span>))) <span class="op">+</span> <span class="st">'"'</span></span>
-<span id="cb7-12"><a href="#cb7-12" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> s.find(<span class="st">'ul'</span>):</span>
-<span id="cb7-13"><a href="#cb7-13" aria-hidden="true" tabindex="-1"></a>        paragraphs <span class="op">=</span> <span class="st">'"paragraphs":'</span> <span class="op">+</span> <span class="st">'['</span> <span class="op">+</span> <span class="st">","</span>.join([ <span class="st">'{"p":"'</span> <span class="op">+</span> re.sub(<span class="vs">r'"'</span>, <span class="vs">r'</span><span class="ch">\"</span><span class="vs">'</span>, <span class="bu">str</span>(p))  <span class="op">+</span> <span class="st">'"}'</span> <span class="cf">for</span> p <span class="kw">in</span> s.find(<span class="st">'li'</span>).find_next_siblings(<span class="st">'li'</span>)]) <span class="op">+</span> <span class="st">']'</span></span>
-<span id="cb7-14"><a href="#cb7-14" aria-hidden="true" tabindex="-1"></a>    <span class="cf">else</span>:</span>
-<span id="cb7-15"><a href="#cb7-15" aria-hidden="true" tabindex="-1"></a>        paragraphs <span class="op">=</span> <span class="st">'"paragraphs":'</span> <span class="op">+</span> <span class="st">'['</span> <span class="op">+</span> <span class="st">","</span>.join([ <span class="st">'{"p":"'</span> <span class="op">+</span> re.sub(<span class="vs">r'"'</span>, <span class="vs">r'</span><span class="ch">\"</span><span class="vs">'</span>, <span class="bu">str</span>(p))  <span class="op">+</span> <span class="st">'"}'</span> <span class="cf">for</span> p <span class="kw">in</span> s.find(<span class="st">'p'</span>).find_next_siblings(<span class="st">'p'</span>)]) <span class="op">+</span> <span class="st">']'</span></span>
-<span id="cb7-16"><a href="#cb7-16" aria-hidden="true" tabindex="-1"></a>    sec <span class="op">=</span> <span class="st">'{"section": {'</span> <span class="op">+</span> heading <span class="op">+</span> <span class="st">', '</span> <span class="op">+</span> description <span class="op">+</span> <span class="st">', '</span> <span class="op">+</span> paragraphs <span class="op">+</span> <span class="st">'</span><span class="sc">}}</span><span class="st">'</span></span>
-<span id="cb7-17"><a href="#cb7-17" aria-hidden="true" tabindex="-1"></a>    section.append(sec)</span>
-<span id="cb7-18"><a href="#cb7-18" aria-hidden="true" tabindex="-1"></a>h_sections <span class="op">=</span> <span class="st">'"sections": ['</span> <span class="op">+</span> <span class="st">","</span>.join(section) <span class="op">+</span> <span class="st">']'</span></span>
-<span id="cb7-19"><a href="#cb7-19" aria-hidden="true" tabindex="-1"></a>handlebar <span class="op">=</span> <span class="st">'{'</span> <span class="op">+</span> subject <span class="op">+</span> <span class="st">', '</span> <span class="op">+</span> introduction <span class="op">+</span> <span class="st">', '</span> <span class="op">+</span> h_sections <span class="op">+</span> <span class="st">'}'</span></span>
-<span id="cb7-20"><a href="#cb7-20" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(handlebar)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb8"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> re</span>
+<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> bs4 <span class="im">import</span> BeautifulSoup</span>
+<span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a>soup <span class="op">=</span> BeautifulSoup(newsletter.description, <span class="st">'html.parser'</span>)</span>
+<span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a>sections <span class="op">=</span> soup.find_all(<span class="st">'section'</span>)</span>
+<span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a>subject <span class="op">=</span> <span class="st">'"subject": "'</span> <span class="op">+</span> newsletter.title <span class="op">+</span> <span class="st">'"'</span></span>
+<span id="cb8-6"><a href="#cb8-6" aria-hidden="true" tabindex="-1"></a>introduction <span class="op">=</span> <span class="st">'"introduction":'</span> <span class="op">+</span> <span class="st">'['</span> <span class="op">+</span> <span class="st">","</span>.join([ <span class="st">'{"p":"'</span> <span class="op">+</span> re.sub(<span class="vs">r'"'</span>, <span class="vs">r'</span><span class="ch">\"</span><span class="vs">'</span>, <span class="bu">str</span>(p))  <span class="op">+</span> <span class="st">'"}'</span> <span class="cf">for</span> p <span class="kw">in</span> <span class="bu">reversed</span>(sections[<span class="dv">0</span>].find_previous_siblings(<span class="st">'p'</span>))]) <span class="op">+</span> <span class="st">']'</span></span>
+<span id="cb8-7"><a href="#cb8-7" aria-hidden="true" tabindex="-1"></a><span class="co">#section = '"sections":' + '[' + ",".join([ '{"section":"' + re.sub(r'"', r'\"', str(s)) + '"}' for s in sections]) + ']'</span></span>
+<span id="cb8-8"><a href="#cb8-8" aria-hidden="true" tabindex="-1"></a>section <span class="op">=</span> []</span>
+<span id="cb8-9"><a href="#cb8-9" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> s <span class="kw">in</span> sections:</span>
+<span id="cb8-10"><a href="#cb8-10" aria-hidden="true" tabindex="-1"></a>    heading <span class="op">=</span> <span class="st">'"heading": "'</span> <span class="op">+</span> re.sub(<span class="vs">r'"'</span>, <span class="vs">r'</span><span class="ch">\"</span><span class="vs">'</span>, <span class="bu">str</span>(s.find(<span class="st">'h3'</span>))) <span class="op">+</span> <span class="st">'"'</span></span>
+<span id="cb8-11"><a href="#cb8-11" aria-hidden="true" tabindex="-1"></a>    description <span class="op">=</span> <span class="st">'"description": "'</span> <span class="op">+</span> re.sub(<span class="vs">r'"'</span>, <span class="vs">r'</span><span class="ch">\"</span><span class="vs">'</span>, <span class="bu">str</span>(s.find(<span class="st">'p'</span>))) <span class="op">+</span> <span class="st">'"'</span></span>
+<span id="cb8-12"><a href="#cb8-12" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> s.find(<span class="st">'ul'</span>):</span>
+<span id="cb8-13"><a href="#cb8-13" aria-hidden="true" tabindex="-1"></a>        paragraphs <span class="op">=</span> <span class="st">'"paragraphs":'</span> <span class="op">+</span> <span class="st">'['</span> <span class="op">+</span> <span class="st">","</span>.join([ <span class="st">'{"p":"'</span> <span class="op">+</span> re.sub(<span class="vs">r'"'</span>, <span class="vs">r'</span><span class="ch">\"</span><span class="vs">'</span>, <span class="bu">str</span>(p))  <span class="op">+</span> <span class="st">'"}'</span> <span class="cf">for</span> p <span class="kw">in</span> s.find(<span class="st">'li'</span>).find_next_siblings(<span class="st">'li'</span>)]) <span class="op">+</span> <span class="st">']'</span></span>
+<span id="cb8-14"><a href="#cb8-14" aria-hidden="true" tabindex="-1"></a>    <span class="cf">else</span>:</span>
+<span id="cb8-15"><a href="#cb8-15" aria-hidden="true" tabindex="-1"></a>        paragraphs <span class="op">=</span> <span class="st">'"paragraphs":'</span> <span class="op">+</span> <span class="st">'['</span> <span class="op">+</span> <span class="st">","</span>.join([ <span class="st">'{"p":"'</span> <span class="op">+</span> re.sub(<span class="vs">r'"'</span>, <span class="vs">r'</span><span class="ch">\"</span><span class="vs">'</span>, <span class="bu">str</span>(p))  <span class="op">+</span> <span class="st">'"}'</span> <span class="cf">for</span> p <span class="kw">in</span> s.find(<span class="st">'p'</span>).find_next_siblings(<span class="st">'p'</span>)]) <span class="op">+</span> <span class="st">']'</span></span>
+<span id="cb8-16"><a href="#cb8-16" aria-hidden="true" tabindex="-1"></a>    sec <span class="op">=</span> <span class="st">'{"section": {'</span> <span class="op">+</span> heading <span class="op">+</span> <span class="st">', '</span> <span class="op">+</span> description <span class="op">+</span> <span class="st">', '</span> <span class="op">+</span> paragraphs <span class="op">+</span> <span class="st">'</span><span class="sc">}}</span><span class="st">'</span></span>
+<span id="cb8-17"><a href="#cb8-17" aria-hidden="true" tabindex="-1"></a>    section.append(sec)</span>
+<span id="cb8-18"><a href="#cb8-18" aria-hidden="true" tabindex="-1"></a>h_sections <span class="op">=</span> <span class="st">'"sections": ['</span> <span class="op">+</span> <span class="st">","</span>.join(section) <span class="op">+</span> <span class="st">']'</span></span>
+<span id="cb8-19"><a href="#cb8-19" aria-hidden="true" tabindex="-1"></a>handlebar <span class="op">=</span> <span class="st">'{'</span> <span class="op">+</span> subject <span class="op">+</span> <span class="st">', '</span> <span class="op">+</span> introduction <span class="op">+</span> <span class="st">', '</span> <span class="op">+</span> h_sections <span class="op">+</span> <span class="st">'}'</span></span>
+<span id="cb8-20"><a href="#cb8-20" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(handlebar)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <div id="e75042f2" class="cell">
-<div class="sourceCode cell-code" id="cb8"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> sendgrid</span>
-<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> os</span>
-<span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> sendgrid.helpers.mail <span class="im">import</span> <span class="op">*</span></span>
-<span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> dotenv <span class="im">import</span> load_dotenv</span>
-<span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a>load_dotenv()</span>
-<span id="cb8-6"><a href="#cb8-6" aria-hidden="true" tabindex="-1"></a>emails <span class="op">=</span> [] <span class="co">#..fill as needed</span></span>
-<span id="cb8-7"><a href="#cb8-7" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> email <span class="kw">in</span> emails:</span>
-<span id="cb8-8"><a href="#cb8-8" aria-hidden="true" tabindex="-1"></a>    sg <span class="op">=</span> sendgrid.SendGridAPIClient(os.environ.get(<span class="st">'SENDGRID_API_KEY'</span>))</span>
-<span id="cb8-9"><a href="#cb8-9" aria-hidden="true" tabindex="-1"></a>    message <span class="op">=</span> Mail(from_email<span class="op">=</span>os.environ.get(<span class="st">'SENDGRID_SENDER_EMAIL'</span>), to_emails<span class="op">=</span>email)</span>
-<span id="cb8-10"><a href="#cb8-10" aria-hidden="true" tabindex="-1"></a>    message.dynamic_template_data <span class="op">=</span> <span class="bu">eval</span>(handlebar)</span>
-<span id="cb8-11"><a href="#cb8-11" aria-hidden="true" tabindex="-1"></a>    message.template_id <span class="op">=</span> os.environ.get(<span class="st">'SENDGRID_TEMPLATE_ID'</span>)</span>
-<span id="cb8-12"><a href="#cb8-12" aria-hidden="true" tabindex="-1"></a>    response <span class="op">=</span> sg.send(message)</span>
-<span id="cb8-13"><a href="#cb8-13" aria-hidden="true" tabindex="-1"></a>    <span class="bu">print</span>(response.status_code, email)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb9"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> sendgrid</span>
+<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> os</span>
+<span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> sendgrid.helpers.mail <span class="im">import</span> <span class="op">*</span></span>
+<span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> dotenv <span class="im">import</span> load_dotenv</span>
+<span id="cb9-5"><a href="#cb9-5" aria-hidden="true" tabindex="-1"></a>load_dotenv()</span>
+<span id="cb9-6"><a href="#cb9-6" aria-hidden="true" tabindex="-1"></a>emails <span class="op">=</span> [] <span class="co">#..fill as needed</span></span>
+<span id="cb9-7"><a href="#cb9-7" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> email <span class="kw">in</span> emails:</span>
+<span id="cb9-8"><a href="#cb9-8" aria-hidden="true" tabindex="-1"></a>    sg <span class="op">=</span> sendgrid.SendGridAPIClient(os.environ.get(<span class="st">'SENDGRID_API_KEY'</span>))</span>
+<span id="cb9-9"><a href="#cb9-9" aria-hidden="true" tabindex="-1"></a>    message <span class="op">=</span> Mail(from_email<span class="op">=</span>os.environ.get(<span class="st">'SENDGRID_SENDER_EMAIL'</span>), to_emails<span class="op">=</span>email)</span>
+<span id="cb9-10"><a href="#cb9-10" aria-hidden="true" tabindex="-1"></a>    message.dynamic_template_data <span class="op">=</span> <span class="bu">eval</span>(handlebar)</span>
+<span id="cb9-11"><a href="#cb9-11" aria-hidden="true" tabindex="-1"></a>    message.template_id <span class="op">=</span> os.environ.get(<span class="st">'SENDGRID_TEMPLATE_ID'</span>)</span>
+<span id="cb9-12"><a href="#cb9-12" aria-hidden="true" tabindex="-1"></a>    response <span class="op">=</span> sg.send(message)</span>
+<span id="cb9-13"><a href="#cb9-13" aria-hidden="true" tabindex="-1"></a>    <span class="bu">print</span>(response.status_code, email)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 
 
