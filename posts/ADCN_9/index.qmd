@@ -7,7 +7,7 @@ The Athletes Data Community Newsletter (ADCN) is produced by [Brad Stenger](http
 
 ### University Research in Open Biomechanics
 
-The KneeHub project just published [an update](https://asmedigitalcollection.asme.org/biomechanical/article/doi/10.1115/1.4070823/1229924/Deciphering-the-Art-in-Modeling-and-Simulation-of) to a biomechanics models benchmarking [study](https://pmc.ncbi.nlm.nih.gov/articles/PMC8086182/) first published in 2021. KneeHub was conceived as a way to determine what's art and what's science in the process of constructing biomechanical models. Five teams independently developed knee biomechanics models using their preferred workflow. Different workflows produced different predictions for the same scenarios. But all of the differences could be explained. "Our most important conclusion," the authors wrote, is "the ability of [biomechanics] models to predict beyond the conditions used to calibrate them."
+The KneeHub project just published [an update](https://asmedigitalcollection.asme.org/biomechanical/article/doi/10.1115/1.4070823/1229924/Deciphering-the-Art-in-Modeling-and-Simulation-of) to a biomechanics models benchmarking [study](https://pmc.ncbi.nlm.nih.gov/articles/PMC8086182/) first published in 2021. KneeHub was conceived as a way to determine what's art and what's science in the process of constructing biomechanical models. Five teams independently developed knee biomechanics models using their preferred workflow. Different workflows produced different predictions for the same scenarios. But all of the differences in the models' results could be explained. "Our most important conclusion," the authors wrote, is "the ability of [biomechanics] models to predict beyond the conditions used to calibrate them."
 
 The result offers useful validation for personalized approaches to neuromuscular rehabilitation. Another recent advance comes from B.J. Fregly's group at Rice University. The Neuromusculoskeletal Modeling (NMSM) Pipeline [software](https://news.rice.edu/news/2025/rice-researchers-engineer-personalized-treatments-movement-impairments) "allows researchers to work in collaboration with clinicians to construct personalized neuromusculoskeletal computer models of individual patients (i.e., digital twins)" then use those models for surgical or neuromuscular rehabilitation treatments. The digital twin gives clinicians the opportunity to explore and test treatment paths, leading to greater confidence in expected outcomes.
 
@@ -17,7 +17,7 @@ This is, I think, what you want to see for progress in Open computational biomec
 
 ### U.S. Sport Policy Coming Through Congress (Or Not)
 
-[![](trahan_summit.jpeg)](https://x.com/MarkTMcDevitt/status/2011855029930508684)
+[![](trahan_summit.png)](https://x.com/MarkTMcDevitt/status/2011855029930508684)
 
 The last two weeks had more mentions of college athlete rights than the last two years. It's a low bar. There hasn't been very many.
 
