@@ -19,7 +19,7 @@ This is, I think, what you want to see for progress in Open computational biomec
 
 [![](trahan_summit.jpeg)](https://x.com/MarkTMcDevitt/status/2011855029930508684)
 
-The last two weeks had more mentions of college athlete rights than the last two years. It's a low bar. There weren't many.
+The last two weeks had more mentions of college athlete rights than the last two years. It's a low bar. There hasn't been very many.
 
 The change in public sports vocabulary comes, in large part, from new federal legislation timed to coincide with the annual NCAA Convention held in Washington DC and the College Football Playoff Title game between Miami and Indiana (not in Washington DC). The noise in government circles was captured by The Hill's Dominick Mastrangelo [who wrote](https://thehill.com/homenews/senate/5693051-lawmakers-target-ncaa-profits/), "Lawmakers in both parties are outraged at the NCAA and signaling intervention from Congress on athlete compensation and revenue sharing is inevitable."
 
@@ -37,9 +37,9 @@ Except, maybe not. Athlete rights figured prominently in the discussion at [the 
 
 These are the early days of sport policy in the U.S., which is to say the public policy around sport. Australia is a country that has had government sport policy for 50 years, going back to the nation's dismal performance in the Montreal Olympics, according to [a research paper](https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2025.1656342/full) by University of Canberra professor Charles Mountifield. 
 
-Mountifield makes the point that where sport policy had been national sports participation initiative, it has lately become a professional athlete and sports media policy. Also of late, Australia is [a mostly sedentary nation](https://www.heartfoundation.org.au/blueprint), like the U.S.
+Mountifield makes the point that where sport policy had at first been a national sports participation initiative, it has lately become a professional athlete and sports media policy. Also of late, Australia is [a mostly sedentary nation](https://www.heartfoundation.org.au/blueprint), like the U.S.
 
-The emerging U.S. sport policy looks like a mistake that underrepresents most, nearly all, college student-athletes, and instead represents university commercial interests to those athletes' detriment.
+The emerging U.S. sport policy looks like a mistake that underrepresents nearly all college student-athletes, and instead represents university commercial interests that are often not in the best interests of student-athletes.
 
 Awhile back I had a conversation with an analyst who worked for the Chicago Cubs. The injury crisis for baseball pitchers was something he worked on directly, overseeing data sharing between the Cubs, the Tampa Bay Rays and a handful of other MLB teams. Those teams hoped that their data collaboration would help the teams' researchers to solve, or at least improve, the pitching injuries situation. He also told me about a proposal he had made to MLB to fund biomechanics pitching labs for any NCAA school that would be willing to share its biomechanics and injury-related data. (The idea went nowhere.) If one agrees that data sharing is crucial for reducing sports injuries, then U.S. sport policy can reasonably be understood as, at least in part, public health policy.
 
