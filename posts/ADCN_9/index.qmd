@@ -3,7 +3,7 @@ title: "ADCN: Open Biomechanics Research, U.S. Sport Policy, News"
 author: "Brad Stenger"
 date: "2026-01-23"
 ---
-The Athletes Data Community Newsletter (ADCN) is produced by Brad Stenger, a researcher studying applied privacy technologies in the context of athletes' data at the University of Vermont. The newsletter covers the athletes' health and performance data pipeline, from collection to management to reporting, and the factors affecting athletes' data.
+The Athletes Data Community Newsletter (ADCN) is produced by [Brad Stenger](https://newsletter.bradstenger.com/), a researcher studying applied privacy technologies in the context of athletes' data at the University of Vermont. The newsletter covers the athletes' health and performance data pipeline, from collection to management to reporting, and the factors affecting athletes' data. Thanks for reading!
 
 ### University Research in Open Biomechanics
 
