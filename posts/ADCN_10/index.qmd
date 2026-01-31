@@ -1,0 +1,51 @@
+---
+title: "ADCN: Systems, Antetotokunmpo, Surveillance, News"
+author: "Brad Stenger"
+date: "2026-01-31"
+---
+
+### Reading into Systems
+
+The Arizona Diamondbacks baseball team recently posted a [job announcement](https://www.teamworkonline.com/baseball-jobs/arizona-diamondbacks-jobs/arizona-diamondbacks/director-baseball-systems-2152998) for a new Director, Baseball Systems. I read it closely out of curiosity. The way someone (or some group) writes about "systems" says a lot about what they know and because of that, a lot about who they are.
+
+There is really no ceiling to how complex a piece of systems writing can get. The University of Vermont will be giving me a [Certificate of Graduate Study in Complex Systems](https://vermontcomplexsystems.org/education/certificate/) along with my PhD. These courses were dense with statistics, math, non-lineary dynamics and network science. It can be very difficult to discuss this stuff with knowledge and clarity. So I always like to see how someone else handles the material. It's to be expected that an author's confidence or uncertainty will come through when the task is to write about systems.
+
+Not surprisingly the Systems job with the Diamondbacks was not written by an expert systems person. As I read it, the team wants a senior computing professional to elevate the technical capacity of Arizona's Baseball Operations group. The systems in question are not very specific, probably just databases, cloud infrastructure and the interfaces connecting everything., The role as written requires "strong ability to communicate complex technical concepts to both technical and non-technical audiences." Non-technical communication can be a net negative when the systems are a work-in-progress and those systems represent a technical leap forward for an organization. Better to build first and explain later. An organization with a better handle on "systems" would know that.
+
+For comparison, look at how the Los Angeles Dodgers looked up a University of Wisconsin particle physics and data science professor, looking for brains to add to the team's Baseball Operations.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I talked with the Director of Quantitative Analysis for the LA <a href="https://twitter.com/Dodgers?ref_src=twsrc%5Etfw">@Dodgers</a> yesterday. They are hiring and looking for physicists that have experience analyzing data, uncertainty quantification, and deep learning. Two jobs:<a href="https://t.co/AfwzfCVcpE">https://t.co/AfwzfCVcpE</a><a href="https://t.co/o0DkgmO2P9">https://t.co/o0DkgmO2P9</a></p>&mdash; Kyle Cranmer (@KyleCranmer) <a href="https://twitter.com/KyleCranmer/status/2014731618133352940?ref_src=twsrc%5Etfw">January 23, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+The path to advanced "systems" understanding goes through consultants. (Full disclosure: I consult.) In top-level European soccer, analytics consultants are a crucial first step to building competence inside the organization. A Hudl soccer consultant does a good explaining why. (See below.) Hiring a new singlehanded Director to establish new systems where none (or shit) existed before is a mistake.
+
+[![](DataStrategy.png)](https://x.com/ground_guru/status/2013934503631184315)
+
+Privacy-enhancing technology is, in general, not simple conceptually. The implementation of the technology is not simple. The execution of analysis with the privacy-altered (often synthetic) data is, again, not simple. Incorporating all of this into Operations asks for confidence and competence. In most circumstances those capabilities are reflected in how an organization writes (or speaks) on technical subjects. "Systems" writing is a one place to make these judgements.
+
+### Antetokounmpo: Strains and Stakes
+
+Giannis Antetokounmpo is [in the news](https://sports.yahoo.com/articles/long-giannis-antetokounmpo-calf-recovery-172439554.html). His impending trade from the team he led to an NBA championship is one thing. The other thing is his nagging calf strain which has him off the court and on the injured reserve. The two are related.
+
+High-stakes competition is a below-the-surface element of injury risk. The Pacers admitted that they would have chosen to sit Tyrese Halliburton if the games where he was injured were not NBA Finals games. When managing injury risk boils down to a play or don't-play decision, it ceases to be a actual decision when the stakes are high. As a result injury risk skyrockets. The Antetokounmpo's team, the Milwaukee Bucks, still have a chance to make the playoffs if their best player can get them there. There are no predictive models to say what's too much or too far to push an athlete. Antetokounmpo is smart to ask out of Milwaukee and in doing so avoid the competitive gauntlet that stands to wreck his body, and possibly his career.
+
+I did a longer analysis of risk models, calf strains and ruptured Achilles tendons last year. Read it [here](Assignment1.BradStenger.pdf).
+
+### Surveillance and Wearables in Tennis
+
+Athletes' data and privacy affected this year's Australian Open tennis tournament---twice. Tournament officals [enforced a ban](https://www.tennis.com/news/articles/data-is-not-steroids-whoop-fires-back-amid-australian-open-wearables-ban) on wearable fitness devices, primarily Whoop bands. Then surveillance camera images showed an unsuspecting Coco Gauff destroying equipment. Gauff [thought she had privacy](https://www.tennisworldusa.org/tennis/news/WTA_Tennis/163624/wta-issues-statement-on-player-privacy-following-coco-gauff-incident/).
+
+The ban on wristbands to track heartrate and other biometric measures by the Australian Open is meant to prevent messages coming to the player, messages that could provide a competitive advantage. Whoop devices are [a platform](https://developer.whoop.com/) where developers can extend what's possible with the technology and create custom (or commercial) services. The custom services are more likely to send than to receive data, but a Whoop can get notifications from a cell phone. The same is true for Garmin devices that have a slightly different business and service model from Whoop. (Garmin is [close to announcing](https://www.techradar.com/health-fitness/fitness-trackers/garmin-might-finally-be-launching-its-own-whoop-competitor-as-the-cirqa-smart-band-leaks-on-its-own-website) its version of a Whoop-like wearable device.)
+
+Tournament officials pointed out that optical tracking data (provided by [Bolt6](https://www.bolt6.ai/) at the Australian Open) is available to players' support teams, though the tracking data is not as useful as the biometric information from a wearable. Heartrate data has proven extremely valuable for endurance athletes. Major-tournament tennis is absolutely an endurance sport. The tennis product benefits from long rallies and five-set matches between its best athletes. 
+
+The second incident where Coco Gauff vented has been followed by [requests from other tour players](https://sports.yahoo.com/articles/amanda-anisimova-weighs-coco-gauff-202800669.html) to establish limits on how exposed they are to the public eye. Backroom athlete surveillance and the resulting exposure is in line with established legal precedents however. Those precedents put paid athletes alongside the range of public figures for whom diminished privacy is the social and legal norm.
+
+Surveillance is also a problem with biometrics and location trackers. The University of Oregon [summarized the issue](https://research.uoregon.edu/news/sensors-sport-fine-line-between-safety-and-surveillance) in a 2024 news release. According to UO sports and culture professor Courtney Cox, "The Moneyball concept has evolved somewhat into chasing the perfect algorithm for sports. It has also evolved in other ways: Where is the barrier between safety and surveillance? If you’re watching me sleep, does my sleep determine whether you let me start or keep my scholarship?"
+
+Daniel Solove is a leading U.S. authorities on law and privacy. In his [yearend review](https://danielsolove.substack.com/p/privacy-and-ai-law-in-2025) he called DOGE and federal government data collection "the greatest data breach in history." Solove's just-released [legal journal article](https://teachprivacy.com/privacy-in-authoritarian-times-surveillance-capitalism-and-government-surveillance-final-published-version/) documents the typology of privacy harms. And here he makes the point that the misuse of personal data has disproportionate impact on marginalized groups.
+
+[![](SolovePrivacyHarms.png)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5103271)
+
+Strava, the social network for all-levels running and biking, has been plagued by [surveillance leaks](https://gijn.org/stories/investigations-using-strava-fitness-app/) where military and security workers have been compromised by astute followers analyzing the public tracks on Strava. 
+
+Getting privacy practices right is an issue for athletes at every level: professional, college, youth and recreational.
