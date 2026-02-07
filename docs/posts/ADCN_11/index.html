@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Brad Stenger">
+<meta name="dcterms.date" content="2026-02-07">
 
-<title>Athletes Data Community Newsletter – newsletter</title>
+<title>ADCN: Baseball Player Development, Soccer Data Sharing, News – newsletter</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +25,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-a37c72dd2dbac68997fcdc15a3622e78.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-2e2a78c07a477a1d763148e43113f08b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-a37c72dd2dbac68997fcdc15a3622e78.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-2e2a78c07a477a1d763148e43113f08b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,68 +69,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="newsletter" href="index.xml" data-external="1"></head>
+<link rel="stylesheet" href="../../styles.css">
+</head>
 
 <body class="nav-fixed quarto-light">
 
@@ -139,7 +81,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">newsletter</span>
     </a>
   </div>
@@ -150,7 +92,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">Brad Stenger</span></a>
   </li>  
   <li class="nav-item compact">
@@ -168,21 +110,33 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Athletes Data Community Newsletter</h1>
+    <div class="quarto-title column-body">
+      <h1 class="title">ADCN: Baseball Player Development, Soccer Data Sharing, News</h1>
                       </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page-left">
+  <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Brad Stenger </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">February 7, 2026</p>
+      </div>
+    </div>
     
       
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
@@ -192,298 +146,52 @@ window.Quarto = {
 
 </div></div>
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(11)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
+<section id="athlete-development-baseball-does-the-most" class="level3">
+<h3 class="anchored" data-anchor-id="athlete-development-baseball-does-the-most">Athlete Development: Baseball Does the Most</h3>
+<p>Prospects alert! It’s almost time to begin playing professional baseball. <a href="https://www.espn.com/mlb/story/_/id/47754884/mlb-2026-driveline-baseball-hitting-lab-analytics-edgar-quero-chicago-white-sox">Advances</a> in baseball player development have made college and pro baseball compelling in a way that’s far different from five or ten years ago. The Moneyball foundation of homeruns and strikeouts still defines the modern baseball product and is still monotonous. <a href="https://undertheknife.substack.com/p/utk-special-12226">The good pitchers keep getting injured</a>, which is a problem. But the new faces and the dramatic improvement in player skill and performance are eye-opening. It’s an innovation story and who doesn’t like an innovation story.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://www.youtube.com/watch?v=SNm9c430hR4&amp;t=1265s"><img src="wfpds.png" class="img-fluid figure-img"></a></p>
+<figcaption>Josh Hejka answers a question at the Wake Forest baseball seminar in December, 2025.</figcaption>
+</figure>
+</div>
+<p>Josh Hejka made the point during a <a href="https://www.youtube.com/watch?v=SNm9c430hR4&amp;t=1265s">panel at the 2025 Wake Forest Player Development Seminar</a> that the majority of MLB baseball players have reached that level on talent alone. Their development trajectory is just beginning and some percentage will flourish with the elite biomechanics training programs. So this might be the best part of the season, when you get to see <a href="https://www.espn.com/mlb/story/_/id/47684236/top-100-mlb-prospects-2026-bold-predictions-kevin-mcgonigle-konnor-griffin-jj-wetherholt">bold! predictions</a> on this year’s new faces. You can read Eno Sarris’ <a href="https://www.nytimes.com/athletic/7010771/2026/02/03/mlb-starting-pitcher-rankings-2026-fantasy-baseball/">giant eport</a> on Stuff+ pitcher rankings (which also includes a functional health and sustainability assessment, meant for fantasy baseball but super-interesting nonetheless).</p>
+<p>The innovation story around athlete development is big in baseball, but it hits every sport. You can see it in football and quarterback development is central to this year’s Super Bowl. The path to the big game has been different for the Patriots’ Drake Maye and the Seahawks’ Sam Darnold. <a href="https://theringer.com/2026/02/05/nfl/drake-maye-sam-darnold-super-bowl-quarterback-progressions">This article</a> in The Ringer describes how each teams’ offensive coordinator helped their quarterback’s decision-making. There are two ways for a quarterback to read the situation during a passing play.</p>
+<p>A quarterback can pre-process the situation if he knows the limitations of the defensive alignment. But football teams have gotten better at disguising defense and an alternative emerged. Instead a quarterback should progress one option, Plan A, to the next, Plan B, and so on. A progression is an easier cognitive problem for a quarterback and with good play design can lead to good results. A smart quarterback and game planner combo can get their desired results through preprocessing. The Seahawks are the progression team. The Patriots are the preprocessing team. One team will win.</p>
+<p>I plan to tell more innovation and player development stories for <a href="https://www.si.com/nba/celtics/onsi/boston-celtics-get-another-critical-performance-from-two-way-player-showing-elite-player-development-system-01kgqatn5mp7">basketball</a>, <a href="https://thehockeynews.com/news/money-and-power/q-a-with-leafs-hayley-wickenheiser-player-development-hockey-s-fishbowl-and-wickfest">hockey</a> and <a href="https://x.com/socceramerica/status/2019878773039014290">soccer</a>, and for college sports. This is, in many ways, the demand side for athletes’ health and performance data. The supply side is not just the athletes. It’s the technology that collects and manages the data to inform athlete development. Some of my research into privacy and athletes’ data is precautionary. Done well and the work will head off problems that might otherwise slow down the innovation around athlete development. I will be telling those stories too.</p>
+</section>
+<section id="data-sharing-in-sports-some-of-the-how-and-why" class="level3">
+<h3 class="anchored" data-anchor-id="data-sharing-in-sports-some-of-the-how-and-why">Data Sharing in Sports: Some of the How and Why</h3>
+<p>The soccer data site <a href="https://fbref.com/en/">FBref</a> no longer has access to the a rich data pipeline provided to it by Opta and StatsPerform. Up until that point FBref was considered to be the most comprehensive no-cost public football data resource. <a href="https://www.nytimes.com/athletic/7002196/2026/01/28/fbref-opta-football-data-soccer-analytics/">The loss</a> creates a void in the soccer analytics community and <a href="https://www.theixsports.com/the-ix-soccer/fbrefs-loss-advanced-stats-womens-soccer-data-accessibility/">a major drop</a> in the data resources for global women’s soccer.</p>
+<p>This comes at a time when the NFL’s <a href="https://operations.nfl.com/gameday/analytics/big-data-bowl/">2026 Big Data Bowl</a> nears its conclusion. Michael Lopez, the Senior Director of Football Data and Analytics, <a href="">told the Wharton Moneyball podcast</a> that data is a football Field of Dreams, “if you have the data and make it available, they will analyze it.” Data availability is an opportunity for innovation and for community. According to Lopez, the competition and the data availability has strong support from the league and its member teams. The Big Data Bowl also benefits from a complimentary data set that is robust and no cost at <a href="https://nflfastr.com/">nflfastr</a> (accessible using R and Python).</p>
+<p>Major League Baseball has its <a href="https://baseballsavant.mlb.com/statcast_search">Statcast pitch-by-pitch data service</a>. This incredible resource (made it possible)[https://news.clemson.edu/bioengineering-ph-d-student-uses-baseball-tech-to-prevent-pitching-injuries-and-grow-analytics-group/] for Connor Moore to use machine learning and biomechanics to reverse engineer pitcher health from the velocity, location and pitch type of their throws. The work earned Moore <a href="https://open.clemson.edu/all_dissertations/4169/">his PhD</a> at Clemson University.</p>
+<p>I used to manage <a href="https://developer.nytimes.com/">the APIs at The New York Times</a> and we had strong support for making the data free and accessible. These were tools that the company’s developers could use to help create new products. More important was the participation that the free API generated in the college student hackathon community. The cost was small compared to the benefit. The same appears to be true for the NFL.</p>
+<p>Opta and Stats Perform have data services as their main business. (I interned at Stats during grad school.) A data business may not have the public mission of a prestigous news organization or a sports league, and probably needs to enlist a benefactor in order to provide data services that will enable free distribution. There is a decent chance that at some point FIFA or another global soccer operator will restore some kind free data access.</p>
+<p>Or it won’t. There does not appear to be any public component to NBA player tracking or biomechanics data. NHL shot and lineup data is available at <a href="https://moneypuck.com/data.htm">MoneyPuck</a> but the advanced player tracking data the the NHL uses for its <a href="https://www.nhl.com/news/nhl-edge-site-new-look-has-advanced-statistics-for-everybody">Edge stats and information site</a>. Corey Sznajder maintains a hockey microstats data service at <a href="https://www.allthreezones.com/">allthreezones.com</a>, something that invites comparison to Baseball Savant and Statcast, which started as a personal data project before MLB took it over.</p>
+<p>Sharing data and making money, business makes it so the two go together, but sometimes it’s not an easy fit. Innovations in technology, in computing, in human performance call for new business models. New ways to do both, share data and make money, will surface as athletes’ data supply and demand continue to evolve. No doubt it is a big help for innovators and entrepreneurs to have access to quality sports data resources at no cost.</p>
+</section>
+<section id="news" class="level3">
+<h3 class="anchored" data-anchor-id="news">News</h3>
+<ul>
+<li><p><a href="https://www.nytimes.com/2026/02/05/magazine/jessie-diggins-ski-winter-olympics-milan.html">‘All It Is Is Pain’: The Olympian Testing the Limits of Endurance</a> in <strong>The New York Times Magazine</strong> by Reid Forgrave on February 5, 2026</p></li>
+<li><p><a href="https://bsky.app/profile/russpoldrack.org/post/3mdxqirfre22v">Metadata, data documentation, and provenance … the latest in my Better Code, Better Science series.</a> in <strong>Bluesky</strong> by Russ Poldrack on February 3, 2026</p></li>
+<li><p><a href="https://bsky.app/profile/levakabas.bsky.social/post/3mdvxv2724k23">Michigan just reported a record $67.6 million in football ticket sales for 2024-25</a> in <strong>Bluesky</strong> by Lev Akabas on February 2, 2026</p></li>
+<li><p><a href="https://jipel.law.nyu.edu/the-future-of-biometrics-in-formula-1-racing/">The Future of Biometrics in Formula 1 Racing</a> in <strong>NYU Journal of Intellectual Property &amp; Entertainment Law</strong> by Eleanor Schifino on January 27, 2026</p></li>
+<li><p><a href="https://www.nytimes.com/athletic/7021527/2026/02/05/real-madrid-masks-training-pintus/">Why are Real Madrid players wearing masks in training?</a> in <strong>The Athletic</strong> by Mario Cortegna on February 5, 2026</p></li>
+</ul>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1770440400000" data-listing-file-modified-sort="1770475884570" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1091">
-<div class="thumbnail"><a href="./posts/ADCN_11/index.html" class="no-external">
-
-<p class="card-img-top"><img src="posts/ADCN_11/wfpds.png"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/ADCN_11/index.html" class="no-external">ADCN: Baseball Player Development, Soccer Data Sharing, News</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/ADCN_11/index.html" class="no-external">
-Prospects alert! It’s almost time to begin playing professional baseball. Advances in baseball player development have made college and pro baseball compelling in a way…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/ADCN_11/index.html" class="no-external">
-<div class="listing-date">
-Feb 7, 2026
-</div>
-<div class="listing-author">
-Brad Stenger
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1769835600000" data-listing-file-modified-sort="1770475262584" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1202">
-<div class="thumbnail"><a href="./posts/ADCN_10/index.html" class="no-external">
-
-<p class="card-img-top"><img src="posts/ADCN_10/CranmerDodgers.png"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/ADCN_10/index.html" class="no-external">ADCN: Systems, Antetotokunmpo, Surveillance, News</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/ADCN_10/index.html" class="no-external">
-The Arizona Diamondbacks baseball team recently posted a job announcement for a new Director, Baseball Systems. I read it closely out of curiosity. The way someone (or some…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/ADCN_10/index.html" class="no-external">
-<div class="listing-date">
-Jan 31, 2026
-</div>
-<div class="listing-author">
-Brad Stenger
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1769144400000" data-listing-file-modified-sort="1769857489238" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1342">
-<div class="thumbnail"><a href="./posts/ADCN_9/index.html" class="no-external">
-
-<p class="card-img-top"><img src="posts/ADCN_9/trahan_summit.png"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/ADCN_9/index.html" class="no-external">ADCN: Open Biomechanics Research, U.S. Sport Policy, News</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/ADCN_9/index.html" class="no-external">
-The Athletes Data Community Newsletter (ADCN) is produced by Brad Stenger, a researcher studying applied privacy technologies in the context of athletes’ data at the…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/ADCN_9/index.html" class="no-external">
-<div class="listing-date">
-Jan 23, 2026
-</div>
-<div class="listing-author">
-Brad Stenger
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1768366800000" data-listing-file-modified-sort="1768431665564" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1468">
-<div class="thumbnail"><a href="./posts/ADCN_8/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/ADCN_8/index.html" class="no-external">ADCN: Team Building, Research Funding &amp; Methods, News</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/ADCN_8/index.html" class="no-external">
-Hope 2026 is off to a great start! This newsletter project is rounding into shape behind the scenes. I’m ready to get your feedback and incorporate any notes you have for…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/ADCN_8/index.html" class="no-external">
-<div class="listing-date">
-Jan 14, 2026
-</div>
-<div class="listing-author">
-Brad Stenger
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1767157200000" data-listing-file-modified-sort="1767217358013" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1583">
-<div class="thumbnail"><a href="./posts/ADCN_7/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/ADCN_7/index.html" class="no-external">ADCN: Demand and Capacity, College Sports, Youth Burnout … and More News</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/ADCN_7/index.html" class="no-external">
-Work on developing this newsletter continues. I’m pushing in the direction of something quicker and newsier for 2026. Thanks for reading!
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/ADCN_7/index.html" class="no-external">
-<div class="listing-date">
-Dec 31, 2025
-</div>
-<div class="listing-author">
-Brad Stenger
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1765947600000" data-listing-file-modified-sort="1767217358013" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1642">
-<div class="thumbnail"><a href="./posts/ADCN_6/index.html" class="no-external">
-
-<p class="card-img-top"><img src="posts/ADCN_6/cube2.png"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/ADCN_6/index.html" class="no-external">ADCN: Biomarkers, Player Tracking Viz, Womens Update</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/ADCN_6/index.html" class="no-external">
-A report in The Athletic described new saliva-sampling analysis technology that is gaining customers among European soccer teams. Biolyz is a startup company based in…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/ADCN_6/index.html" class="no-external">
-<div class="listing-date">
-Dec 17, 2025
-</div>
-<div class="listing-author">
-Brad Stenger
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1763528400000" data-listing-file-modified-sort="1763557226274" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1922">
-<div class="thumbnail"><a href="./posts/ADCN_5/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/ADCN_5/index.html" class="no-external">ADCN: Health Algorithms &amp; Interfaces, Data Duty of Care, Injury Reports</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/ADCN_5/index.html" class="no-external">
-The ADCN newsletter archive can be found at https://newsletter.bradstenger.com. I mention it here for two reasons. First, the site construction needs some attention and some…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/ADCN_5/index.html" class="no-external">
-<div class="listing-date">
-Nov 19, 2025
-</div>
-<div class="listing-author">
-Brad Stenger
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="7" data-listing-date-sort="1761710400000" data-listing-file-modified-sort="1767198670462" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1541">
-<div class="thumbnail"><a href="./posts/ADCN_4/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/ADCN_4/index.html" class="no-external">ADCN: Journaling, Stacks vs.&nbsp;Open, Big Data Bowl</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/ADCN_4/index.html" class="no-external">
-Bumps in the road to regular newsletter production. I think that there will progress toward a weekly ADCN newsletter between now and the end of the year. Once I achieve some…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/ADCN_4/index.html" class="no-external">
-<div class="listing-date">
-Oct 29, 2025
-</div>
-<div class="listing-author">
-Brad Stenger
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="8" data-listing-date-sort="1758686400000" data-listing-file-modified-sort="1761815895843" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1588">
-<div class="thumbnail"><a href="./posts/ADCN_3/index.html" class="no-external">
-
-<p class="card-img-top"><img src="posts/ADCN_3/BayesianWorkflow.png" alt="Sample workflow describing analytical approach for Bayesian estimations of injury rate using sport injury surveillance data - Chandran et al."  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/ADCN_3/index.html" class="no-external">ADCN: Women Athletes Research, Sports Injury Epidemiology, Hot Hands</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/ADCN_3/index.html" class="no-external">
-There’s a lengthy rundown on women athletes’ health and performance research. The news peg for it is the announcement of a new University of Indiana initiative, which gave…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/ADCN_3/index.html" class="no-external">
-<div class="listing-date">
-Sep 24, 2025
-</div>
-<div class="listing-author">
-Brad Stenger
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="9" data-listing-date-sort="1757304000000" data-listing-file-modified-sort="1757328942994" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="989">
-<div class="thumbnail"><a href="./posts/ADCN_2/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/ADCN_2/index.html" class="no-external">ADCN: Public Health, Nutrition, Injury Algorithms</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/ADCN_2/index.html" class="no-external">
-As I get the newsletter up and running it might take a few weeks to work out a regular production schedule. My goal is to have a regular once per week delivery by…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/ADCN_2/index.html" class="no-external">
-<div class="listing-date">
-Sep 8, 2025
-</div>
-<div class="listing-author">
-Brad Stenger
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="10" data-listing-date-sort="1756180800000" data-listing-file-modified-sort="1756287350438" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="902">
-<div class="thumbnail"><a href="./posts/ADCN_1/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/ADCN_1/index.html" class="no-external">ADCN: A sports science and technology newsletter by Brad Stenger</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/ADCN_1/index.html" class="no-external">
-Welcome to my resurrected sports science and technology newsletter. I've given it a title, the "Athletes Data Community Newsletter," something that reflects my research…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/ADCN_1/index.html" class="no-external">
-<div class="listing-date">
-Aug 26, 2025
-</div>
-<div class="listing-author">
-Brad Stenger
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
