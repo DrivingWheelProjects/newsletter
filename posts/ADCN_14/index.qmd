@@ -17,9 +17,9 @@ A 2020 [survey](https://www.mdpi.com/1648-9144/56/9/417) of NCAA soccer coaches 
 
 Prevention, or really, adherence to prevention only gets you so far. The Times article references a 50% reduction in serious knee injuries when teams do the 11+ warmup twice per week. But if you experience an ACL tear, a young female athlete is more likely to stop playing or experience re-injury than to return their previous level of competition.
 
-One college sports strength coach I spoke with compared the ACL ligaments of women soccer and basketball players to the elbow ligaments of baseball pitchers. These ligaments are all overused, and what's being asked of them physically is not sustainable. As long as the situation remains the norm serious ligament injuries will be prevalent. Even if every youth and college soccer team implemented 11+ and cut injuries in half, there would still be a big ACL injury problem, prompting a big ACL re-injury problem.
+One college sports strength coach I spoke with compared the ACL ligaments of women soccer and basketball players to the elbow ligaments of baseball pitchers. These ligaments are all overused, and what's being asked of them physically is not sustainable. As long as the situation remains the norm serious ligament injuries will be prevalent. Even if every youth and college soccer team implemented 11+ and cut injuries in half, there would still be a big ACL injury problem, and in turn, a big ACL re-injury problem.
 
-Progress by researchers who study neural training for ACL rehabilitation changes. Dustin Grooms at Ohio University [uses cognitive methods](https://medschool.duke.edu/blog/research-seminar-addresses-neuroplasticity-optimize-rehabilitation-and-return-sport-after-acl) to improve athletes' proprioception and improve control over knee movements during ACL rehabilitation. Neural pathways to promote awareness of better knee positions reinforces strength development, and in theory, should improve overall athleticism beyond just return to play.
+Progress by researchers who study neural training for ACL rehabilitation changes. Dustin Grooms at Ohio University [uses cognitive methods](https://medschool.duke.edu/blog/research-seminar-addresses-neuroplasticity-optimize-rehabilitation-and-return-sport-after-acl) to improve athletes' proprioception and improve control over knee movements during ACL rehabilitation. Neural pathways to promote awareness of better knee positions reinforces strength development, and in theory, should improve overall athleticism beyond just return-to-play.
 
 Methodological advances for ACL rehabilitation have little effect on traditional ACL rehab. A [new study](https://www.linkedin.com/posts/alessandro-compagnin-638110208_force-and-power-testing-during-anterior-activity-7411738859740217344-6bBl) by Alessandro Compagnin surveyed 1000 rehabilitation practitioners to ask them about force and power testing during the ACL rehabilitation process. The study found substantial heterogeneity in practitioners' rehab processes. 
 
@@ -29,7 +29,7 @@ The wide diversity of rehab approaches is both a problem and an opportunity. Neu
 
 How do you organize for this opportunity? I suspect that some in the profession have tried, and all have failed. Emerging data collection technologies might provide a path forward but any of these companies will need to implement a business plan that factors costs and benefits associated with data in addition to whatever it takes to bring a new device to market.
 
-### Habits, Confirmation Bias, and Want-to-try
+### Habits, Confirmation Bias, and Worth-a-try
 
 What does injury prevention mean to you? Sports science evolved to prevent athletes' injuries. Injury prevention is a main reason for collecting the heart rate, training load and counter-movement jump data that sports scientists love. But no college athlete answers "sports science" to questions about injury prevention. I asked them.
 
