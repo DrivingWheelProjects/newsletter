@@ -1,18 +1,18 @@
 ---
-title: "ADCN: College Sports, R&D, News"
+title: "ADCN: College Sports, Research and Development, News"
 author: "Brad Stenger"
 date: "2026-03-10"
 ---
 
-I wasn't sure I was going to make it to this year's Sloan Sports Analytics Conference in Boston. Driving in the middle of the night last Thursday the Vermont mountains served up a blizzard that kept my speed down around 25 mph. Fortunately I gave myself extra time, and opted for the Dartmouth shuttle bus to do the majority of the driving. I made it and I was glad to attend. And I got to experience the best thing about Boston in early-March. The sun rises ridiculously early in eastern Massachusetts this time of year, perfect for a crisp lap around the Charles River before the Sloan conference got going. 
+I wasn't sure I was going to make it to this year's Sloan Sports Analytics Conference in Boston. Driving in the middle of the night last Thursday the Vermont mountains served up a blizzard that kept my speed down around 25 mph. Fortunately I gave myself extra time, and opted for the Dartmouth shuttle bus to do the majority of the driving. I made it and I was glad to attend. And I got to experience the best thing about Boston in early-March. The sun rises ridiculously early in eastern Massachusetts this time of year, perfect for a crisp lap around the Charles River on Saturday before the Sloan conference got going. 
 
 ### Sloan Conference: College Sports
 
-Kristen Nicholson presented an overview of the Wake Forest Pitching Lab. It is state of the art for pitching biomechanics data capture; "the best in the industry" according to a 2025 [article](https://www.nytimes.com/athletic/6197518/2025/03/13/mlb-college-baseball-pitching-labs-lsu-vanderbilt/) in The Athletic. The technical excellence of the facility draws wannabes to visit from baseball and from lots of other competitive sports where biomechanics matter for athletes' health and performance. It is, by every account, a superior technical achievement, but the facility's track record, for developing both pitchers and analysts, is the evidence proving that the technology translates to real-world impact.
+Kristen Nicholson presented an overview of the Wake Forest Pitching Lab. It is state of the art for pitching biomechanics data capture; "the best in the industry" according to a 2025 [article](https://www.nytimes.com/athletic/6197518/2025/03/13/mlb-college-baseball-pitching-labs-lsu-vanderbilt/) in The Athletic. The technical excellence of the facility draws wannabes to visit from baseball and from lots of other competitive sports where biomechanics matter for athletes' health and performance. It is, by every account, a superior technical achievement, but the facility's track record, for developing both pitchers and analysts, is evidence to prove that the technology translates into real-world impact.
 
 ![](sloan2026.png)
 
-The human talent pipeline is the how and the why U.S. universities have few peers globally. When I was an undergraduate, I had lunch with a tenured liberal arts professor who explained, the product developed by a major university and its business model isn't a successful adult. No, it is a rich, successful adult capable of giving back something financially significant to the university. For many American universities, this is the business model. The 2026 Sloan conference devoted lots of words to college sports. The words that mattered most were conversations that discussed the college talent pipeline and its relationship to business models.
+The human talent pipeline is the how and the why U.S. universities have so few peers globally. When I was an undergraduate, I had lunch with a tenured liberal arts professor who explained, the product developed by a major university and its business model isn't a successful adult. No, it is a rich, successful adult who gives back financially to the university. For many American universities, this is the business model. The 2026 Sloan conference devoted lots of words to college sports. The words that mattered most were conversations that discussed the college talent pipeline and its relationship to business models.
 
 Dr. Nicholson made the point during her presentation that the pitching lab brings in top talent for Wake Forest. An MLB prospect, drafted in the 3rd round of the draft, turned down millions in signing bonus money to attend and pitch at Wake. She sees Wake baseball signing top hitting talent who want to face Wake pitchers day in day out. Wake Forest has also sent its young analytical talents into player development leadership roles at the Baltimore Orioles and Minnesota Twins. 
 
@@ -62,18 +62,18 @@ My PhD research fits under the umbrella research community known as "human-compu
 
 ### News
 
-[MLS: Youth is served with RBNY & RSL, Montreal is awful, USMNT update, & more](http://www.americansoccernow.com/articles/mls-youth-is-served-with-rbny-amp-rsl-montreal-is-awful-usmnt-update-amp-more) in *American Soccer Now* by Brian Sciaretta on March 2, 2026
+* [MLS: Youth is served with RBNY & RSL, Montreal is awful, USMNT update, & more](http://www.americansoccernow.com/articles/mls-youth-is-served-with-rbny-amp-rsl-montreal-is-awful-usmnt-update-amp-more) in *American Soccer Now* by Brian Sciaretta on March 2, 2026
 
-[Athletics Prospect Jamie Arnold Has Two Changeups and a Major League Mindset](https://blogs.fangraphs.com/athletics-prospect-jamie-arnold-has-two-changeups-and-a-major-league-mindset/) in *FanGraphs* by David Laurila on March 3, 2026
+* [Athletics Prospect Jamie Arnold Has Two Changeups and a Major League Mindset](https://blogs.fangraphs.com/athletics-prospect-jamie-arnold-has-two-changeups-and-a-major-league-mindset/) in *FanGraphs* by David Laurila on March 3, 2026
 
-[We have partned with the @CSIRO to launch world-leading AI in sport guidelines](https://x.com/ausport/status/2029667051959153006) in *X/Twitter* by Australian Sports Commission on March 5, 2026
+* [We have partned with the @CSIRO to launch world-leading AI in sport guidelines](https://x.com/ausport/status/2029667051959153006) in *X/Twitter* by Australian Sports Commission on March 5, 2026
 
-[Jayson Tatum's return now would be ahead of the norm. Is that a good thing?](https://www.nba.com/news/jayson-tatum-return-ahead-of-the-norm) in *NBA.com* and *Yahoo Sports* by Tom Haberstroh on March 4, 2026
+* [Jayson Tatum's return now would be ahead of the norm. Is that a good thing?](https://www.nba.com/news/jayson-tatum-return-ahead-of-the-norm) in *NBA.com* and *Yahoo Sports* by Tom Haberstroh on March 4, 2026
 
-[Lower sleep quality associated with 36% increase in running-related injuries among 339 (16.2% females, age: 43.4 ± 10.2, 92.9% competing regularly) runners from 24 countries.](https://x.com/DrAndyGalpin/status/2028136686501425575) on *X/Twitter* by Andy Galpin on March 1, 2026
+* [Lower sleep quality associated with 36% increase in running-related injuries among 339 (16.2% females, age: 43.4 ± 10.2, 92.9% competing regularly) runners from 24 countries.](https://x.com/DrAndyGalpin/status/2028136686501425575) on *X/Twitter* by Andy Galpin on March 1, 2026
 
-[Inside Ohio State Men's Basketball's Sports Science Program](https://www.thelantern.com/2026/03/inside-ohio-state-mens-basketballs-sports-science-program/) in The Ohio State University, *The Lantern* student newspaper by Conner Neeley on March 5, 2026
+* [Inside Ohio State Men's Basketball's Sports Science Program](https://www.thelantern.com/2026/03/inside-ohio-state-mens-basketballs-sports-science-program/) in The Ohio State University, *The Lantern* student newspaper by Conner Neeley on March 5, 2026
 
-[“The second-system effect (also second-system syndrome) is the tendency for a successful first system (often small and relatively elegant) to be followed by a second system that becomes over-engineered or bloated.”](https://information.garden/@benfry/116194599374841835) in *Mastodon* by Ben Fry on March 8, 2026
+* [“The second-system effect (also second-system syndrome) is the tendency for a successful first system (often small and relatively elegant) to be followed by a second system that becomes over-engineered or bloated.”](https://information.garden/@benfry/116194599374841835) in *Mastodon* by Ben Fry on March 8, 2026
 
-[Direct arm angle versus release-based proxies in Major League Baseball pitchers: a large-scale validation study](https://www.tandfonline.com/doi/full/10.1080/14763141.2026.2638934) in *Sports Biomechanics* journal by Morgan Dillon et al. on March 4, 2026
+* [Direct arm angle versus release-based proxies in Major League Baseball pitchers: a large-scale validation study](https://www.tandfonline.com/doi/full/10.1080/14763141.2026.2638934) in *Sports Biomechanics* journal by Morgan Dillon et al. on March 4, 2026
