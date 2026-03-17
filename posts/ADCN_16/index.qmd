@@ -51,3 +51,19 @@ Warmenhoven et al. have [a new conceptual review paper](https://link.springer.co
 Everyone that I talk to in sports wants fewer injuries and agrees that improved data sharing is crucial in order to realize athletes' injury prediction and prevention. The studies to understand how, why, and what inhibit data sharing throughout high-level sports have yet to be undertaken. The answers to those research questions will go a long way towards determining the ways that computer-supported collaboration will enable researchers to work together, using datasets that are large enough to answer the most important questions. 
 
 How to improve collaboration using athletes' data? The answer is not conceptual. Just ask the questions and try to find the answers. Do the research, and the invention will follow.
+
+### News
+
+[Experts see a wide data gap in women’s sports science. This WNBA team owner wants to fix it](https://apnews.com/article/wu-tsai-alliance-female-athlete-d48cfcb738ca1e45fb1482b89ee35abd) in *Associated Press* by Doug Feinberg on March 6, 2026
+
+[Businesses can’t require microchip implants for workers under new WA law](https://washingtonstatestandard.com/briefs/businesses-cant-require-microchip-implants-for-workers-under-new-wa-law/) in *Washington State Standard* by Jake Goldstein-Street on March 11, 2026
+
+[Do we need medical imaging-informed musculoskeletal models for simulations in healthy adults? A new workflow based on magnetic resonance imaging highlights the importance of personalized geometry](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014073) in *PLOS Computational Biology* by Ekaterina Stansfield et al. on March 16, 2026
+
+[A Letter to All the Little Leaguers Out There](https://www.theplayerstribune.com/paul-skenes-mlb-baseball-pittsburgh-pirates-wbc-usa) in *The Players Tribune* by Paul Skenes on March 9, 2026
+
+[Monitoring Training Effects in Athletes: A Multidimensional Framework for Decision-Making](https://link.springer.com/article/10.1007/s40279-026-02417-4) in *Sports Medicine* journal by Andre Rebelo et al. on March 13, 2026
+
+[Crossing time zones and touchlines: an observational survey of practitioner perceptions on travel in elite North American soccer](https://www.tandfonline.com/doi/full/10.1080/24733938.2026.2642657?af=R) in *Science and Medicine in Football* journal by Luke Jenkinson et al. on March 16, 2026
+
+[What is the hamate and why are so many players injuring theirs?](https://www.mlb.com/news/hamate-bone-injuries-in-baseball-explained) in *MLB.com* by Anthony Castrovince on February 12, 2026
