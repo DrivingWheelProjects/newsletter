@@ -1,5 +1,5 @@
 ---
-title: "ADCN: Induced Demand, Cycling, Collaboration, News"
+title: "ADCN: Cycling, Induced Demand, Collaboration, News"
 author: "Brad Stenger"
 date: "2026-03-17"
 ---
@@ -31,9 +31,11 @@ Right on cue, a [new study](https://blogs.bmj.com/bjsm/2026/03/13/everything-you
 
 The term for how freeway expansion invites more cars is "induced demand." The increase in road capacity reduces the cost of travel, and so people with cars drive more. The analogy is not actually all that good of a fit for describing the steady rate of injuries among professional athletes. The costs related to athletes participation are not necessarily dropping. Load management and minutes restrictions have reduced playing time in some sports, while other sports, like soccer and football, have added games to teams' calendars.
 
-There is [evidence](https://www.ft.com/content/36ebc96e-18d7-4601-9826-d799d73f38b8) for athletes playing harder at the highest levels of team sports. [The increase](https://arizonasports.com/nba/phoenix-suns/physical-nba-injuries/3605881/) in athletes' physical demands has been well established. The economic principle that seems to be at work when it comes to athletes' injuries is [Jevons paradox](https://news.northeastern.edu/2025/02/07/jevons-paradox-ai-future/). Jevons observed that in 19th-century England technological improvements increased the efficiency of coal-burning engines, leading to more coal-burning, not less. The improved training with today's technology reduces injury risk, but it also makes a superior, higher-performing athlete. Only a coach that did not want to win would fail to recognize and deploy the tactical opportunities that come with improving athleticism. 
+There is [evidence](https://www.ft.com/content/36ebc96e-18d7-4601-9826-d799d73f38b8) for athletes playing harder at the highest levels of team sports. [The increase](https://arizonasports.com/nba/phoenix-suns/physical-nba-injuries/3605881/) in athletes' physical demands has been well established. The economic principle that seems to be at work when it comes to athletes' injuries is [Jevons paradox](https://news.northeastern.edu/2025/02/07/jevons-paradox-ai-future/). 
 
-Technology and efficiency unlock new economic demand. New demand can lead to unintended consequences.  Pollution was the byproduct of more coal; injuries are the byproduct of more athleticism. Given the continuing progress on sports training technology, the number of athlete injuries might rise even higher in the months and years ahead.
+Jevons observed that in 19th-century England technological improvements increased the efficiency of coal-burning engines, leading to more coal-burning, not less. The improved training with today's technology reduces injury risk, but it also makes a superior, higher-performing athlete. Only a coach that did not want to win would fail to recognize and deploy the tactical opportunities that come with improving athleticism. 
+
+Technology and efficiency unlock new economic demand. New demand can lead to unintended consequences.  Pollution was the byproduct of more coal; injuries are the byproduct of more athleticism. Given the continuing progress on sports training technology, the number of athlete injuries could rise even higher in the months and years ahead.
 
 Let's not throw away the induced demand analogy completely. Changes in US college sports have the possibility to increase the number of available paths to elite-level competition for young athletes. (Unless, of course, those changes reduce opportunities for young athletes.) If paths to the top open up, the situation can really change if there is a supply of overlooked or late-blooming talents to fill the new, expanded pipeline. Longer term, teenagers might opt to participate in real (not video game) sports.
 
