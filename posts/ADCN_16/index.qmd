@@ -7,7 +7,7 @@ If you enjoy reading ADCN and can recommend it to your colleagues please point t
 
 ### Cycling is the Sports Science Model Activity
 
-Richard Kemp does good work [describing new training technologies](https://www.cyclingweekly.com/fitness/irresistible-tech-or-meaningless-data-are-body-sensors-the-next-frontier-in-marginal-gains) for competitive cyclists. Endurance cycling was the original domain for Dave Brailsford's training philosophy of marginal gains. "The core principle was that if you made 1% improvements in multiple areas, you could reap significant rewards overall," wrote Tim Lewis in *The Guardian*. Brailsford's Team GB cyclists dominated the 2008 and 2012 Olympics and the Tour de France for the 2010s. 
+Richard Kemp does good work [describing new training technologies](https://www.cyclingweekly.com/fitness/irresistible-tech-or-meaningless-data-are-body-sensors-the-next-frontier-in-marginal-gains) for competitive cyclists. Endurance cycling was the original domain for Dave Brailsford's training philosophy of marginal gains. "The core principle was that if you made 1% improvements in multiple areas, you could reap significant rewards overall," wrote Tim Lewis in *The Guardian*. Brailsford's Team GB cyclists dominated the 2008 and 2012 Olympics and the Tour de France during the 2010s. 
 
 Lewis' [article](https://www.theguardian.com/sport/blog/2019/oct/20/marginal-gains-tarnished-bradley-wiggins-dave-brailsford), from 2019, makes the point that marginal gains had started to exhibit diminishing returns. Kemp is smart and recognizes that new training technologies might be a marginal gain, or they might be a costly waste of time and energy. This new Kemp article on biosensors in *Cycling Weekly* follows up another Kemp [technology review](https://www.cyclingweekly.com/fitness/marginal-gains-or-major-risks-introducing-and-assessing-cyclings-latest-training-hacks) from October 2025.
 
@@ -17,7 +17,7 @@ Yannis Pitsiladis of Hong Kong Baptist University is an expert that Kemp relies 
 
 Cycling is the model athletic activity, a relatively simple example that generates insight into everything else that is more complex. A human on a bicycle is the [most efficient transport mechanism on earth](https://www.scientificamerican.com/article/a-human-on-a-bicycle-is-among-the-most-efficient-forms-of-travel-in-the/), better than birds, fish, horses, and cars. Power measurements can be captured with every pedal stroke. Each bike rider has their own bike even though they sometimes ride in teams. 
 
-Cyclists' endurance, more than their pure speed or power, is what puts them on podiums. Training decides who wins cycling races, something that is true for all kinds of high-level competition, but more true with bikes. Jonas Vingegaard [seems poised](https://velo.outsideonline.com/road/road-racing/dominant-jonas-vingegaard/) for a breakthrough against Tadej Pogacar in this summer's Tour de France.
+Cyclists' endurance, more than their pure speed or power, is what puts them on podiums. Training decides who wins cycling races, something that is true for all kinds of high-level competition, but more true with bikes. For example, Jonas Vingegaard [seems poised](https://velo.outsideonline.com/road/road-racing/dominant-jonas-vingegaard/) for a breakthrough against Tadej Pogacar in this summer's Tour de France.
 
 As the training data gains precision, the winners become more likely to be predetermined by athletes' volume and quality of training. Marcus Elliott, the P3 founder, once told me that he doesn't really like to watch sports. He said that he already knows how a game will unfold because he can see how players move and how fit they all are. 
 
@@ -35,7 +35,7 @@ There is [evidence](https://www.ft.com/content/36ebc96e-18d7-4601-9826-d799d73f3
 
 Jevons observed that in 19th-century England technological improvements increased the efficiency of coal-burning engines, leading to more coal-burning, not less. The improved training with today's technology reduces injury risk, but it also makes a superior, higher-performing athlete. Only a coach that did not want to win would fail to recognize and deploy the tactical opportunities that come with improving athleticism. 
 
-Technology and efficiency unlock new economic demand. New demand can lead to unintended consequences.  Pollution was the byproduct of more coal; injuries are the byproduct of more athleticism. Given the continuing progress on sports training technology, the number of athlete injuries could rise even higher in the months and years ahead.
+Technology and efficiency unlock new economic demand. New demand can lead to unintended consequences.  Pollution was the byproduct of more coal; injuries are the byproduct of more athleticism. Given the continuing progress of sports training technology, the number of athlete injuries could rise even higher in the months and years ahead.
 
 Let's not throw away the induced demand analogy completely. Changes in US college sports have the possibility to increase the number of available paths to elite-level competition for young athletes. (Unless, of course, those changes reduce opportunities for young athletes.) If paths to the top open up, the situation can really change if there is a supply of overlooked or late-blooming talents to fill the new, expanded pipeline. Longer term, teenagers might opt to participate in real (not video game) sports.
 
@@ -57,16 +57,16 @@ How to improve collaboration using athletes' data? The answer is not conceptual.
 
 ### News
 
-[Experts see a wide data gap in women’s sports science. This WNBA team owner wants to fix it](https://apnews.com/article/wu-tsai-alliance-female-athlete-d48cfcb738ca1e45fb1482b89ee35abd) in *Associated Press* by Doug Feinberg on March 6, 2026
+* [Experts see a wide data gap in women’s sports science. This WNBA team owner wants to fix it](https://apnews.com/article/wu-tsai-alliance-female-athlete-d48cfcb738ca1e45fb1482b89ee35abd) in *Associated Press* by Doug Feinberg on March 6, 2026
 
-[Businesses can’t require microchip implants for workers under new WA law](https://washingtonstatestandard.com/briefs/businesses-cant-require-microchip-implants-for-workers-under-new-wa-law/) in *Washington State Standard* by Jake Goldstein-Street on March 11, 2026
+* [Businesses can’t require microchip implants for workers under new WA law](https://washingtonstatestandard.com/briefs/businesses-cant-require-microchip-implants-for-workers-under-new-wa-law/) in *Washington State Standard* by Jake Goldstein-Street on March 11, 2026
 
-[Do we need medical imaging-informed musculoskeletal models for simulations in healthy adults? A new workflow based on magnetic resonance imaging highlights the importance of personalized geometry](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014073) in *PLOS Computational Biology* by Ekaterina Stansfield et al. on March 16, 2026
+* [Do we need medical imaging-informed musculoskeletal models for simulations in healthy adults? A new workflow based on magnetic resonance imaging highlights the importance of personalized geometry](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014073) in *PLOS Computational Biology* by Ekaterina Stansfield et al. on March 16, 2026
 
-[A Letter to All the Little Leaguers Out There](https://www.theplayerstribune.com/paul-skenes-mlb-baseball-pittsburgh-pirates-wbc-usa) in *The Players Tribune* by Paul Skenes on March 9, 2026
+* [A Letter to All the Little Leaguers Out There](https://www.theplayerstribune.com/paul-skenes-mlb-baseball-pittsburgh-pirates-wbc-usa) in *The Players Tribune* by Paul Skenes on March 9, 2026
 
-[Monitoring Training Effects in Athletes: A Multidimensional Framework for Decision-Making](https://link.springer.com/article/10.1007/s40279-026-02417-4) in *Sports Medicine* journal by Andre Rebelo et al. on March 13, 2026
+* [Monitoring Training Effects in Athletes: A Multidimensional Framework for Decision-Making](https://link.springer.com/article/10.1007/s40279-026-02417-4) in *Sports Medicine* journal by Andre Rebelo et al. on March 13, 2026
 
-[Crossing time zones and touchlines: an observational survey of practitioner perceptions on travel in elite North American soccer](https://www.tandfonline.com/doi/full/10.1080/24733938.2026.2642657?af=R) in *Science and Medicine in Football* journal by Luke Jenkinson et al. on March 16, 2026
+* [Crossing time zones and touchlines: an observational survey of practitioner perceptions on travel in elite North American soccer](https://www.tandfonline.com/doi/full/10.1080/24733938.2026.2642657?af=R) in *Science and Medicine in Football* journal by Luke Jenkinson et al. on March 16, 2026
 
-[What is the hamate and why are so many players injuring theirs?](https://www.mlb.com/news/hamate-bone-injuries-in-baseball-explained) in *MLB.com* by Anthony Castrovince on February 12, 2026
+* [What is the hamate and why are so many players injuring theirs?](https://www.mlb.com/news/hamate-bone-injuries-in-baseball-explained) in *MLB.com* by Anthony Castrovince on February 12, 2026
