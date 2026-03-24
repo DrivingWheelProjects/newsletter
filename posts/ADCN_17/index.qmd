@@ -60,6 +60,7 @@ Another [recent study](https://www.tandfonline.com/doi/full/10.1080/24733938.202
 
 Filling a need that exists between injury surveillance and RTP is a [tool for risk management](https://x.com/Aspetar/status/2033938959240200627) created by the Aspetar sports medicine center in Qatar. The conflict between data and opinion re: athletes' health needs objective computational tools to deliver guidance that bridges the gap. There are other examples of new computational tools:
 
+
 * The English FA and Google Cloud created the Female Athlete Health Framework ([link](https://www.theregister.com/2026/03/16/women_get_datadriven_health/))
 
 * Swedish researchers apply systems immunology to assess athletes' physical capacity ([link](https://onlinelibrary.wiley.com/doi/10.1111/sms.70258))
