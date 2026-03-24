@@ -1,5 +1,5 @@
 ---
-title: "ADCN: NoMoneyball, Hockeyification, Injury Surveillance, News"
+title: "ADCN: No-Moneyball, Hockeyification, Injury Surveillance, News"
 author: "Brad Stenger"
 date: "2026-03-24"
 ---
@@ -16,7 +16,9 @@ I have been asking for opinions about why there is not more data sharing in prof
 
 The original Oakland A's moneyball showed that ingenuity could supplant financial resources. The new situation shows that ingenuity cannot supplant smart money. This is no-moneyball. It's not that teams cannot have an innovation advantage, but financial resources are a force multiplier that gives richer teams more opportunity to exploit their good ideas and let those ideas turn into follow-ups.
 
-An [ESPN article](https://www.espn.com/mlb/story/_/id/48176507/mlb-2026-paul-depodesta-colorado-rockies-moneyball-coors-field) looked at Paul DePodesta becoming the president of baseball operations for Colorado Rockies baseball. What's interesting is how he plans to uncover and to eventually exploit the unique advantages of baseball in Denver. Baseball in Denver is completely different from baseball in other metros, and not in ways that help the home team. The altitude differences favor hitters over pitchers. The fitness advantage that soccer, hockey, and basketball teams have goes away with baseball's deliberate pace. DePodesta has, in many ways, a blank slate to formulate a new calculus for winning baseball by uncovering advantages that are unique to Colorado. It will have to be a different kind of baseball that wins at altitude in Denver.
+An [ESPN article](https://www.espn.com/mlb/story/_/id/48176507/mlb-2026-paul-depodesta-colorado-rockies-moneyball-coors-field) looked at Paul DePodesta becoming the president of baseball operations for Colorado Rockies baseball. What's interesting is how he plans to uncover and to eventually exploit the unique advantages of baseball in Denver. Baseball in Denver is completely different from baseball in other metros, and not in ways that help the home team. 
+
+The altitude differences favor hitters over pitchers. The fitness advantage that soccer, hockey, and basketball teams have goes away with baseball's deliberate pace. DePodesta has, in many ways, a blank slate to formulate a new calculus for winning baseball by uncovering advantages that are unique to Colorado. It will have to be a different kind of baseball that wins at altitude in Denver.
 
 The Rockies situation is consistent with the trend toward [constraints-led approaches](https://newsletter.bradstenger.com/posts/ADCN_4/index.html#journaling-with-wearables) in athlete training, but with constraints that are severe, affect everyone, and, in many cases, are still to be determined. This is where analysis needs invention in order to get some kind of foothold. Prior Rockies management regimes never found their foothold. They never effectively differentiated players, skills, and game models.
 
@@ -40,7 +42,9 @@ If there is one sports statistic that [associates with overthinking](https://her
 
 Megan Chayka [did mention](https://www.sloansportsconference.com/people/meghan-chayka) "analytics fatigue" in passing during a hockey analytics panel at the Sloan Sports conference. I think that she meant it in reference to NHL hockey players who are five months into their season. The cognitive overhead of analysts' input into how to win games may not necessarily sync with the fast, instinctive hockey that they would otherwise play. The free-flowing action in hockey games makes it difficult for coaches to interject information to the players. Hockey players are asked to hold onto the details without anything close to a scout card or wristband. Analytics fatigue is, I expect, a real thing.
 
-There are calls to make soccer and basketball more free-flowing, like hockey. Soccer teams have increased the tactical importance of set pieces, and according to Mark Thompson [writing for his blog](https://www.getgoalsideanalytics.com/football-2-0-look-like/), the change has reduced the action during other parts of the game. Baseball has put rules in place to speed the pace of play. Those rules, like pitch clocks, have improved the product. Call it hockeyification. More action improves any pro sports entertainment product, but more analytics does not lead to the same surefire entertainment upgrade. 
+There are calls to make soccer and basketball more free-flowing, like hockey. Soccer teams have increased the tactical importance of set pieces, and according to Mark Thompson [writing for his blog](https://www.getgoalsideanalytics.com/football-2-0-look-like/), the change has reduced the action during other parts of the game. Baseball has put rules in place to speed the pace of play. Those rules, like pitch clocks, have improved the product. 
+
+Call it hockeyification. More action improves any pro sports entertainment product, but more analytics does not lead to the same surefire entertainment upgrade. 
 
 The problem is that more action AND more analytics wear down the athletes. Trainers will tell you that stress is stress, something that oversubscribed college athletes [regularly experience](https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2020.00042/full) when their athletics and academics overlap. Universities have learned to provide mental health support for stressed athletes. Teams have an opportunity to get out in front of the potential problems that come with players' analytics fatigue.
 
