@@ -36,7 +36,7 @@ One reason for a lack of solutions that benefit college athletes is that they ha
 
 Injury prevention is not a singular thing. It has facets that are, for the most part, engaged in between competitions. Recent news and journal articles gave me a chance to check in on some of these facets. Let's see what the state of the art research looks like. Good news, nearly all the studies focus on women athletes.
 
-#### Monitoring
+**Monitoring**
  	
 The German professional basketball league and German Accident Insurance surveil players for injury and illness. Researchers gathered the data for 16 male pro basketball players over the league's 31-week season. Monitoring consisted of load measurement with self-reports for exertion and sleep quantity. Sleep quality, and mental and physical well-being were all measured subjectively. The researchers found that higher internal load and lower sleep quality were associated with reduced well-being in professional male basketball players. Decreased physical well-being was associated with illness occurrence, supporting its relevance as a potential early indicator within athlete health monitoring frameworks. ([paper, BMC Sports Science, Medicine and Rehabilitation](https://link.springer.com/article/10.1186/s13102-026-01663-3))
 
@@ -44,7 +44,7 @@ Members of the Portuguese national women's soccer team participated in field-bas
 
 Takeaway: If you are monitoring athletes, the fundamental comparison is with the athletes' well-being. I don't know this as fact, but well-being (positive and negative) seems to cut across both performance and injury risk. 
 
-#### Testing
+**Testing**
 
 The PROfessional FEmale (PROFE) hip study is a multicenter cross-sectional study among three elite Dutch female football teams in Vrouwen Eredivisie. Researchers collected data from 100 female football players who completed questionnaires and physical testing of hip strength and hip range of motion. Previous research identified hip strength and ROM as important modifiable risk factors for hip/groin injuries. This study established normative values for strength and ROM in female football players, figures that will be useful to identify players' progression and to develop personalized injury prevention strategies. ([paper, Journal of Science and Medicine in Sport](https://www.jsams.org/article/S1440-2440(26)00099-X/fulltext))
 	
@@ -52,7 +52,7 @@ Young soccer players vary in terms of athletes' sizes and levels of biological m
 
 Takeaway: The list of requirements for a comprehensive injury prevention testing program is long, and growing longer.
 
-#### Interventions
+**Interventions**
  
 Iain Murray and a team of UK-based orthopedists summarize the success factors for ACL injury prevention interventions. Many interventions "share common neuromuscular principles and demonstrate similar reductions in injury risk when implemented effectively," they note, adding that program selection alone does not determine success and "implementation fidelity and contextual suitability are critical." They recommend top-down and bottom-up approaches to capture buy in from stakeholders. An effective top-down approach "allows for uniformity across the nation, with standardized funding allocation and integration into public health policy." A bottom-up approach tailors change to local contextual needs and empowers coaches and athletes. The authors of this summary want to see widespread implementation of ACL prevention interventions and recognize that a long list of challenges that make that goal difficult. ([paper, Bone & Joint Open](https://boneandjoint.org.uk/Article/10.1302/2633-1462.74.BJO-2026-0019))
  	
@@ -66,15 +66,15 @@ The blog at BJSM describes a recent review article that asks about "how well inj
 
 Takeaway: Interventions are hard to implement, but widespread adoption will be worth the effort.
 
-#### Warmup
+**Warmup**
  
 Sophia Nimphius and Daniel Kadlec [write](https://bjsm.bmj.com/content/early/2026/04/02/bjsports-2025-110614.info) in the *British Journal of Sports Medicine* that real, substantial ACL injury prevention occurs in training to a far greater degree than it occurs during pre- and mid-game warmups. "Warmup programs have limited long-term utility. Training intensifies, volumes and progressions must increase to change the prognostic factors proposed to reduce injury risk after adolescence," they write.
 
-#### Prediction
- 
+**Prediction**
+
 Prediction goes a step beyond simply monitoring. It puts the monitoring data to use in meaningful ways. James Malone [reports](https://maloneperform.substack.com/p/predicting-match-fatigue-in-football) on a study out of Italy's Parma Calcio football club. The club's performance analyst, Mauro Mandorino, put four years of athlete monitoring data into a "machine learning model that integrated training load, fitness, and fatigue data to estimate how long players could tolerate match demands." The model (diagrammed below) predicts key fatigue inflection points at 57 minutes, 65 minutes, 78 minutes, peaking with severe fatigue at 82-85 minutes. ([paper, Applied Sciences](https://www.mdpi.com/2076-3417/16/4/2139))
 
-![](FatiguePrediction.png)
+![](FatiguePrediction.png){width=800}
 
 ### News
 

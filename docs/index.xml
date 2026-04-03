@@ -40,20 +40,15 @@
 <section id="injury-prevention-occurs-between-competitions" class="level3">
 <h3 class="anchored" data-anchor-id="injury-prevention-occurs-between-competitions">Injury Prevention Occurs Between Competitions</h3>
 <p>Injury prevention is not a singular thing. It has facets that are, for the most part, engaged in between competitions. Recent news and journal articles gave me a chance to check in on some of these facets. Let’s see what the state of the art research looks like. Good news, nearly all the studies focus on women athletes.</p>
-<section id="monitoring" class="level4">
-<h4 class="anchored" data-anchor-id="monitoring">Monitoring</h4>
+<p><strong>Monitoring</strong></p>
 <p>The German professional basketball league and German Accident Insurance surveil players for injury and illness. Researchers gathered the data for 16 male pro basketball players over the league’s 31-week season. Monitoring consisted of load measurement with self-reports for exertion and sleep quantity. Sleep quality, and mental and physical well-being were all measured subjectively. The researchers found that higher internal load and lower sleep quality were associated with reduced well-being in professional male basketball players. Decreased physical well-being was associated with illness occurrence, supporting its relevance as a potential early indicator within athlete health monitoring frameworks. (<a href="https://link.springer.com/article/10.1186/s13102-026-01663-3">paper, BMC Sports Science, Medicine and Rehabilitation</a>)</p>
 <p>Members of the Portuguese national women’s soccer team participated in field-based research to assess melatonin timing and sleep patterns during a 7-day training camp. Athletes wore devices to measure sleep and light exposure. They also completed daily sleep diaries with well-being ratings. On one day, salivary melatonin was self-sampled hourly from four hours before habitual sleep onset to one hour after, and again at wake time and one hour after waking. Researchers found that “elevated melatonin one hour after waking, indicative of morning circadian misalignment, was associated with lower subjective well-being.” (<a href="https://www.nature.com/articles/s44323-026-00074-4">paper, npj biological timing and sleep</a>)</p>
 <p>Takeaway: If you are monitoring athletes, the fundamental comparison is with the athletes’ well-being. I don’t know this as fact, but well-being (positive and negative) seems to cut across both performance and injury risk.</p>
-</section>
-<section id="testing" class="level4">
-<h4 class="anchored" data-anchor-id="testing">Testing</h4>
+<p><strong>Testing</strong></p>
 <p>The PROfessional FEmale (PROFE) hip study is a multicenter cross-sectional study among three elite Dutch female football teams in Vrouwen Eredivisie. Researchers collected data from 100 female football players who completed questionnaires and physical testing of hip strength and hip range of motion. Previous research identified hip strength and ROM as important modifiable risk factors for hip/groin injuries. This study established normative values for strength and ROM in female football players, figures that will be useful to identify players’ progression and to develop personalized injury prevention strategies. (<a href="https://www.jsams.org/article/S1440-2440(26)00099-X/fulltext">paper, Journal of Science and Medicine in Sport</a>)</p>
 <p>Young soccer players vary in terms of athletes’ sizes and levels of biological maturity. Irish researchers investigated how that variability among 15-16 year old international soccer players influenced tests of eccentric knee flexion strength, something that is tested with the Nordic hamstring exercise (NordBord). Body mass and predicted adult height are the most influential predictors. Body mass and biological maturation status should be considered when interpreting strength testing results during the Nordic hamstring exercise in female youth soccer players. Chronological age and height are less important age/size factors. (<a href="https://onlinelibrary.wiley.com/doi/10.1002/ejsc.70135">paper, European Journal of Sport Science</a>)</p>
 <p>Takeaway: The list of requirements for a comprehensive injury prevention testing program is long, and growing longer.</p>
-</section>
-<section id="interventions" class="level4">
-<h4 class="anchored" data-anchor-id="interventions">Interventions</h4>
+<p><strong>Interventions</strong></p>
 <p>Iain Murray and a team of UK-based orthopedists summarize the success factors for ACL injury prevention interventions. Many interventions “share common neuromuscular principles and demonstrate similar reductions in injury risk when implemented effectively,” they note, adding that program selection alone does not determine success and “implementation fidelity and contextual suitability are critical.” They recommend top-down and bottom-up approaches to capture buy in from stakeholders. An effective top-down approach “allows for uniformity across the nation, with standardized funding allocation and integration into public health policy.” A bottom-up approach tailors change to local contextual needs and empowers coaches and athletes. The authors of this summary want to see widespread implementation of ACL prevention interventions and recognize that a long list of challenges that make that goal difficult. (<a href="https://boneandjoint.org.uk/Article/10.1302/2633-1462.74.BJO-2026-0019">paper, Bone &amp; Joint Open</a>)</p>
 <p>The blog at BJSM describes a recent review article that asks about “how well injury prevention interventions are used in female/woman/girls’ sport, and which dissemination and implementation (D&amp;I) strategies best support their uptake and sustainment.” The report produced five key takeaways. (<a href="https://blogs.bmj.com/bjsm/2026/03/23/dissemination-and-implementation-of-injury-prevention-interventions-in-female-woman-girl-athletes-how-are-they-implemented-and-what-affects-their-use/">blog, British Journal of Sports Medicine</a>)</p>
 <blockquote class="blockquote">
@@ -66,16 +61,11 @@
 </ol>
 </blockquote>
 <p>Takeaway: Interventions are hard to implement, but widespread adoption will be worth the effort.</p>
-</section>
-<section id="warmup" class="level4">
-<h4 class="anchored" data-anchor-id="warmup">Warmup</h4>
+<p><strong>Warmup</strong></p>
 <p>Sophia Nimphius and Daniel Kadlec <a href="https://bjsm.bmj.com/content/early/2026/04/02/bjsports-2025-110614.info">write</a> in the <em>British Journal of Sports Medicine</em> that real, substantial ACL injury prevention occurs in training to a far greater degree than it occurs during pre- and mid-game warmups. “Warmup programs have limited long-term utility. Training intensifies, volumes and progressions must increase to change the prognostic factors proposed to reduce injury risk after adolescence,” they write.</p>
-</section>
-<section id="prediction" class="level4">
-<h4 class="anchored" data-anchor-id="prediction">Prediction</h4>
+<p><strong>Prediction</strong></p>
 <p>Prediction goes a step beyond simply monitoring. It puts the monitoring data to use in meaningful ways. James Malone <a href="https://maloneperform.substack.com/p/predicting-match-fatigue-in-football">reports</a> on a study out of Italy’s Parma Calcio football club. The club’s performance analyst, Mauro Mandorino, put four years of athlete monitoring data into a “machine learning model that integrated training load, fitness, and fatigue data to estimate how long players could tolerate match demands.” The model (diagrammed below) predicts key fatigue inflection points at 57 minutes, 65 minutes, 78 minutes, peaking with severe fatigue at 82-85 minutes. (<a href="https://www.mdpi.com/2076-3417/16/4/2139">paper, Applied Sciences</a>)</p>
-<p><img src="https://newsletter.bradstenger.com/posts/ADCN_18/FatiguePrediction.png" class="img-fluid"></p>
-</section>
+<p><img src="https://newsletter.bradstenger.com/posts/ADCN_18/FatiguePrediction.png" class="img-fluid" width="800"></p>
 </section>
 <section id="news" class="level3">
 <h3 class="anchored" data-anchor-id="news">News</h3>
