@@ -6,7 +6,7 @@ date: "2026-03-24"
 
 Bill Carter, a UVM professor and authority on student-athletes and the business of college sports, founded [NIL Forum](https://studentathleteinsights.com/nil-forum), a membership community that's everything you need to stay ahead in NIL. The community is a needed resource. If you are a stakeholder in U.S. college sports, which is everyone who works in U.S. sports, you should join at the founding member price of $300 for the year.
 
-### No-Moneyball - An Innovation Narrative
+### No-Moneyball: An Innovation Narrative
 
 The most interesting story in sports, in my opinion, is the Colorado Rockies.
 
@@ -34,7 +34,7 @@ I'm looking forward to the insight and the moment that is building for Paul DePo
 
 Ben Lindbergh, the Fangraphs podcaster and writer at The Ringer, [asks an important question](https://www.theringer.com/2026/03/23/mlb/keep-mlb-front-offices-off-the-field-pitch-calling-scouting-cards) for our data + sports era: how much information is too much information? He asks in the context of professional baseball scouting cards. These are small information sheets with relevant but probably obscure information contained on physical media (paper). An example scouting card would have, say, details for a pitcher or a fielder on how to pitch or how to position for a pinch-hitter.
 
-Sports that have discrete play-by-play events, like baseball and football, lend themselves to this sort of information augmentation. Bill Walsh and the 49ers scripted the first 15 offensive plays of a game. ESPN reported last season that 20 NFL starting quarterbacks use wristband play sheets, something that pre-dates Walsh and goes back to 1965. Football information augmentation has been a collaboration between assistant coaches and players who work together on formulating the shorthand and then producing a super-dense information design that meets on-field needs.
+Sports that have discrete play-by-play events, like baseball and football, lend themselves to this sort of information augmentation. Bill Walsh and the 49ers scripted the first 15 offensive plays of a game. ESPN [reported last season](https://www.espn.com/nfl/story/_/id/46747335/quarterback-wristbands-play-sheet-dak-prescott-cowboys-matthew-stafford-rams) that 20 NFL starting quarterbacks use wristband play sheets, something that pre-dates Walsh and goes back to 1965. Football information augmentation has been a collaboration between assistant coaches and players who work together on formulating the shorthand and then producing a super-dense information design that meets on-field needs.
 
 Baseball isn't quite at that level but could be headed there. Lindbergh points out that assistant coaches have started playing a larger role in the catcher-pitcher collaboration. Some teams have assistant coaches calling pitches instead of catchers. Lindbergh also wishes that players could just play the game without the extra interference, recalling what Crash Davis told Nuke LaLoosh, "Don't think. It can only hurt the ballclub."
 
