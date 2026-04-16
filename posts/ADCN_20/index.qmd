@@ -6,14 +6,6 @@ date: "2026-04-16"
 
 ### Be Better
 
-
-AI in sports medicine: https://www.nature.com/collections/ggihachcac/collection-policies ... npj digital medicine
-
-
- Ethan Mollick, "A lot of our education on writing well focuses on logic, clarity, and argument. AI will force us to think more about style. The boredom that comes from everything on the internet reading Claude-y now, no matter how good the substance is, should make us appreciate (and make us want to develop) style."
-
---
-
 The NFL has an AI partnership with Microsoft, and [according to](https://www.espn.com/nfl/story/_/id/48446759/nfl-draft-combine-artificial-intelligence-caleb-downs-arvell-reese-david-bailey) ESPN.com's Kevin Seifert, teams are relying on that partnership and other partnerships with other technical collaborators to evaluate talent. 
 
 At a basic level the tools provide an objective evaluation. For physical measurables like top speed, an algorithm can pull those details from game film effectively. The computer-generated number that comes from real football is a better number than non-football speed that is on displya in a 40-yard dash. As the physical measurements get more abstract, like with attempts to gauge power or change of direction, the algorithms are bound to vary. The consensus definitions for what to calculate are less universal than something like top-end speed. This makes a computer evaluation opinionated, though the opinions might not be obvious.
