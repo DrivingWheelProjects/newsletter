@@ -22,7 +22,7 @@ The research work into women athletes continues. Its fundamental importance gird
 
 The impressive work in women-specific sports research has produced important work, described in significant new publications.
 
-![](FuelingWomenSoccer.png)
+[![](FuelingWomenSoccer.png){width=600}]
 
 [Fueling Women’s Football: Evidence‑Informed Practical Nutrition Strategies for Performance and Health](https://link.springer.com/article/10.1007/s40279-026-02413-8) in *Sports Medicine* by Abbie Smith-Ryan et al. -- This paper synthesizes current research on women’s football to develop comprehensive, evidence-informed nutritional strategies tailored to the specific demands of the sport. Four key themes are addressed: (1) energy requirements in women’s football; (2) macronutrient and nutrient-timing applications around training and match play, including an illustrative case study; (3) supporting a player with inadequate energy intake, including an illustrative case study; and (4) nutritional considerations relating to fluctuations in female sex hormones. ([free link](https://www.researchgate.net/publication/402664422_Fueling_Women's_Football_Evidence-Informed_Practical_Nutrition_Strategies_for_Performance_and_Health_Fueling_Women's_Football_Evidence-Informed_Practical_Nutrition_StrategiesA_E_Smith-Ryan_et_al))
 
