@@ -38,7 +38,7 @@ Fans can tell when teams rely on AI too much, as playing styles converge on what
 
 The highlight of my year so far has been meeting Tammy Clegg. It happened on Tuesday at a research conference in Barcelona. Dr. Clegg is a professor in the College of Information at the University of Maryland. She has written papers that make my current research into athletes' data possible (like [this one](https://onlinelibrary.wiley.com/doi/10.1002/tea.21842), and [this one](https://dl.acm.org/doi/10.1145/3313831.3376153), and [this one](https://journals.sagepub.com/doi/10.1177/20539517231179197)).
 
-Professor Clegg has a vision for using the measurement collection and analysis of human athletic performance to teach computing and engineering fundamentals, probably at the level of a college intro course. I say "probably" because this is where I hijack her vision while making no claims to speak for her. She has thought about this far more than I have. She's the expert. Not me. (If you are thinking of double-hijacking what I say, go ahead, but you would be making a copy of a copy with all the quality loss that involves.)
+Professor Clegg has a vision for using the measurement collection and analysis of human athletic performance to teach computing and engineering fundamentals, probably at the level of a college intro course. I say "probably" because this is where I hijack her vision while making no claims to speak for her. She has thought about this far more than I have. She's the expert. Not me.
 
 Mark Guzdial was my advisor for my Masters degree at Georgia Tech a long time ago. Guzdial was the first computing educator to use media authoring tools (images, audio, video, games) to teach computer science fundamentals. [Media computation](https://link.springer.com/chapter/10.1007/978-3-031-02216-6_4), as it came to be known, made entry-level computer science accessible and enjoyable (but not any easier). It is a crucial (and under-recognized) aspect of why undergraduate enrollments in computer science classes quadrupled between 2005-2020.
 
@@ -46,7 +46,7 @@ Can "human performance computation" become something like media computation in t
 
 Media computation was possible because the authoring tools that are necessary became easy enough for almost any 19-year old to work with. With the right tools in place, developing media computation coursework was a matter of creating a learning context that illustrated the computing fundamentals. 
 
-Any kind of "human performance computation" course will need tools that are far easier to use than what is currently available. Once easier tools are in place, the work to connect those tools to engineering, computing, and data science lesson plans begins.
+Any kind of "human performance computation" course will need tools that are far easier to use than what is currently available. Once easier tools are in place, the work to connect those tools to engineering, computing, and data science lesson plans can begin.
 
 Better media authoring tools have had their own growth curve since 2005. They have evolved to a place where personal expression via TikTok and YouTube are adolescent rites of passage. Sports data technologies will become more usable. It's inevitable, and putting those technologies into an educational context where usability is essential should dramatically improve the interfaces and help the sports technologies to gain wider adoption.
 
