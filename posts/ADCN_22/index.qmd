@@ -46,7 +46,7 @@ As the investment in college and young minor league sports grows, the number of 
 
 One week removed from the marathon world record by Sabastian Sawe, and the surprise has worn off, replaced by a sense that technology made this event inevitable.
 
-![](marathonrecords.png)
+[![](marathonrecords.png){width=600}]
 
 Chris Chavez [writes](https://citiusmag.substack.com/p/sabastian-sawe-marathon-world-record-recap-london-2026) that three technical advances led to Sawe's race time: shoes, fuels, and maybe but probably not drugs.
 
