@@ -4,7 +4,7 @@ author: "Brad Stenger"
 date: "2026-05-16"
 ---
 
-Brad Stenger is a PhD student in Computer Science at the University of Vermont. He works on applied and theoretical privacy technologies for athletes' health and performance data. Sign up for the newsletter mail list and search the archive of past newsletters at [newsletter.bradstenger.com](https://newsletter.bradstenger.com).
+Brad Stenger is a PhD student in Computer Science at the University of Vermont. He works on privacy technologies for athletes' health and performance data (applied and theory). Sign up for the newsletter mail list and search the archive of past newsletters at [newsletter.bradstenger.com](https://newsletter.bradstenger.com).
 
 ### A World Without Leaderboards
 
