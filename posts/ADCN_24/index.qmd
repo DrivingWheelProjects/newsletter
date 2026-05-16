@@ -18,7 +18,7 @@ There's psychology to show that any sort of number in a team context can reinfor
 
 ![](SocialCategorizationAndIntergroupBehaviour.png)
 
-Tajfel wrote in a 1971 paper, [Social categorization and intergroup behavior](SocialCategorizationAndIntergroupBehaviour.pdf), that the "clearest effect on the distribution of rewards was due to the subjects’ attempt to achieve a maximum difference between the ingroup and the outgroup even at the price of sacrificing other ‘objective’ advantages."
+Tajfel wrote in a 1971 paper, [Social categorization and intergroup behavior](https://onlinelibrary.wiley.com/doi/10.1002/ejsp.2420010202), that the "clearest effect on the distribution of rewards was due to the subjects’ attempt to achieve a maximum difference between the ingroup and the outgroup even at the price of sacrificing other ‘objective’ advantages."
 
 [Stories](https://www.nytimes.com/2022/11/10/sports/college-athletes-body-fat-women.html) about athletes' body composition comparisons leading to dysmorphia and disordered eating have prompted coaches to say that any sort of body comparison talk is 100% off limits. But the number could be anything. Endurance training numbers, my research found, are something that athletes would rather not share, even with coaches. Like body composition, endurance is closely linked to a lot of athletes' identities, and it feels more personal than other kinds of data.
 
