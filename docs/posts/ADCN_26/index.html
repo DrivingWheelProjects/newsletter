@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.24">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Brad Stenger">
+<meta name="dcterms.date" content="2026-05-30">
+
+<title>ADCN: Spying, Specifying Period Effects, News – newsletter</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-a37c72dd2dbac68997fcdc15a3622e78.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-2e2a78c07a477a1d763148e43113f08b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../../styles.css">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">newsletter</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html"> 
+<span class="menu-text">Brad Stenger</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">ADCN: Spying, Specifying Period Effects, News</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Brad Stenger </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">May 30, 2026</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
+<div style="height:290">
+    <iframe src="https://cdn.forms-content.sg-form.com/ed8875f7-7972-11f0-ad55-92cd5bc3b37f" width="340" height="300" scrolling="no"></iframe>
+</div>
+
+</div></div>
+        
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+
+
+<p>I, Brad Stenger, produce The Athletes Data Community newsletter as a Computer Science PhD student at the University of Vermont. The newsletter connects my research into privacy and data sharing for athletes’ health and performance data to related news subjects in technology, sports and policy. Thanks for reading! Please point colleagues interested in getting the newsletter to <a href="https://newsletter.bradstenger.com">newsletter.bradstenger.com</a> for signup and searchable archive.</p>
+<section id="southampton-fc-spying" class="level3">
+<h3 class="anchored" data-anchor-id="southampton-fc-spying">Southampton FC Spying</h3>
+<p>Southampton FC was <a href="https://www.bbc.com/news/articles/clypx97y1w7o">caught spying</a> on opponents’ training sessions in the days leading up to games with opponents in the English League Championship. What’s wrong with spying, other than it being against the rules?</p>
+<p>My research uses an interpretive framework called contextual integrity to objectively assess the appropriate flow of information and, with it, when and if the sacrifice of privacy is a proper outcome given the norms and expectations for the circumstances. If you apply the framework to the type of cheating that Southampton admitted doing, you can understand the subtle distinctions that affect real-world decision-making about athletes’ and teams’ privacy.</p>
+<p><img src="CI_diagram_0.png" class="img-fluid"></p>
+<p><a href="https://www.cs.cornell.edu/~shmat/courses/cs5436/malkin.pdf">Contextual integrity</a> divides an information flow into five distinct parameters: subject, data type, sender, transmission principle, and recipient. Two other quasi-parameters, benefit and purpose, help to define the social context for the information flow. Let’s use CI to break down the Southampton spying case.</p>
+<p>The subject is the source of data collection. The collective team that does its practicing is the subject here. The data type would be the video, plus any documented observations, plus any training load tracking or biometric data.</p>
+<p>The sender is the person observing and videotaping the practice. An intern was the Southampton employee that the other teams identified taking in the practices.</p>
+<p>The transmission principle is game preparation, and the recipient is, ultimately, the head coach. The structure of the information flow is not all that different when it comes to this phase of game prep for either one of the two teams. Only one team is supposed to have the information, though.</p>
+<p>At least that is the norm. Teams <a href="https://insights.devonshires.com/post/102mx5x/tinker-tailor-southampton-spy">have the expectation</a> of complete privacy. In the Championship, league rule EFL Regulation 127 forbids observing the other team while training during the 72 hours before a fixture. EFL Regulation 3.4 says teams should “act toward each other with the utmost good faith.” Southampton admitted to both of these violations in the lead-up to 3 different games.</p>
+<p>Rule-breaking is not necessarily norm-breaking. Sam Cunningham, a British soccer journalist, <a href="https://news.uk.cityam.com/story/2427675/content.html">notes</a> that Southampton manager Tonda Eckert started his career in Germany, assistant coaching a youth team in Cologne that was accused of spying. German soccer, apparently, has more widespread spying, and the practice is more tolerated than in the UK.</p>
+<p>Purpose is sometimes referred to as the sixth contextual integrity parameter, and it helps to make sense of the transmission principle. The purpose of spying is competitive advantage, like a lot of coaches’ strategic work. Because spying gains a competitive advantage that the other team does not, the benefit is substantial, and that benefit comes primarily to the primary recipient, the soccer team manager. In Southampton’s case, the benefit was greater than the risk and penalty of getting caught.</p>
+<p>Eckert faces a UK Football Association charge in the spying scandal and could face individual punishment. He has also admitted to authorizing the observations during an EFL investigation. But it might be an entirely different situation if the same thing had occurred in Germany.</p>
+<p>Say that German coaches spy regularly on opponents, and teams have significantly lower privacy expectations as a result. It is a measurably different norm for the same or similar social context. The information flow that is inappropriate in England is appropriate (or less inappropriate) among German soccer stakeholders.</p>
+<p>Contextual integrity is a way to capture that subtle distinction. Doing a CI study is a matter of asking participants in the social context the who, what, how, and why for the CI parameters. Those questions can be in the form of interviews or a survey. Tease out the norms and expectations from the responses, and an analyst will have some sense for whether the information flows are appropriate.</p>
+<p>Sometimes the research question is not assessing information flows. The CI framework can also be used to document information flows and social norms in order to understand the privacy expectations of stakeholder groups in that social context.</p>
+<p>The exercise in constructing the interview or survey is a lot like doing the pre-mortem analysis that coaches will use for game preparation. My research will draw up the scenarios where the information flow goes bad and then test to see which assumptions hold. Use CI this way, and you have a forecastable model that you can make evidence-based decisions against.</p>
+<p>For example, an English soccer team owner can offer helpful guidance to his new manager from another country who believes in the maxim, “If you’re not cheating, then you’re not trying.” With contextual integrity, you can say with confidence that this is what cheating looks like, and this is what trying looks like.</p>
+</section>
+<section id="menstruation-and-performance-research" class="level3">
+<h3 class="anchored" data-anchor-id="menstruation-and-performance-research">Menstruation and Performance Research</h3>
+<p>It has become inadequate to say that menstruation affects athletic performance without going into the what, how, why, and when of the changes relative to the sport demands on women athletes. Three new research articles take important steps toward a 360-degree understanding of periods and the differences between general and athletic populations.</p>
+<p>The first article is an editorial in the <em>British Journal of Sports Medicine</em>, <a href="https://bjsm.bmj.com/content/early/2026/05/21/bjsports-2025-110565">Period pain in female athletes: a call to action—time to fill the evidence gap and develop tailored management pathways</a> (<a href="https://pure.bangor.ac.uk/ws/portalfiles/portal/86367988/Female-Athlete-Period-Pain-Editorial-R3_290426_clean.pdf">pdf</a>). Pain as a symptom of menstruation can be debilitating, but it also varies throughout the population. The call to meet the “urgent need to better understand female athletes’ lived experience of period pain” is also an opportunity to move past one-for-all pharmacological approaches to something more personal and holistic, write the authors.</p>
+<p>The other two articles are research papers. One paper looks at a general population. The other, an athletic population.</p>
+<p>The gen-pop paper appeared in the <em>npj digital medicine</em> journal, <a href="https://www.nature.com/articles/s41746-026-02799-9">The menstrual cycle through the lens of a wearable device: insights into physiology, sleep, and cycle variability</a>, by Scott Delp’s Stanford lab. Delp is also Director of the Wu Tsai Human Performance Alliance at Stanford. Wu Tsai HPA funded the work.</p>
+<p>The researchers collected sleep and biometric data from 2600 women using Whoop wearables. They “generated novel quantifications of daily biometrics across ages and cycle lengths, finding that cycle length is strongly associated with how much cardiorespiratory metrics vary across the cycle.” Cycles vary from person to person, but their length relates to other aspects of physiology.</p>
+<p>The researchers also “observed greater cycle variability for participants who slept 6 versus 8 hours. A within-participant natural experiment showed that decreased sleep resulted in biometric changes regardless of cycle phase.” This would seem to be especially important for athletes, given the significance of sleep for sport training recovery. But more investigation will be needed to confirm the finding for athlete populations.</p>
+<p>The other research paper is in the <em>Sports Medicine</em> journal, <a href="https://link.springer.com/article/10.1007/s40279-026-02459-8">The Effect of Menstrual Cycle Phase, Symptoms, Motivation, and Readiness to Perform on Resistance Training Performance</a>. It puts cycle tracking in the context of strength training. The finding here: “Menstrual cycle phase appears to have minimal effect on resistance training performance.”</p>
+<p>The authors make sure to mention, “motivation and symptom profiles may influence resistance training across the menstrual cycle.” And those could be first-order menstrual symptoms like pain or second-order effects from cycle length variability and its effect on training and performance.</p>
+<p>One thing that I have come to realize as I develop research questions around cycle tracking, data sharing, and privacy is that all athletes (not just women) have a stake in this work. The ways that data and meaning can be distilled from population-level to a team-level to an individual-level will carry.</p>
+<p>There are all-athlete questions about nutrition, cognition, and neuromuscular kinematics that are just as variable and personal as what women experience with menstruation. The progress on menstruation and cycle tracking is a starting point for all kinds of important research work.</p>
+</section>
+<section id="news" class="level3">
+<h3 class="anchored" data-anchor-id="news">News</h3>
+<p><a href="https://today.uconn.edu/2026/05/ksi-opens-satellite-location-at-university-of-north-florida/">KSI Opens Satellite Location at University of North Florida</a> in University of Connecticut, <em>UConn Today</em> on May 22, 2026</p>
+<p><a href="https://datascience.virginia.edu/news/inside-baseball-student-analytics-team-loves-figuring-out-how-win">Inside Baseball: Student Analytics Team Loves ‘Figuring Out How to Win’</a> in University of Virginia, <em>UVA Data Science News</em> by Andrew Ramspacher on May 11, 2026</p>
+<p><a href="https://www.reddit.com/r/nba/comments/1t76r79/adam_silvers_nba_is_in_crisis_does_he_know_how_to/">Adam Silver’s NBA Is in Crisis. Does He Know How to Fix It? — The Atlantic</a> in <em>reddit/r/nba</em> by theatlantic, Katie Anthony on May 8, 2026</p>
+<p><a href="https://bsky.app/profile/ghostgoal.bsky.social/post/3mmvjpcr5qk2k">Interview with Andrea Pirlo</a> in <em>Bluesky</em>, <em>Sky Sports</em> by Adam Bate on May 28, 2026</p>
+<p><a href="https://runlongrunhealthy.substack.com/p/the-new-language-of-fatigue">The New Language of Fatigue</a> in Substack, <em>Run Long Run Healthy</em> newsletter by Brady Holmer on May 28, 2026</p>
+<p><a href="https://feelthebyrn.substack.com/p/how-to-avoid-the-trap-of-zombie-training">How To Avoid The Trap of Zombie Training</a> in Substack, <em>Feel The Byrn</em> newsletter by Gordon Byrn on May 28, 2026</p>
+<p><a href="https://thexgfootballclub.substack.com/p/can-you-put-a-price-on-risk-in-football">Can You Put a Price on Risk in Football?</a> in Substack, <em>The xG Football Club</em> newsletter by Alex Marin Felices on May 28, 2026</p>
+<p><a href="https://bsky.app/profile/probberechts.bsky.social/post/3mmtruydrdk25">Our 2026 World Cup predictions are live!</a> in <em>Bluesky</em> by Pieter Robberechts on May 27, 2026</p>
+<p><a href="https://techcrunch.com/2026/05/28/oura-unveils-its-ring-5-with-a-thinner-lighter-design-starting-at-399/">Oura unveils its Ring 5 with a thinner, lighter design starting at $399</a> in <em>TechCrunch</em> by Aisha Malik on May 28, 2026</p>
+<p><a href="https://bsky.app/profile/nkalamb.bsky.social/post/3mmtwzggu2k2r">IOC boss Kirsty Coventry: “I don’t believe in paying athletes.”</a> in <em>Bluesky</em> by Nathan Kalman-Lamb on May 27, 2026</p>
+<p><a href="https://theconversation.com/as-more-athletes-speak-openly-about-depression-anxiety-and-suicide-a-minority-of-fans-are-weaponizing-it-282697">As more athletes speak openly about depression, anxiety and suicide, a minority of fans are weaponizing it</a> in <em>The Conversation</em> by Scott Parrott on May 26, 2026</p>
+<p><a href="https://bsky.app/profile/statsbomb.com/post/3mmtmvms5v22c">NEW: Hudl Statsbomb Release Free Data for Five Top Women’s Leagues</a> in <em>Bluesky</em> by Hudl Statsbomb on May 27, 2026</p>
+<p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0021929026001375">Large-scale study of the hip, knee, and ankle reveals sex and angle-dependent muscle volume and torque scaling relationships</a> in <em>Journal of Biomechanics</em> by Mario Garcia et al.&nbsp;on May 26, 2026</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/newsletter\.bradstenger\.com");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
