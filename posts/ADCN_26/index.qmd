@@ -1,10 +1,10 @@
 ---
-title: "ADCN: Spying, Specifying Period Effects, News"
+title: "ADCN: Spying by Teams, Specifying Period Effects, News"
 author: "Brad Stenger"
 date: "2026-05-30"
 ---
 
-I, Brad Stenger, produce The Athletes Data Community newsletter as a Computer Science PhD student at the University of Vermont. The newsletter connects my research into privacy and data sharing for athletes' health and performance data to related news subjects in technology, sports and policy. Thanks for reading! Please point colleagues interested in getting the newsletter to [newsletter.bradstenger.com](https://newsletter.bradstenger.com) for signup and searchable archive.
+Brad Stenger produces The Athletes Data Community newsletter as a Computer Science PhD student at the University of Vermont. The newsletter connects my research into privacy and data sharing for athletes' health and performance data to related news subjects in technology, sports and policy. Thanks for reading! Please point colleagues interested in getting the newsletter to [newsletter.bradstenger.com](https://newsletter.bradstenger.com) for signup and searchable archive.
 
 ### Southampton FC Spying
 
@@ -73,8 +73,6 @@ There are all-athlete questions about nutrition, cognition, and neuromuscular ki
 [Interview with Andrea Pirlo](https://bsky.app/profile/ghostgoal.bsky.social/post/3mmvjpcr5qk2k) in *Bluesky*, *Sky Sports* by Adam Bate on May 28, 2026
 
 [The New Language of Fatigue](https://runlongrunhealthy.substack.com/p/the-new-language-of-fatigue) in Substack, *Run Long Run Healthy* newsletter by Brady Holmer on May 28, 2026
-
-[How To Avoid The Trap of Zombie Training](https://feelthebyrn.substack.com/p/how-to-avoid-the-trap-of-zombie-training) in Substack, *Feel The Byrn* newsletter by Gordon Byrn on May 28, 2026
 
 [Can You Put a Price on Risk in Football?](https://thexgfootballclub.substack.com/p/can-you-put-a-price-on-risk-in-football) in Substack, *The xG Football Club* newsletter by Alex Marin Felices on May 28, 2026
 
