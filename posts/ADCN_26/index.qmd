@@ -4,7 +4,7 @@ author: "Brad Stenger"
 date: "2026-05-30"
 ---
 
-Brad Stenger produces The Athletes Data Community newsletter as a Computer Science PhD student at the University of Vermont. The newsletter connects my research into privacy and data sharing for athletes' health and performance data to related news subjects in technology, sports and policy. Thanks for reading! Please point colleagues interested in getting the newsletter to [newsletter.bradstenger.com](https://newsletter.bradstenger.com) for signup and searchable archive.
+Brad Stenger produces the *Athletes Data Community Newsletter* as a Computer Science PhD student at the University of Vermont. The newsletter connects my research into privacy and data sharing for athletes' health and performance data to related news subjects in technology, sports and policy. Thanks for reading! Please point colleagues interested in getting the newsletter to [newsletter.bradstenger.com](https://newsletter.bradstenger.com) for signup and searchable archive.
 
 ### Southampton FC Spying
 
