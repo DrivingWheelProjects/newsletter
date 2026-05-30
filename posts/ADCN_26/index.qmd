@@ -4,13 +4,13 @@ author: "Brad Stenger"
 date: "2026-05-30"
 ---
 
-Brad Stenger produces the *Athletes Data Community Newsletter* as a Computer Science PhD student at the University of Vermont. The newsletter connects my research into privacy and data sharing for athletes' health and performance data to related news subjects in technology, sports and policy. Thanks for reading! Please point colleagues interested in getting the newsletter to [newsletter.bradstenger.com](https://newsletter.bradstenger.com) for signup and searchable archive.
+Brad Stenger produces the *Athletes Data Community Newsletter* as a Computer Science PhD student at the University of Vermont. The newsletter connects my research into privacy and data sharing for athletes' health and performance data to related news subjects in technology, sports and policy. Thanks for reading! Please point colleagues interested in getting the newsletter to [newsletter.bradstenger.com](https://newsletter.bradstenger.com) for signup and a searchable archive.
 
 ### Southampton FC Spying
 
 Southampton FC was [caught spying](https://www.bbc.com/news/articles/clypx97y1w7o) on opponents' training sessions in the days leading up to games with opponents in the English League Championship. What's wrong with spying, other than it being against the rules? 
 
-My research uses an interpretive framework called contextual integrity to objectively assess the appropriate flow of information and, with it, when and if the sacrifice of privacy is a proper outcome given the norms and expectations for the circumstances. If you apply the framework to the type of cheating that Southampton admitted doing, you can understand the subtle distinctions that affect real-world decision-making about athletes' and teams' privacy.
+My research uses an interpretive framework called contextual integrity to objectively assess the appropriate flow of information and, with it, what sort of privacy protection leads to a proper outcome given the norms and expectations for the circumstances. If you apply the framework to the type of cheating that Southampton admitted doing, you can see and understand the subtle distinctions that affect real-world decision-making about athletes' and teams' privacy.
 
 ![](CI_diagram_0.png)
 
@@ -26,17 +26,17 @@ At least that is the norm. Teams [have the expectation](https://insights.devonsh
 
 Rule-breaking is not necessarily norm-breaking. Sam Cunningham, a British soccer journalist, [notes](https://news.uk.cityam.com/story/2427675/content.html) that Southampton manager Tonda Eckert started his career in Germany, assistant coaching a youth team in Cologne that was accused of spying. German soccer, apparently, has more widespread spying, and the practice is more tolerated than in the UK.
 
-Purpose is sometimes referred to as the sixth contextual integrity parameter, and it helps to make sense of the transmission principle. The purpose of spying is competitive advantage, like a lot of coaches' strategic work. Because spying gains a competitive advantage that the other team does not, the benefit is substantial, and that benefit comes primarily to the primary recipient, the soccer team manager. In Southampton's case, the benefit was greater than the risk and penalty of getting caught.
+Purpose is sometimes referred to as a sixth contextual integrity parameter, and it helps to make sense of the transmission principle. The purpose of spying is competitive advantage, like a lot of coaches' strategic work. Because spying gains a competitive advantage for one team that the other team does not get, the benefit is substantial, and that benefit comes primarily to the primary recipient, the soccer team manager. For Southampton, the apparent benefit was greater than the risk and penalty of getting caught.
 
-Eckert faces a UK Football Association charge in the spying scandal and could face individual punishment. He has also admitted to authorizing the observations during an EFL investigation. But it might be an entirely different situation if the same thing had occurred in Germany.
+Tonda Eckert faces a UK Football Association charge in the spying scandal and could face individual punishment. He has also admitted to authorizing the observations during an EFL investigation. But it might be an entirely different situation if the same thing had occurred in Germany.
 
 Say that German coaches spy regularly on opponents, and teams have significantly lower privacy expectations as a result. It is a measurably different norm for the same or similar social context. The information flow that is inappropriate in England is appropriate (or less inappropriate) among German soccer stakeholders. 
 
 Contextual integrity is a way to capture that subtle distinction. Doing a CI study is a matter of asking participants in the social context the who, what, how, and why for the CI parameters. Those questions can be in the form of interviews or a survey. Tease out the norms and expectations from the responses, and an analyst will have some sense for whether the information flows are appropriate. 
 
-Sometimes the research question is not assessing information flows. The CI framework can also be used to document information flows and social norms in order to understand the privacy expectations of stakeholder groups in that social context.
+Sometimes the research question is not assessing information flows. The CI framework can also be used to document information flows and social norms in order to understand the privacy expectations of stakeholder groups in a particular social context.
 
-The exercise in constructing the interview or survey is a lot like doing the pre-mortem analysis that coaches will use for game preparation. My research will draw up the scenarios where the information flow goes bad and then test to see which assumptions hold. Use CI this way, and you have a forecastable model that you can make evidence-based decisions against. 
+The exercise in constructing the interview or survey study design is a lot like doing the pre-mortem analysis that coaches will use for game preparation. My research will draw up scenarios where the information flow goes bad and then test to see which assumptions hold. Use CI this way, and you have a forecastable model that you can make evidence-based decisions against. 
 
 For example, an English soccer team owner can offer helpful guidance to his new manager from another country who believes in the maxim, "If you're not cheating, then you're not trying." With contextual integrity, you can say with confidence that this is what cheating looks like, and this is what trying looks like.
 
