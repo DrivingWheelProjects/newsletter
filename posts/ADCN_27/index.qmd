@@ -17,7 +17,7 @@ The Colorado research is the first example where the coordination is embodied, s
 
 “When we dance, our brains are actually coupling,” said Thiago Roque [to the *ZME Science* news service](https://www.zmescience.com/medicine/mind-and-brain/scientists-put-brain-scanners-on-tango-dancers-and-found-their-minds-moving-together/). “We are synchronizing our brains through our behavior.” Roque thinks that this research will have utility for teams during training that want to learn teammates patterns when play gets improvisational.
 
-Inter-brain coupling is just one example of human biological machinery automatically aligning social and personal activity. The neuro-social epicenter of the brain is the prefrontal cortex, which is also where decision-making occurs.
+Inter-brain coupling is just one example of human biological machinery automatically aligning social and physical activity. The neuro-social epicenter of the brain is the prefrontal cortex, which is also where decision-making occurs.
 
 Recent experiments in mice showed that the prefrontal cortex governs a group's collective resilience. Scientists used cold temperatures to see if and when the animals would huddle for warmth and when they would increase activity, two strategies to get warmer. The mice self-organize, huddling around group members who stop moving, and they huddle more as group size increases.
 
@@ -25,7 +25,7 @@ Recent experiments in mice showed that the prefrontal cortex governs a group's c
 
 The prefrontal cortex tracks the choices of social partners as closely as its own choices, comprehensively monitoring the group's collective state.
 
-The hormone oxytocin [has been called](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(13)70004-4/fulltext) the "sport hormone" ([more](https://pmc.ncbi.nlm.nih.gov/articles/PMC3444846/)) Oxytocin gets released in the body in response to touch. It is credited for eliciting the powerful bonding between mother and child that occurs during nursing. In a sports team context, [observational studies showed](https://abcnews.com/Health/winning-touch-nba-teams-touch-win-study/story?id=13801567) that teams who touched more had better won-loss records.
+The hormone oxytocin [has been called](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(13)70004-4/fulltext) the "sport hormone" ([more](https://pmc.ncbi.nlm.nih.gov/articles/PMC3444846/)). Oxytocin gets released in the body in response to touch. It is credited for eliciting the powerful bonding between mother and child that occurs during nursing. In a sports team context, [observational studies showed](https://abcnews.com/Health/winning-touch-nba-teams-touch-win-study/story?id=13801567) that teams who touched more had better won-loss records.
 
 University of Zurich [research](https://www.news.uzh.ch/en/articles/media/2026/oxytocin-group-competition.html) recently measured oxytocin levels in the urine of soccer players before and after matches. Oxytocin levels increased after matches, more so against rival communities. Those rivalries could be familiar opponents, or they could be unfamiliar opponents with known alternative beliefs. "This suggests that oxytocin is sensitive to the salience of the opposition," says professor Adrian Jaeggi.
 
@@ -38,7 +38,7 @@ In sports and in biology and in sports biology, everyone goes together.
 
 ### Problems with KPIs
 
-James Malone is a UK trainer and writes The Football Scientist newsletter. He has [a howto](https://maloneperform.substack.com/p/how-to-identify-meaningful-kpis-in) for doing KPIs (key performance indicators) right. 
+James Malone is a UK trainer and writes *The Football Scientist* newsletter. He has [a howto](https://maloneperform.substack.com/p/how-to-identify-meaningful-kpis-in) for doing KPIs (key performance indicators) right. 
 
 Mostly he says that packaged indicators from sports data services are mostly for monitoring athletes, and they are not super-useful. "Knowing what a player has done is useful, but understanding how they are responding is often far more valuable," he writes.
 
