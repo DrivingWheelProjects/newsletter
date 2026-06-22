@@ -1,5 +1,5 @@
 ---
-title: "ADCN: Beyond Elo, Athlete-Centeredness, News"
+title: "ADCN: Beyond Elo, Athlete-Centered, News"
 author: "Brad Stenger"
 date: "2026-06-21"
 ---
@@ -8,15 +8,15 @@ date: "2026-06-21"
 
 Nate Silver made his World Cup predictions. And he seems quite proud of [the PELE model](https://www.natesilver.net/p/pele-methodology) and ratings system (Predictive Elo with Lineup Equalibria). Elo is the way that tennis and lots of other sports ranks teams based on the zero sum math of one team wins, one team loses. Performance quality judgement criteria is wins, though a "win" can be defined a few different ways. Silver's PELE assigns credit based on matches' score differentials.
 
-Silver adds a few market related factors to add some nuance to PELE. He uses countries' national gross domestic product, the size of a country's economy, to differentiate big country from small country. National team players' market value is another meaningful value measure. 
+Silver adds a few market related factors to add some nuance to PELE. He uses countries' national gross domestic product, the size of a country's economy, to differentiate big country from small country. National team players' market value wage is another PELE data point. 
 
-TILT is a complimentary model that Silver uses along with PELE to account for teams' tactical propensity towards either offense or defense. When used together, PELE and TILT will predict whether Team A is better than Team B and then go the next step by predicting a score for the match.
+TILT is a complimentary model that Silver uses with PELE to account for teams' tactical propensity towards either offense or defense. When used together, PELE and TILT will predict whether Team A is better than Team B and then go the next step by predicting a score for the match.
 
-The most likely winner of the World Cup according to PELE will be one of Argentina, Spain, England, or France. So the model knows how to pick favorites. But be skeptical. Ecuador, ranked #15 in PELE (#29 FIFA) tied 0-0 against bottom-ranked Curacao (#83 FIFA).
+The most likely winner of the World Cup according to PELE will be Argentina, Spain, England, or France. So the model knows how to pick favorites. But be skeptical. Ecuador, ranked #15 in PELE (#29 FIFA) tied 0-0 against bottom-ranked Curacao (#83 FIFA).
 
 Simon Brundish offers an alternative quantitative lens to see how the World Cup is likely to play out. The focus here is on real-world factors that will affect players on every team and will compound with every game played, especially as the stakes and the competition-level increase.
 
-Brundish produces [an impressive gauge of players' fatigue](https://sportscienceguy.substack.com/p/everybody-is-tired-now) coming into this year's world tournament. The best players, the ones who are paid the most, who play in the best leagues, who play the most minutes in the most games, who bear the greatest expectations from fans, they are tired. And the highest ranked teams have more great (and exhausted) players. Fatigue doesn't just compromise talent, it presents an opportunity for less extraordinary but higher functioning players who play large roles on mid-tier squads.
+Brundish produces [an impressive gauge of players' fatigue](https://sportscienceguy.substack.com/p/everybody-is-tired-now) coming into this year's world tournament. The best players, the ones who are paid the most, who play in the best leagues, who play the most minutes in the most games, who bear the greatest expectations from fans, they are tired. And the highest ranked teams have more great (and exhausted) players. Fatigue doesn't just compromise talent, it presents an opportunity for less extraordinary but higher functioning players who play important roles on mid-tier squads.
 
 Brundish also describes other real-world aspects of the World Cup tournament that bear on physical performance, potentially amplifying fatigue. [Travel, altitude and heat](https://sportscienceguy.substack.com/p/hot-sticky-and-breathless) stand to have major implications on match and tournameent outcomes. The best way, according to Brundish, to manage players' readiness in tough weather environments is to provide a long-enough (~15 days) acclimation period, which hasn't been an option for most teams. 
 
@@ -28,17 +28,17 @@ England will be using [special Yuyu](https://news.uk.cityam.com/story/2433982/co
 
 Young players who might not experience the same level of fatigue as a more experienced elite player, can reach a performance peak (or just show a different role) given the opportunity for country instead of club. Examples pop up all over the media coverage. [Yasin Ayari](https://futiapp.substack.com/p/yasin-ayari-is-perfectly-imperfect) of Sweden and [Ayyoub Bouaddi](https://www.ft.com/content/accb33e7-4b8c-4c1a-b55f-694f5380bce5?syn-25a6b1a6=1) of Morocco are subjects in two interesting profiles. The best-of lists are [easy to find](https://www.espn.com/soccer/story/_/id/48786147/ranking-21-best-mens-u21-players-world-cup-yamal-guler-neves).
 
-The Silver PELE model accounts for age, giving some benefit to younger squads. Brundish put age with size (Big Lads Index) to make World Cup [squad profiles](https://sportscienceguy.substack.com/p/world-cup-fatigue-index) and differentiated ages by position and peak production (for example, forwards peak during age 23-25, midfielders 24-28). Most squads, according to Brundish, build teams around prime-age players. A team can go too far with youth and will miss the presence of World Cup veterans if they go that route. 
+The Silver PELE model accounts for age, giving some benefit to younger squads. Brundish examines age and size (his Big Lads Index) to make World Cup [squad profiles](https://sportscienceguy.substack.com/p/world-cup-fatigue-index) and differentiated ages by position and peak production (for example, forwards peak during age 23-25, midfielders 24-28). Most squads, according to Brundish, build teams around prime-age players. A team can go too far with youth and will miss the presence of World Cup veterans if they go that route. 
 
 The last bit on non-Elo insight into World Cup prediction comes from Ted Knutson, via the [Bet the Process podcast](https://podcasts.apple.com/us/podcast/world-cup-episode-with-ted-knutson-sponsored-by-novig/id1291010585?i=1000771946749). Knutson says that quality coaching makes a difference between winners and losers in the World Cup. Some coaches, he says, know how to prepare for and win tournament games. 
 
-The short-term, physical reality, no-Elo favors the U.S. World Cup team and suggests that USMNT will outperform its won-loss expectation. USMNT has easy travel and reasonable West Coast weather compared to teams based in the East and Midwest. The players are relatively young but not so young as to be inexperienced. Many of the most important players have had injuries or smaller roles that kept them from big minutes in top leagues. They should be relatively fresh. And Pochettino is [a tournament-ready tactical coach](https://bsky.app/profile/paultenorio.bsky.social/post/3mol5by7xds2g) who previously took Tottenham to second place in the Champions League.
+The short-term, physical reality, no-Elo analysis favors the U.S. World Cup team and suggests that USMNT will outperform its won-loss expectation. USMNT has easy travel and reasonable West Coast weather compared to teams based in the East and Midwest. The players are relatively young but not so young as to be inexperienced. Many of the most important players have had injuries or smaller roles that kept them from big minutes in top leagues. They should be relatively fresh. And Pochettino is [a tournament-ready tactical coach](https://bsky.app/profile/paultenorio.bsky.social/post/3mol5by7xds2g) who previously took Tottenham to second place in the Champions League.
 
 What is worrisome is that this World Cup tournament appears set to break (as in injure) some of the world's finest soccer players. From the round of 16 down to the final, the games should be competitive. Healthy, rested teams will have an advantage, not so different from the NBA champion Knicks and the NHL champion Hurricanes.
 
 ### Moving Toward Athlete-Centric Training
 
-*Nature* has [a printed interview](https://www.nature.com/articles/d41586-026-01865-2) with Vincent Gouttebarge, who authored with Adam Glenhill and others the paper, [Protecting Mental Health and Wellbeing at the Men's Football World Cup](https://link.springer.com/article/10.1007/s40279-026-02458-9) (paywall), in the journal, *Sports Medicine*. The interview is a howto for leagues and teams who want to prioritize the mental well-being of athletes, but the starting point is education. 
+*Nature* has [a printed interview](https://www.nature.com/articles/d41586-026-01865-2) with Vincent Gouttebarge, who authored with Adam Glenhill and others the paper, [Protecting Mental Health and Wellbeing at the Men's Football World Cup](https://link.springer.com/article/10.1007/s40279-026-02458-9) (paywalled, sorry), in the journal, *Sports Medicine*. The interview is a howto for leagues and teams who want to prioritize the mental well-being of athletes, but the starting point is education. 
 
 Players need the mental health literacy to ask for help even if it means overcome a social stigma that favors keeping quiet. Coaches needs the same mental health literacy in order to advocate and support players, and to not perpetuate any forms of social stigma.
 
