@@ -28,7 +28,9 @@ England will be using [special Yuyu](https://news.uk.cityam.com/story/2433982/co
 
 Young players might not experience the same level of fatigue as a more experienced elite player. They can reach a performance peak (or just show a different role) given the opportunity for country instead of club. Examples pop up all over the media coverage. [Yasin Ayari](https://futiapp.substack.com/p/yasin-ayari-is-perfectly-imperfect) of Sweden and [Ayyoub Bouaddi](https://www.ft.com/content/accb33e7-4b8c-4c1a-b55f-694f5380bce5?syn-25a6b1a6=1) of Morocco are subjects in two interesting profiles. The best-of and watch-for lists are [easy to find](https://www.espn.com/soccer/story/_/id/48786147/ranking-21-best-mens-u21-players-world-cup-yamal-guler-neves).
 
-The Silver PELE model accounts for age, giving some benefit to younger squads. Brundish examines age and size (his Age Fit Index and his Big Lads Index) to make World Cup [squad profiles](https://sportscienceguy.substack.com/p/world-cup-fatigue-index) and differentiated ages by position and peak production (for example, forwards peak during age 23-25, midfielders 24-28). Most squads, according to Brundish, build teams around prime-age players. A team can go too far with youth, he adds, and will miss the presence of World Cup veterans if they go that route. 
+The Silver PELE model accounts for age, giving some benefit to younger squads. Brundish examines age and size (his Age Fit Index and his Big Lads Index) to make World Cup [squad profiles](https://sportscienceguy.substack.com/p/world-cup-fatigue-index) and differentiated ages by position and peak production (for example, forwards peak during age 23-25, midfielders 24-28). 
+
+Most squads, according to Brundish, build teams around prime-age players. A team can go too far with youth, he adds, and will miss the presence of World Cup veterans if they go that route. 
 
 The last bit on non-Elo insight into World Cup prediction comes from Ted Knutson, via the [Bet the Process podcast](https://podcasts.apple.com/us/podcast/world-cup-episode-with-ted-knutson-sponsored-by-novig/id1291010585?i=1000771946749). Knutson says that quality coaching makes a difference between winners and losers in the World Cup. Some coaches, he says, know how to prepare for and win tournament games. 
 
@@ -42,7 +44,7 @@ What is worrisome is that this World Cup tournament appears set to break (as in 
 
 The starting point is education. 
 
-Players need mental health literacy to ask for help even if it means overcome a social stigma that favors keeping quiet. Coaches needs the same mental health literacy in order to advocate and support players, and to not perpetuate whatever forms of social stigma that exist.
+Players need mental health literacy to ask for help even if it means overcoming a social stigma that favors keeping quiet. Coaches needs the same mental health literacy in order to advocate and support players, and to not perpetuate whatever forms of social stigma that exist.
 
 Inter Miami, the MLS club based in South Florida, [recently published](https://sportperfsci.com/a-decision-driven-framework-for-interdisciplinary-player-evaluation-in-elite-football/) a version of the team's player evaluation metrics. The framework is a comprehensive set of tools that integrate the club's Performance, Rehabilitation, Nutrition and Medical departments. The paper that explains their framework does not include any actual data.
 
@@ -54,7 +56,7 @@ Human-centered computing is an active area of computer science research. [The mo
 
 My Masters degree is in Human-Computer Interaction. The work combined computer science with human factors psychology and design, and it set the stage for human-centered computing. The evolution from HCI to human-centered computing was purposeful, with a clear intention to put the focus squarely on human needs, benefits, and experiences that come with computers and technology.
 
-Human-centered computing managed to grow tentacles that brought the ethic to other domains. For example, student-centered education initiatives seek to replace instructor-friendly rigid methodology with more learner-friendly flexible instruction. Less momorization. More projects. Less uniformity. More autonomy.
+Human-centered computing managed to grow tentacles that brought the ethic to other domains. For example, student-centered education initiatives seek to replace instructor-friendly rigid methodology with more learner-friendly flexible instruction. Less memorization. More projects. Less uniformity. More autonomy.
 
 Athlete-centered training, if it were to follow human-centered precepts, would emphasize well-being and account for a comprehensive understanding of athlete health that includes its cognitive and mental aspects. It would also emphasize athletes' data privacy, despite any resulting cost and inconvenience.
 
