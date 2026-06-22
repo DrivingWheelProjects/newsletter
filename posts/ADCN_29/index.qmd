@@ -18,7 +18,7 @@ Simon Brundish offers an alternative quantitative lens to see how the World Cup 
 
 Brundish produces [an impressive gauge of players' fatigue](https://sportscienceguy.substack.com/p/everybody-is-tired-now) coming into this year's world tournament. The best players, the ones who are paid the most, who play in the best leagues, who play the most minutes in the most games, who bear the greatest expectations from fans, they are tired. And the highest ranked teams have more great (and exhausted) players. Fatigue doesn't just compromise talent, it presents an opportunity for less extraordinary but higher functioning players who play important roles on mid-tier squads.
 
-Brundish also describes other real-world aspects of the World Cup tournament that bear on physical performance, potentially amplifying fatigue. [Travel, altitude and heat](https://sportscienceguy.substack.com/p/hot-sticky-and-breathless) stand to have major implications on match and tournameent outcomes. The best way, according to Brundish, to manage players' readiness in tough weather environments is to provide a long-enough (~15 days) acclimation period, which hasn't been an option for most teams. 
+Brundish also describes other real-world aspects of the World Cup tournament that bear on physical performance, potentially amplifying fatigue. [Travel, altitude and heat](https://sportscienceguy.substack.com/p/hot-sticky-and-breathless) stand to have major implications on match and tournament outcomes. The best way, according to Brundish, to manage players' readiness in tough weather environments is to provide a long-enough (~15 days) acclimation period, which hasn't been an option for most teams. 
 
 Acclimation will need to occur during the opening weeks' matches. Fatigue will complicate the situation. Top-tier teams can manage, but mid-tier teams that fight for next round spots could suffer. Travel will be inevitable for all teams who move into the quarterfinals and beyond. For them, the journal *Sports Medicine* published a [scientific blueprint](https://link.springer.com/article/10.1007/s40279-026-02455-y) for optimized sports team travel.
 
@@ -38,7 +38,9 @@ What is worrisome is that this World Cup tournament appears set to break (as in 
 
 ### Moving Toward Athlete-Centric Training
 
-*Nature* has [a printed interview](https://www.nature.com/articles/d41586-026-01865-2) with Vincent Gouttebarge, who authored with Adam Glenhill and others the paper, [Protecting Mental Health and Wellbeing at the Men's Football World Cup](https://link.springer.com/article/10.1007/s40279-026-02458-9) (paywalled, sorry), in the journal, *Sports Medicine*. The interview is a howto for leagues and teams who want to prioritize the mental well-being of athletes, but the starting point is education. 
+*Nature* has [a printed interview](https://www.nature.com/articles/d41586-026-01865-2) with Vincent Gouttebarge, who authored with Adam Glenhill and others the paper, [Protecting Mental Health and Wellbeing at the Men's Football World Cup](https://link.springer.com/article/10.1007/s40279-026-02458-9) (paywalled, sorry), in the journal, *Sports Medicine*. The interview is a howto for leagues and teams who want to prioritize the mental well-being of athletes.
+
+The starting point, it seems, is education. 
 
 Players need the mental health literacy to ask for help even if it means overcome a social stigma that favors keeping quiet. Coaches needs the same mental health literacy in order to advocate and support players, and to not perpetuate any forms of social stigma.
 
@@ -48,13 +50,13 @@ Inter Miami, the MLS club based in South Florida, [recently published](https://s
 
 The evaluation framework does not have a well-being or mental health metric or observation criteria, instead choosing to focus on status, readiness, and capacity measures. The paper authors claim that "this structure enables a balanced and interdisciplinary characterization of player status across physiological, mechanical, and behavioral dimensions" and "these domains interact to support integrated decisionmaking related to player availability, training exposure, and performance development." Mental health, however, is a blind spot.
 
-Human-centered computing is an active area of computer science research. [The movement to make computing human-centered](https://engineering.stanford.edu/news/james-landay-paving-path-human-centered-computing) started twenty or so years ago, as software became prevalent and the Internet started on its path toward becoming a major presence. The initiative relied on instilling a design sense among what had been mostly technical programmers and engineers.
+Human-centered computing is an active area of computer science research. [The movement to make computing human-centered](https://engineering.stanford.edu/news/james-landay-paving-path-human-centered-computing) started twenty-plus years ago, when software was prevalent (and often not good) and the Internet had started to become a major presence. The initiative relied on instilling a design sense and an empathy among what had been mostly technical programmers and engineers.
 
-My Masters degree is in Human-Computer Interaction. The work combined computer science with human factors psychology and design, and it set the stage for human-centered computing. The evolution was purposeful, with a clear intention to put the focus squarely on the human needs, benefits, and experiences that have to do with computers and technology.
+My Masters degree is in Human-Computer Interaction. The work combined computer science with human factors psychology and design, and it set the stage for human-centered computing. The evolution from HCI to human-centered computing was purposeful, with a clear intention to put the focus squarely on human needs, benefits, and experiences that have to do with computers and technology.
 
-Human-centered computing managed to have tentacles that brought the ethic to other domains. For example, student-centered education initiatives seek to replace instructor-friendly rigid methodology with more learner-friendly flexible instruction. Less momorization. More projects. Less uniformity. More autonomy.
+Human-centered computing managed to grow tentacles that brought the ethic to other domains. For example, student-centered education initiatives seek to replace instructor-friendly rigid methodology with more learner-friendly flexible instruction. Less momorization. More projects. Less uniformity. More autonomy.
 
-Athlete-centered training, if it were to follow human-centered precepts, would emphasize well-being and a comprehensive understanding of athlete health that includes its cognitive and mental aspects.
+Athlete-centered training, if it were to follow human-centered precepts, would emphasize well-being and a comprehensive understanding of athlete health that includes its cognitive and mental aspects. It would also emphasize athletes' data privacy, despite the cost and inconvenience.
 
 ### News
 
