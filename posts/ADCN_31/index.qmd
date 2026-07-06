@@ -6,19 +6,19 @@ date: "2026-07-06"
 
 ### The New Mitochondria Metabolism
 
-Mitochondria are the section of a cell that turns oxygen and nutrients from food into electrical energy that the human body uses to do work. That work can be physical or cognitive. Mitochondria are crucial to muscles and crucial to brains. 
+Mitochondria are the section of a cell that turns oxygen from respiration and nutrients from digestion into electrical energy that the human body uses to do work. That work can be physical or cognitive. Mitochondria are crucial to muscles and crucial to brains. 
 
 Researchers have been working toward an advanced understanding of how mitochondria work and what mitochondria do. We'll look at what's new in the field and how it applies to athletes.
 
-NPR's TED Radio Hour [podcast](https://www.npr.org/2026/05/15/nx-s1-5807942/think-mitochondria-is-just-the-powerhouse-of-the-cell-think-again) has a useful explainer for mitochondria's role in the emerging understanding of human metabolism. The pod gives 18 minutes to Columbia University medical research, Martin Picard. Picard has been working up a theory that how the body manages energy supply and demand is central to human health. 
+NPR's *TED Radio Hour* [podcast](https://www.npr.org/2026/05/15/nx-s1-5807942/think-mitochondria-is-just-the-powerhouse-of-the-cell-think-again) has a useful explainer for mitochondria's role in the emerging understanding of human metabolism. The pod gives 18 minutes to Columbia University medical research, Martin Picard. Picard has been working up a theory that how the body manages energy supply and demand is central to human health. 
 
-Picard also appears in a recent article at *The Transmitter*, a [deep dive](https://www.thetransmitter.org/mitochondria/the-fast-expanding-repertoire-of-mitochondria-in-the-brain/) into mitochondria and the brain. The brain is energy intensive, using 20 percent of the body's calories. The author, Giorgia Guglielmi, describes how the energy mitochondria provide is a limiting factor for cognition and memory, but the chemical byproducts of energy production are important signals for governing brain function. 
+Picard also appears in a recent article at *The Transmitter*, a [deep dive](https://www.thetransmitter.org/mitochondria/the-fast-expanding-repertoire-of-mitochondria-in-the-brain/) into mitochondria and the brain. The brain is energy intensive, using 20 percent of the body's calories. The author, Giorgia Guglielmi, describes how the energy mitochondria provide is a limiting factor for cognition and memory. The chemical byproducts of energy production are important signals for governing brain function, she also writes. 
 
 Mood, sleep, and stress response are neurological conditions that are, in part, controlled by metabolism. People are different because our individual energy systems are unique. Some animals are more or less resilient to stress. The wide variation is due to differences in mitochondrial activity in the brain and its correlation with anxiety-like behavior and social avoidance, Picard told Guglielmi.
 
-There is exciting recent progress into how mitochondria fail to function and how proper function can be restored. Mitochondrial diseases are difficult to diagnose because of how prevalent mitochondria are in the body and because symptoms like fatigue are seen in other, more common disease types. Harvard undergraduate Konstantinos Maliaris used his [senior capstone project](https://seas.harvard.edu/news/konstantinos-maliariss-senior-project-more-accurate-way-test-mitochondria-cells) to test real-time mitochondrial health. 
+There is exciting recent progress into how mitochondria fail to function and how proper function can be restored. Mitochondrial diseases are difficult to diagnose because of how prevalent mitochondria are in the body and because symptoms like fatigue are seen in other, more common disease types. 
 
-Researchers at Karolinska Institute in Stockholm [identified unique genetic machinery](https://news.ki.se/how-mitochondria-build-their-protein-factories) that creates proteins that are necessary for energy production. Other researchers at the University of Basel [have developed](https://singularityhub.com/2026/04/21/scientists-revive-failing-cells-with-mitochondria-transplants/) a delivery system called MitoCatch that can attach healthy, transplanted mitochondria to damaged cells.  
+Harvard undergraduate Konstantinos Maliaris used his [senior capstone project](https://seas.harvard.edu/news/konstantinos-maliariss-senior-project-more-accurate-way-test-mitochondria-cells) to test real-time mitochondrial health. Researchers at Karolinska Institute in Stockholm [identified unique genetic machinery](https://news.ki.se/how-mitochondria-build-their-protein-factories) that creates proteins that are necessary for energy production. Other researchers at the University of Basel [have developed](https://singularityhub.com/2026/04/21/scientists-revive-failing-cells-with-mitochondria-transplants/) a delivery system called MitoCatch that can attach healthy, transplanted mitochondria to damaged cells.  
 
 An athlete would not experience this sort of cell-level failure. Genes, disease, or age can cause mitochondrial dysfunction, and it's not characteristic of athlete populations. Is there an athletic boost possible from turbocharging mitochondria? Not likely. Mitochondria already scale up to meet physiological demands in what is already a finely tuned system. 
 
@@ -28,7 +28,7 @@ Research is showing paying attention to nutrition will help mitochondrial functi
 
 Other German scientists at Fritz Lipmann Institute [recently found](https://www.sciencealert.com/the-cells-in-your-body-fade-with-age-but-there-may-be-a-way-to-reverse-it) that one reason mitochondria slow down with age is because of a decline in phosphatidylcholine, a specific fat molecule. Choline is the essential nutrient that generates phosphatidylcholine, and it (like leucine) is plentiful in animal proteins.
 
-Supplements probably are not necessary, but animal protein is a much better source of essential amino acids and nutrients than plant protein. A quality diet suffices. Bad diets can be costly, depending on individual athlete variation.
+Supplements probably are not necessary, but animal protein is a much better source of essential amino acids and nutrients than plant protein. A quality diet suffices. Bad diets can penalize an athlete though, depending on individual athlete variation.
 
 Is there data that describes athletes' mitochondria health? Tests for metabolic biomarkers are available, but they do not merit the cost. Not when VO2max measurement (or estimate using a wearable) for oxygen utilization provides a good reading on mitochondrial function. Howard Luks has [an excellent rundown](https://www.howardluksmd.com/vo2-max-its-not-just-about-your-mitochondria/) on VO2max and how it ties to mitochondrial health.
 
@@ -36,7 +36,9 @@ Is there data that describes athletes' mitochondria health? Tests for metabolic 
 
 Martin Picard has called for [a top-to-bottom reappraisal](https://tseenergy.substack.com/p/from-genetics-to-energetics) of human health, saying that principles of energy conservation and transfer in the body are an effective window into what's working and not working in the human body. Athletes, especially athletes who have created lifelong habits, have the sort of high-functioning metabolisms that usually coincide with good health.
 
-While it is easy to see how athletes will help this research, how does this research help athletes? Everything that gives a clearer picture on metabolism and mitochondrial function speaks to the diversity and individualization of athletes' personal energy systems. In time, athletes will have greater responsibility to be their own experts in how their bodies work best. If everyone in sports can keep the metabolic guessing to a minimum, athletes' learning should be easier.
+While it is easy to see how athletes will help this research, how does this research help athletes? Everything that gives a clearer picture on metabolism and mitochondrial function speaks to the diversity and individualization of athletes' personal energy systems. 
+
+In time, athletes will have greater responsibility to be their own experts in how their bodies work best. If everyone in sports can keep the metabolic guessing to a minimum, athletes' learning should be easier.
 
 ### NCAA Eligibility Affect on Athletes
 
@@ -52,7 +54,7 @@ The decision to start the clock at age 19 [fits far better]((https://myhockeyran
 
 Age-based eligibility is the starting point for a new normal in college sport, which makes sense. Some late-blooming athletes could get closed out, but the NCAA rules might lead to new, alternative pathways for elite athlete development. That should not be a bad thing.
 
-The standard 5-year window might increase the stakes for universities and for athletes to collaborate effectively and provide financial returns within that time window. If that occurs, the importance of athletes' data and the volume of athletes' data collected could both increase.
+A new standard 5-year window might increase the stakes for universities and for athletes to collaborate effectively and provide financial returns within that time window. If that occurs, the importance of athletes' data and the volume of athletes' data collected will probably both increase.
 
 ### News 
 
