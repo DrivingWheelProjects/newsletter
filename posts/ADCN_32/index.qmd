@@ -4,6 +4,8 @@ author: "Brad Stenger"
 date: "2026-07-12"
 ---
 
+The Athletes Data Community Newsletter is produced by Brad Stenger, a Computer Science PhD student at the University of Vermont who researches privacy for and sharing of athletes' data. 
+
 ### Technician-Analyst-Translator Roles to Coordinate Athlete Performance
 College athletic departments, mostly at larger schools with more athletes and bigger budgets, now hire specialists for a role in their athlete performance and sports science group that is a combination of technician, analyst, and translator. I have been surprised to learn how essential this role has become, in part because I have been applying for these jobs.
 
@@ -13,7 +15,7 @@ Some universities have taken steps to integrate academic research groups with at
 
 It is also possible to enable athletic research collaborations through engineering. Texas Christian University [recently launched](https://www.tcu.edu/news/2026/tcu-launches-roach-institute-of-athlete-engineering.php) its Roach Institute of Athlete Engineering, having poached Reuben Burch, who had previously [established](https://www.msstate.edu/newsroom/article/2024/04/msu-launches-new-athlete-engineering-institute-drive-innovations-human) the Athlete Engineering Institute at Mississippi State University. At the University of Vermont, where I study, the Bioengineering Department will offer its first-ever Sports Engineering class this Fall.
 
-The translator in the T-A-T role helps with the challenge of translational research, taking the research that originates in an experiment or a question and then delivering on its practical benefit and the solution it offers to real-world problems. Hands-on abilities as technician and analyst are invaluable here.
+The translator in the T-A-T role helps with the challenge of translational research, taking the research that originates in an experiment or a question and then delivering on its practical benefit and the solution it offers to real-world problems. Hands-on abilities as technician and analyst are invaluable here, but the job also requires curiosity, intelligence, the patience to listen, and the ability to communicate. Also, be friendly. Translating research is like sales. It gets a lot easier when people like you.
 
 These roles are not brand new. Dave Tenney [hired](https://www.geekwire.com/2015/from-microsoft-to-the-mls-ravi-ramineni-crunches-data-to-help-the-sounders-win/) Ravi Ramineni at the Seattle Sounders to be his athlete performance technician/analyst in 2012. Ramineni would go on to become a vice president and oversee all the organization's research initiatives. 
 
