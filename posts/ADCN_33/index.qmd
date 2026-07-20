@@ -8,11 +8,11 @@ date: "2026-07-19"
 
 Eric Topol argues that medicine should put less emphasis on calendars and put more emphasis on clocks. Calendars are unreliable, [he writes](https://erictopol.substack.com/p/medicine-is-moving-from-calendars) in his Substack (which summarizes in his recent technical review article in *Nature Medicine*). Different tissues age at different rates, with all the usual reasons why (genetics, environment, habits, etcetera). 
 
-The right thing to do for an individual with lower brain age, higher heart age, plus some extra wear and tear on other organs, according to Topol, is to take advantage of the good and compensate for the bad while monitoring what is potentially at risk.
+The right thing to do for an individual with lower brain age, higher heart age, plus some extra wear and tear on other organs, according to Topol, is to take advantage of what's good and compensate for what's bad and monitor what else could go sideways.
 
 ![](AgeWaves.png)
 
-Ultimately, age is not a progression. For a full-grown adult, it is a series of tissue-specific cascades. Topol has a graphic in the review paper showing how aging occurs in three major waves: mid-30s, 60s, and right before the finish line (78 on average).
+Ultimately, age is not a progression. For a full-grown adult, it is a series of tissue-specific cascades. Topol has a graphic in the review paper showing how aging occurs in three major waves: early-30s, 60s, and right before the finish line (78 on average).
 
 ![](UrbutModel.png)
 
@@ -30,9 +30,9 @@ Does a theory of clocks, not calendars, hold up for young athletes who have yet 
 
 Devin Gordon documented the injury-rehabilitate-reinjury cycle that affects more and more young athletes. Gordon writes in *The New York Times Magazine* that advances in biomechanics and sports science have raised the physical limits for what's athletically possible, and then beyond it, to where something inevitably breaks. At that point surgical advances kick in, and today's athletes are confident that "no matter what breaks, modern medicine can fix it."
 
-If the risk of major injury is pervasive in elite sport but the financial incentive makes the risk worthwhile, who expresses the downside? 
+If the risk of major injury is pervasive in elite sport but the financial incentive makes the risk worthwhile, who describes the downside risk of the situation? 
 
-There is a proposal to calculate a fuller, life-long economic estimate for an athlete's injury ([called DASY](https://newsletter.bradstenger.com/posts/ADCN_23/index.html#the-disability-adjusted-sporting-year-dasy), Disability-Adjusted Sporting Year). I have also heard analysts who would like to adopt an engineering risk perspective, similar to how regulators might determine when a bridge can no longer support x-number of cars and needs to be retired and replaced.
+There is a proposal to calculate a fuller, life-long economic estimate for an athlete's injury ([called DASY](https://newsletter.bradstenger.com/posts/ADCN_23/index.html#the-disability-adjusted-sporting-year-dasy), Disability-Adjusted Sporting Year). I have also heard analysts who would like to adopt an engineering risk perspective, similar to how experts might determine when a bridge can no longer support x-number of cars and needs to be retired and replaced.
 
 The calendar in performance analysis is the [aging curve](https://www.google.com/search?q=pro+sports+aging+curves&oq=pro+sports+aging+curves), a fundamental aspect of lots of sports data analytics. DASY and engineering risk are approaches that can capture more complexity and utilize more of the facets that play roles in athlete injuries.
 
@@ -44,7 +44,7 @@ The bigger hope for progress probably isn't the modeling. It's the data. Biologi
 
 They say that exciting times are close at hand. Progress toward sensors that also compute puts intelligence right there with the collected signals. The brain, body, and home will all have far greater sensor exposure.
 
-One expert said that it will be possible to read cellular states for all manner of tissues, not just neurological bioelectrics, adding that it "is not merely a technical step but an ethical inflection." The ability to know a 22-year-old point guard has 37-year-old ankles might help some people, and those some people might not be the athlete.
+One expert said that it will be possible to read cellular states for all manner of tissues, not just neurological bioelectrics, adding that it "is not merely a technical step but an ethical inflection." The ability to know when a 22-year-old point guard has 37-year-old ankles might help some people, and those some people might not be the athlete.
 
 ### Rehabilitation and the Biopsychosocial Model
 
@@ -58,11 +58,13 @@ Keter argues that patients who need musculoskeletal treatment are best viewed th
 
 Biopsychosocial models are important for understanding pain, where human experience can exaggerate or diminish aspects in ways that vary among groups of people and vary in a lone individual depending on lots of circumstances. 
 
-Whether it's pain or physical therapy, referencing biopsychosocial is a cue for personalization, which Keter does in a [second paper](https://www.sciencedirect.com/science/article/abs/pii/S2468781226001074). Personalized treatments also come with the need to manage athletes' data in order to have the best possible collection of evidence in order to minimize (in the present or future) the trial and error that patients have to experience.
+Whether it's pain or physical therapy, referencing biopsychosocial is a cue for personalization, which Keter does in a [second paper](https://www.sciencedirect.com/science/article/abs/pii/S2468781226001074). 
+
+Personalized treatments also come with the need to manage athletes' data in order to have the best possible collection of evidence in order to minimize (in the present or future) the trial and error that patients have to experience.
 
 ### Surveilling Data Workers
 
-Nurses feel that one side effect of the data-rich triage work that their job requires has been workplace surveillance. According to Khari Johnson in an [article](https://themarkup.org/artificial-intelligence/2026/07/09/kaiser-permanente-nurses-say-technology-is-making-their-jobs-and-patient-care-worse) at *The Markup,* Kaiser Permanente nurses do not like the AI systems that were put in place to help them and to help patients. The systems help management to keep tabs on the nurses, and the systems are of no benefit to other users. 
+Nurses feel that one side effect of the data-rich triage work that their job requires has been workplace surveillance. According to Khari Johnson in an [article](https://themarkup.org/artificial-intelligence/2026/07/09/kaiser-permanente-nurses-say-technology-is-making-their-jobs-and-patient-care-worse) at *The Markup,* Kaiser Permanente nurses do not like the AI systems that were put in place to help them and to help patients. The systems help management to keep tabs on the nurses without really helping anyone else. 
 
 Nurses regularly decide to override the automated care recommendations. The automation is not just there to provide helpful information. It is also designed to reduce call times between nurses and patients.
 
