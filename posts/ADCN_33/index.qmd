@@ -1,10 +1,10 @@
 ---
-title: "ADCN: Clocks and Sensors, Coach Surveillance, News"
+title: "ADCN: Clocks and Sensors, Biopsychosocial Rehab, Coach Surveillance, News"
 author: "Brad Stenger"
 date: "2026-07-19"
 ---
 
-### Clocks, Not Calendars
+### Clocks, Not Calendars, with Sensors
 
 Eric Topol argues that medicine should put less emphasis on calendars and put more emphasis on clocks. Calendars are unreliable, [he writes](https://erictopol.substack.com/p/medicine-is-moving-from-calendars) in his Substack (which summarizes in his recent technical review article in *Nature Medicine*). Different tissues age at different rates, with all the usual reasons why (genetics, environment, habits, etcetera). 
 
