@@ -23,7 +23,7 @@ Kim Blair founded the Center for Sports Engineering in MIT's Department of Aeron
 
 What is new is the formal recognition of a cross-discipline, cross-organization role in organizations to facilitate collaboration. The National Strength and Conditioning Association outlines the role in [a job description template](https://www.nsca.com/globalassets/certification/cpss/hiring-information/coordinator-of-performance-and-sport-science-example-job-description.pdf) for a "coordinator of performance and sports science." Not every athletic department's operating definition of sports science extends to and includes university research, but there appears to be a growing recognition that it can, and that it should.
 
-I recently visited Natalie Kupperman at the University of Virginia. She has a PhD in Physical Therapy and has been an athletic trainer in the UVA athletic department, where she carried out a number of significant field studies. 
+I recently visited Natalie Kupperman at the University of Virginia. She has a PhD in Kinesiology/Sports Medicine and has been an athletic trainer in the UVA athletic department, where she carried out a number of significant field studies. 
 
 As the university moved to create a School of Data Science, one objective has been to have the school work closely with university athletics, giving Kupperman an academic homebase. Kupperman has one foot in the university research operation and one foot in the university athletic community, effectively cementing the two. She is at the center of a fruitful collaboration that is poised to grow.
 
