@@ -3,7 +3,7 @@ title: "ADCN: Zipfs Law, Altitude + Microdosing Training, News"
 author: "Brad Stenger"
 date: "2026-07-26"
 ---
-The Athletes Data Community Newsletter (ADCN) is produced by Brad Stenger, a PhD student in Computer Science at the University of Vermont who researches privacy and sharing for athletes' data.
+Brad Stenger produces the Athletes Data Community Newsletter (ADCN). He is a PhD student in Computer Science at the University of Vermont and researches athletes' data privacy and athletes' data sharing.
 
 ### Zipfs Law and Talent Pipelines
 
@@ -21,25 +21,25 @@ Behavior is inherently unpredictable with younger athletes whose circumstances c
 
 How do sports teams manage the unpredictability? If a team can combine stable culture (to manage circumstance) and effective training, then an athlete's development trajectory will exist within a sensible framework, where norms and expectations define useful bounds. That's what Bill Self was doing, setting bounds and expectations.
 
-Odd Lots is another podcast produced by *Bloomberg* that deals with quantitative aspects of finance. The World Cup gave the show hosts [an opportunity to talk about soccer and analytics](https://www.youtube.com/watch?v=tqDcrOiKUuY) with a couple of former investment trading analysts. Portfolio strategy and roster construction go hand in hand, according to Mike Treacy, who consults for Austin FC in MLS.
+*Odd Lots* is a podcast produced by *Bloomberg* that deals with quantitative aspects of finance. The World Cup gave the show hosts [an opportunity to talk about soccer and analytics](https://www.youtube.com/watch?v=tqDcrOiKUuY) with a couple of former investment trading analysts. Portfolio strategy and roster construction go hand in hand, according to Mike Treacy, who consults for Austin FC in MLS.
 
 The task of roster construction affects athletes and coaches who have more choices to make at lower and lower levels of sport. Fortunately, "sorting mechanisms are getting a lot more efficient," according to Gladwell. To which Rich Roll followed up, so why isn't the U.S. great at soccer?
 
 Things got interesting. Gladwell explained that there are two ways to develop more elite talent in any field. You can improve "scale" by increasing the number of athletes in the talent pool and then reasonably expect more successful high-level athletes to come out the bottom of the talent funnel.
 
-The idea that a big population automatically generates talent just by being big is, however, wrong. This is because of the second talent-manufacturing method. Gladwell calls it "exploitation." Instead of raising the quantity of the talent pool, raise the quality of the talent pool.
+The idea that a big population automatically generates talent just by being big is wrong. This is because of Gladwell's second talent-manufacturing method. He calls it "exploitation." Instead of raising the quantity of the talent pool, raise the quality of the talent pool.
 
 Be more selective, but also, at the same time, be smart. Hotbeds of talent are places that have become good at picking who to include and who to exclude. They know where to set the bar and then how to apply the standard, like Bill Self during tryouts.
 
-Arsene Wenger [told](https://www.theguardian.com/football/2026/jul/16/arsene-wenger-us-soccer-development) *The Guardian* how he developed soccer academies in France, starting in the 1980s, "You have to be consistent, and one of the things that is the most neglected is an identification of talent. It demands an eye. It demands an education. It demands consistency, to always give a chance to young players, to identify who has talent in five years—not now—and that is not easy to develop in every country."
+Or like Arsene Wenger, who [told](https://www.theguardian.com/football/2026/jul/16/arsene-wenger-us-soccer-development) *The Guardian* about how he developed soccer academies in France, starting in the 1980s, "You have to be consistent, and one of the things that is the most neglected is an identification of talent. It demands an eye. It demands an education. It demands consistency, to always give a chance to young players, to identify who has talent in five years—not now—and that is not easy to develop in every country."
 
-*Goal.com* [expanded on](https://www.goal.com/en-ng/lists/we-want-to-be-argentina-we-want-to-be-spain-how-u-s-soccer-plans-to-ride-the-world-cup-wave-to-change-development-education-and-pay-for-play/bltd1d28ea495a487d3) Wenger's role in the U.S. youth soccer project, stressing the importance of early training: "Feet demand to be educated at five, six, seven years old, and that's why the identification of talent is so important. That's why we want to cover the whole country and give a chance to everybody."
+*Goal.com* [expanded on](https://www.goal.com/en-ng/lists/we-want-to-be-argentina-we-want-to-be-spain-how-u-s-soccer-plans-to-ride-the-world-cup-wave-to-change-development-education-and-pay-for-play/bltd1d28ea495a487d3) Wenger's role in a U.S. youth soccer project, stressing the importance of early training: "Feet demand to be educated at five, six, seven years old, and that's why the identification of talent is so important. That's why we want to cover the whole country and give a chance to everybody."
 
 The U.S. has an opportunity to raise the talent level with scale and with exploitation. It won't be easy. 
 
-It is possible to [compare adjacent ranking systems](https://compstorylab.org/allotaxonometry/papers/rank-turbulence-divergence/), like for California youth soccer and for Texas youth soccer. The distributions should follow Zipf's Law, where frequencies drop proportionally to the inverse of their rank. The distributions should have [a heavy tail](https://www.google.com/search?q=heavy-tailed+Zipfian) with very small numbers in the upper ranks and massive numbers in the lower ranks.
+Complex systems math makes it possible to [compare adjacent ranking systems](https://compstorylab.org/allotaxonometry/papers/rank-turbulence-divergence/). For example, consider California youth soccer and Texas youth soccer. The distributions for teenage soccer players should follow Zipf's Law, where frequencies drop proportionally to the inverse of their rank. The distributions should have [a heavy tail](https://www.google.com/search?q=heavy-tailed+Zipfian) with very small numbers in the upper ranks and massive numbers in the lower ranks.
 
-Each state's youth soccer is its own complex system. When you do the system comparisons, the highest-ranking players in each state will have many characteristics in common. Player characteristics become less uniform and more "turbulent" as you progress down the heavy tail to lower-ranked players.
+Each state's youth soccer is its own complex system. When you do the system comparisons, the highest-ranking players in each state will have many characteristics in common. Player characteristics become less uniform and more "turbulent" as you progress down the heavy tail to the lower-ranked players.
 
 Wenger seems to be saying that U.S. Soccer needs to understand the turbulence in order to look past what's obvious among the top-ranked players. 
 
@@ -55,7 +55,7 @@ Pogacar had his sleep interrupted for [a drug test](https://cyclingmagazine.ca/s
 
 The extra testing is a countermeasure that race officials took to catch riders who microdose blood-thinning EPO. A microdose can be ingested just after the normal window and clear the body before the next window starts. 
 
-EPO is the same substance that Lance Armstrong and his team used, just in a more sophisticated manner.
+EPO is the same substance that Lance Armstrong and his team [used](https://www.youtube.com/watch?v=JMaV-e1woGc). Same material, now used in a more sophisticated manner.
 
 How sophisticated? Writer James Witts calls one part of this approach to doping [the altitude alibi](https://x.com/Roadman_Podcast/status/2079574797948772464) ([more](https://en.brujulabike.com/altitude-could-conceal-a-new-almost-undetectable-doping-system-according-to-the-new-book-by-james-witts/) and [more](https://www.threads.com/@cyclingnews_feed/post/DbNQO7FFuFj/an-altitude-alibi-does-cyclings-anti-doping-system-have-a-major-loophole/)).
 
@@ -65,9 +65,9 @@ The reverse also occurs. Endurance athletes can do more work at lower altitude t
 
 Athletes who microdose EPO gain both blood oxygen capacity and fitness. No sacrifice required. Witts says that endurance athletes don't go up to the mountains to train. They go there to dope.
 
-Lance Armstrong provides Tour de France commentary at [THEMOVE podcast](https://www.youtube.com/watch?v=vLibQ-4dBFU&list=PLVxvkgh82tFopMoCcV4AgNqvgeBj2JfPq&index=7). He said the only next step available for race authorities is to put 24-hour watches on athletes.
+Lance Armstrong provides Tour de France commentary at [THEMOVE podcast](https://www.youtube.com/watch?v=vLibQ-4dBFU&list=PLVxvkgh82tFopMoCcV4AgNqvgeBj2JfPq&index=7). He said the only next possible increase in surveillance available for race authorities is to put 24-hour watches on athletes.
 
-This year's Tour also saw the arrival of new [lactate gel fueling products](https://www.bikeradar.com/news/enervit-c21-pro-lactate-gel-mix). Lactate can fuel muscles, and the body delivers it through a different pathway from fructose, glucose, or another sugar. It might also contribute to shifting blood chemistry, acting as an acid-base buffer like sodium bicarbonate does. 
+Separate but interesting: This year's Tour also saw the arrival of new [lactate gel fueling products](https://www.bikeradar.com/news/enervit-c21-pro-lactate-gel-mix). Lactate can fuel muscles, and the body delivers it through a different pathway from fructose, glucose, or another sugar. It might also contribute to shifting blood chemistry, acting as an acid-base buffer like sodium bicarbonate does. 
 
 Without buffering, acid levels spike during extended periods of work by athletes. Spiking blood acid signals fatigue to endurance athletes' brains.
 
