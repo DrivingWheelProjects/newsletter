@@ -1,11 +1,11 @@
 ---
-title: "ADCN: Zipfs Law, Altitude + Microdosing Training, News"
+title: "ADCN: Zipfs Law, Altitude + Microdosing, News"
 author: "Brad Stenger"
 date: "2026-07-26"
 ---
 Brad Stenger produces the Athletes Data Community Newsletter (ADCN). He is a PhD student in Computer Science at the University of Vermont and researches athletes' data privacy and athletes' data sharing.
 
-### Zipfs Law and Talent Pipelines
+### Zipf's Law and Talent Pipelines
 
 Bill Self described his process for filling spots at the end of his roster. I was in the audience. He held open tryouts, and if he saw that a walk-on had a chance to earn a spot, he would tell them exactly what the person needed to do. Self would tell the player that he needed to be better than that guy, usually a player that he and the program had committed to, but not so much that the program would not move on to something better. And sometimes it would happen.
 
