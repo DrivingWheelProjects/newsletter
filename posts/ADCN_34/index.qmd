@@ -37,7 +37,7 @@ Or like Arsene Wenger, who [told](https://www.theguardian.com/football/2026/jul/
 
 The U.S. has an opportunity to raise the talent level with scale and with exploitation. It won't be easy. 
 
-Complex systems math makes it possible to [compare adjacent ranking systems](https://compstorylab.org/allotaxonometry/papers/rank-turbulence-divergence/). For example, consider California youth soccer and Texas youth soccer. The distributions for teenage soccer players should follow Zipf's Law, where frequencies drop proportionally to the inverse of their rank. The distributions should have [a heavy tail](https://www.google.com/search?q=heavy-tailed+Zipfian) with very small numbers in the upper ranks and massive numbers in the lower ranks.
+Complex systems math makes it possible to [compare adjacent ranking systems](https://compstorylab.org/allotaxonometry/papers/rank-turbulence-divergence/). For example, consider California youth soccer and Texas youth soccer. The distributions for teenage soccer players follow Zipf's Law, where frequencies drop proportionally to the inverse of their rank. The distributions also have [a heavy tail](https://www.google.com/search?q=heavy-tailed+Zipfian) with very small numbers in the upper ranks and massive numbers in the lower ranks.
 
 Each state's youth soccer is its own complex system. When you do the system comparisons, the highest-ranking players in each state will have many characteristics in common. Player characteristics become less uniform and more "turbulent" as you progress down the heavy tail to the lower-ranked players.
 
@@ -45,7 +45,7 @@ Wenger seems to be saying that U.S. Soccer needs to understand the turbulence in
 
 Smaller distributions have less turbulence. Smaller communities and nations have an easier time cultivating talent when they know what they're looking for. It also helps if there's a biological advantage circulating through that particular gene pool.
 
-Exploitation talent hotbeds are usually not big nations like the United States. Gladwell made the point that 60+ of the top 200 marathon times are runners from three nations: Kenya, Ethiopia, Japan. Marathons' results and rankings are known to be [heavy-tailed Zipfian](https://www.sciencedirect.com/science/article/abs/pii/S0378437105010344).
+Exploitation talent hotbeds are usually not big nations like the United States. Gladwell made the point that 60+ of the top 200 marathon times are runners from three nations: Kenya, Ethiopia, Japan. Marathons' results and rankings are, as you might now expect, [heavy-tailed Zipfian](https://www.sciencedirect.com/science/article/abs/pii/S0378437105010344) distributions.
 
 ### Tour de France Innovation
 
