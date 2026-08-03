@@ -6,9 +6,11 @@ date: "2026-08-02"
 
 ### Athletes' Data, AI, and Coaching
 
-Garmin is the company that makes my GPS watch for running, and it bought Training Peaks, an online coaching company for endurance athletes. DC Rainmaker (a/k/a Ray Maker), the authority on all things Garmin, [wrote up](https://www.dcrainmaker.com/2026/07/garmin-acquires-training-trainheroic.html) the transaction. The answer to the question, why?, according to Maker (and I agree), probably has a lot to do with Garmin's efforts to add value to athletes' data.
+Garmin is the company that makes my GPS watch for running, and it bought Training Peaks, an online coaching company for endurance athletes. DC Rainmaker (Ray Maker), the authority on all things Garmin, [wrote up](https://www.dcrainmaker.com/2026/07/garmin-acquires-training-trainheroic.html) the transaction. The answer to the question, why?, according to Maker (and I agree), probably has a lot to do with Garmin's efforts to add value to athletes' data.
 
-All the health-tracking and athlete-tracking companies sit on a mountain of athlete data. Unlocking the value of all that data requires offering services that benefit individuals and athletes. So far, most of those services revolve around presenting the data, mostly via dashboards. Garmin has every financial reason to create more and better services, and its Connect+ data services have failed to take off, according to Maker. Training Peaks is a popular, proven coaching service. 
+All the health-tracking and athlete-tracking companies sit on a mountain of athlete data. Unlocking the value of all that data requires offering services that benefit individuals and athletes. So far, most of those services revolve around presenting the data, mostly via dashboards. 
+
+Garmin has every financial reason to create more and better services, and its not-free Connect+ data services have failed to take off, according to Maker. Training Peaks is a popular, proven coaching service that could breathe life into Connect+. 
  
 The soccer performance coach Jim Malone has a Substack newsletter. He recently [explained his process](https://maloneperform.substack.com/p/from-testing-to-training-profiling) for going from athletes' training data to athletes' training plans. Most of the work goes into profiling each player, keeping in mind their position and role on the team. New data informs the assessment of athlete profiles and leads to high, medium, and maintenance targets for training. 
 
@@ -24,7 +26,7 @@ Wallace-Wells and Bedard acknowledge that owners of health trackers have, in man
 
 So, how to interpret an AI optimist's confidence? How does AI work best in terms of health tracking and athlete training? 
 
-Bruce Schneider is a data security expert and blogger. He [recently quoted](https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html) Daniel Meissler, saying that AI is best used when "a task has to be done and no one cares how." When *how* the task is done matters, better not to use AI.
+Bruce Schneider is a data security expert and blogger. He [recently quoted](https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html) Daniel Meissler, saying that AI is best used when "a task has to be done and no one cares how." When *how* the task is done matters, then it is better not to use AI.
 
 Schneider's analogy is what happens during training, athletic training, and not intentionally ironic. At the gym, tasks are difficult, and shortcuts defeat the purpose. "The point of weightlifting isn’t to move heavy things across the room; it’s to actually lift those heavy things," he writes.
 
@@ -32,7 +34,7 @@ The role that coaches play in interpreting athletes' data complicates how AI get
 
 A coach could be leveraging AI, but that would make sense if the hands-on work with athletes' data is a shortcut not worth taking. Or, a coach is replacing a direct AI-athlete interaction. Then there is a third path: A coach helps the athlete to interpret the AI.
 
-Helping coaches to work with AI, in place of AI, or alongside athletes dealing with AI, those are all different types of computing projects, with different endpoints and different user interfaces. Athletes' data is the basis for collaboration in sports, but without something to connect the people and the data, there is no collaboration. AI only makes it more important to get those connections right.
+Helping coaches to work with AI, in place of AI, or alongside athletes dealing with AI, those are all different types of computing projects, with different endpoints and different user interfaces. Athletes' data is the basis for collaboration in sports, but without something to connect the people and the data, there is no collaboration. AI makes it more important to get those connections right.
 
 ### Flutie Effect
 
