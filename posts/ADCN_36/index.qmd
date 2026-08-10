@@ -3,7 +3,7 @@ title: "ADCN: Adjacent Possible, Behavioral Profiling, News"
 author: "Brad Stenger"
 date: "2026-08-09"
 ---
-Brad Stenger is a PhD student in Computer Science at the University of Vermont where he researches athletes' data sharing and privacy. The Athletes Data Community Newsletter follows changes technology, policy, and practices for collecting, managing, and reporting athletes' data.
+Brad Stenger is a PhD student in Computer Science at the University of Vermont where he researches athletes' data sharing and privacy. The Athletes Data Community Newsletter follows changes in technology, policy, and practices for collecting, managing, and reporting athletes' data.
 
 ### TAP: The Adjacent Possible
 
@@ -39,13 +39,13 @@ The scope of what's possible at universities that combine high-level research an
 
 Not that they haven't tried. The Dodgers and a couple of other professional teams [launched startup incubators](https://www.sportico.com/business/tech/2024/sports-tech-accelerator-history-startups-1234820366/). Remember the 76ers Innovation Lab. [It closed](https://www.whoop.com/us/en/thelocker/innovation-labs-the-new-trend-for-pro-sports-teams/) in 2023. The Dodgers incubator [reformed as Global Sports Venture Studio](https://www.lasource.io/podcasts/2-rga-global-sports-venture-studio-the-origin-of-sports-accelerator-programme-podcast), a larger enterprise that includes other sports teams and leagues, plus retailers and media companies.
 
-There should be a place for both, for living labs based at universities and for venture-backed incubators and startup cohorts. The bottleneck does not seem to be money. It looks more like a human resources bottleneck. Unless Courtney Semkewyc invents a way to clone herself.
+There should be a place for both, for living labs based at universities and for venture-backed incubators and startup cohorts. The bottleneck does not seem to be money. It looks more like a human resources bottleneck. 
 
 ### Behavioral Profiling for User Engagement
 
 TikTok, Google, and Meta asked the Federal Court in Northern California to judge whether social media feeds are protected speech. The court [said no](https://epic.org/judges-sides-with-epic-and-ag-telling-google-tiktok-and-meta-their-addictive-social-media-features-are-not-1a-speech/).
 
-These feeds are personalized, based on behavior profiles the companies develop on users, and they can be addictive. California state law prohibits companies from providing addictive social media to minors. The companies were seeking exemption from the law in court.
+These companies' social media feeds are personalized, based on behavior profiles the companies develop on users, and they can be addictive. California state law prohibits companies from providing addictive social media to minors. The companies were seeking exemption from the law in court.
 
 Behavior profiling to generate engagement with either media or an app is a clear indicator that information has crossed a line and become surveillance. Addictive methods to activate dopamine responses in the brain are what maximize engagement, [according to Stanford researchers](https://med.stanford.edu/news/insights/2021/10/addictive-potential-of-social-media-explained.html).
 
