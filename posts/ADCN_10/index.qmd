@@ -30,7 +30,7 @@ Giannis Antetokounmpo is [in the news](https://sports.yahoo.com/articles/long-gi
 
 High-stakes competition is a below-the-surface element of injury risk. The Pacers admitted that they would have chosen to sit Tyrese Halliburton if the games where he was injured were not NBA Finals games. When managing injury risk boils down to a play or don't-play decision, it ceases to be a actual decision when the stakes are high. As a result injury risk skyrockets. Antetokounmpo's team, the Milwaukee Bucks, still has a chance to make the playoffs if its best player can get them there. There are no predictive models to say what's too much or too far to push an athlete. Antetokounmpo is smart to ask out of Milwaukee and in doing so avoid the competitive gauntlet that stands to wreck his body, and possibly his career.
 
-I did a longer analysis of risk models, calf strains and ruptured Achilles tendons last year. Read it [here](https://newsletter.bradstenger.com/posts/ADCN_10/Assignment1.BradStenger.pdf).
+I did a longer analysis of risk models, calf strains and ruptured Achilles tendons last year. Read it [here](BradStenger.Achilles.pdf).
 
 ### Surveillance and Wearables in Tennis
 

@@ -4,7 +4,7 @@ author: "Brad Stenger"
 date: "2026-08-02"
 ---
 
-### Athletes' Data, AI, and Coaching
+### Athletes' Data, AI, Coaching
 
 Garmin is the company that makes my GPS watch for running, and it bought Training Peaks, an online coaching company for endurance athletes. DC Rainmaker (Ray Maker), the authority on all things Garmin, [wrote up](https://www.dcrainmaker.com/2026/07/garmin-acquires-training-trainheroic.html) the transaction. The answer to the question, why?, according to Maker (and I agree), probably has a lot to do with Garmin's efforts to add value to athletes' data.
 
