@@ -3,6 +3,7 @@ title: "ADCN: Adjacent Possible, Behavioral Profiling, News"
 author: "Brad Stenger"
 date: "2026-08-09"
 ---
+Brad Stenger is a PhD student in Computer Science at the University of Vermont where he researches athletes' data sharing and privacy. The Athletes Data Community Newsletter follows changes technology, policy, and practices for collecting, managing, and reporting athletes' data.
 
 ### TAP: The Adjacent Possible
 
