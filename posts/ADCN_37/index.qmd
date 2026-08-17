@@ -4,7 +4,7 @@ author: "Brad Stenger"
 date: "2026-08-16"
 ---
 
-### How Me-First Quarterbacks Benefit Their Teams
+### How Me-First Quarterbacks Win
 
 Jay van Bavel, a neural-based psychologist, tells a story about Ohio State football in an old *Harvard Business Review* [article](https://www.linkedin.com/pulse/problem-rewarding-individual-performers-jay-van-bavel/). Ohio State football invented the helmet sticker in 1968 when one of the coaches started giving stickers to players for great individual playmaking. The team won the national championship. 
 
@@ -64,7 +64,7 @@ Then there's privacy. Context can also be synonymous with surveillance, dependin
 
 Devin Pleuler [explored the idea of the adjacent possible](https://www.centralwinger.com/p/unexpected-origins-and-the-fermi) in the context of soccer analytics at his *Central Winger* blog a while back. Soccer analytics, he felt, hadn't reached its full potential even though research had been progressing for more than a decade. There have been developments.
 
-The Premier League has seen clubs like Brentford, Brighton, Fulham, and Bournemouth establish themselves based on analytics prowess. The economic incentive to seek competitive advantage is high, which stands to drive progress going forward.
+The Premier League has seen clubs like Brentford, Brighton, Fulham, and Bournemouth establish themselves using analytics to their advantage. The economic incentive to seek competitive advantage is high, which stands to drive progress going forward.
 
 The U.S. university research environment for soccer analytics also appears to be in a good place. The annual [American Soccer Insights Summit](https://americansoccerinsights.com/) at Rice University will take place on March 26-27.
 
