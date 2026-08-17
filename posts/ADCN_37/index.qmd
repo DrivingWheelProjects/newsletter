@@ -6,17 +6,17 @@ date: "2026-08-16"
 
 ### How Me-First Quarterbacks Win
 
-Jay van Bavel, a neural-based psychologist, tells a story about Ohio State football in an old *Harvard Business Review* [article](https://www.linkedin.com/pulse/problem-rewarding-individual-performers-jay-van-bavel/). Ohio State football invented the helmet sticker in 1968 when one of the coaches started giving stickers to players for great individual playmaking. The team won the national championship. 
+Jay van Bavel, a neural-based psychologist at NYU, tells a story about Ohio State football in an old *Harvard Business Review* [article](https://www.linkedin.com/pulse/problem-rewarding-individual-performers-jay-van-bavel/). Ohio State football invented the helmet sticker in 1968 when one of the coaches started giving stickers to players for great individual playmaking. The team won the national championship. 
 
 Some years later another Ohio State coach, Jim Tressel, changed the sticker rules. Stickers were earned for group accomplishments. Win, and every player gets a sticker. Tressel's team won the national championship in 2002.
 
 Individual contributions are crucial to team success. Evaluating and recognizing what one person does in a team context is a management task. The Ohio State anecdote shows that what works is not a simple heuristic.
 
-New [business school research](EBSCO-FullText-08_13_2026.pdf) shows that the individual-team dynamic can benefit from individual assessments (and rewards) via relative performance evaluations (RPE). Professors from the University of Arizona and Indiana University made those tradeoffs mathematically discrete and measured them.
+New [business school research](https://pubsonline.informs.org/doi/10.1287/mnsc.2025.01870) (paywall, free via EBSCO) shows that the individual-team dynamic can benefit from individual assessments (and rewards) via relative performance evaluations (RPE). Professors from the University of Arizona and Indiana University made those tradeoffs mathematically discrete and measured them.
 
 An RPE increases individual effort and decreases cooperation. RPE also reduces uncertainty about other team members' effort and their buy-in for collaborative incentives. The reduced uncertainty from RPE about teammates improves coordination to a greater degree than the RPE decreases cooperation.
 
-Playmakers get individual stickers. Win, and everyone gets stickers. Make it clear what it takes to earn a sticker. Coordination gives everyone the best chance to get individual results. And if a team can build a culture where individuals find joy in the success of others. Buddhism has a word for this: [mudita](https://www.psychologytoday.com/us/blog/mindfully-doing-what-matters/202511/cultivating-joy-in-others-joy).
+Playmakers get individual stickers. Win, and everyone gets stickers. Make it clear what it takes to earn a sticker. Coordination gives everyone the best chance to get individual results. And if a team can build a culture where individuals find joy in the success of others, all the better. Buddhism has a word for this: [mudita](https://www.psychologytoday.com/us/blog/mindfully-doing-what-matters/202511/cultivating-joy-in-others-joy).
 
 The quality of a football team's quarterback matters more than sticker distribution rules. The modern QB has to navigate a gauntlet of individual accomplishments within a team setting. Seth Wickersham, the ESPN journalist, wrote a book about quarterbacks and what distinguishes the very best among them. 
 
@@ -34,9 +34,9 @@ Wickersham's book describes a fundamental pragmatism among quarterbacks. Joe Mon
 
 Understanding when and how to make pragmatic quarterback decisions is, it seems, a skill. The Pittsburgh Steelers, if one preseason game is evidence, will be leveraging Aaron Rodgers mentorship of two young quarterbacks, Will Howard and Drew Allard, this coming season. Howard [credits](https://steelersdepot.com/2026/08/aaron-rodgers-played-key-role-in-will-howards-first-big-play/) Rodgers for help making an important 4th and 1 conversion before halftime.
 
-*Esquire* magazine [profiled](https://www.esquire.com/sports/a70869708/fernando-mendoza-interview-2026/) Fernando Mendoza, quarterback of last season's college football champion and the first pick in the NFL draft, selected by the Las Vegas Raiders, a team whose ownership group includes Tom Brady. For Mendoza to become a 1-in-3 Hall of Famer like Brady, he'll have to become a "ruthless competitor who has to have a Brady-like level of unbreakable self-belief."
+*Esquire* magazine [profiled](https://www.esquire.com/sports/a70869708/fernando-mendoza-interview-2026/) Fernando Mendoza, quarterback of last season's college football champion and the first pick in the NFL draft, selected by the Las Vegas Raiders, a team whose ownership group includes Tom Brady. For Mendoza to become a 1-in-3 Hall of Famer like Brady, Wickersham told the profile author, Ryan D'Agostino that he'll have to become a "ruthless competitor who has to have a Brady-like level of unbreakable self-belief."
 
-It is, according to profile author Ryan D'Agostino, me-first all the way. "This is Fernando Mendoza’s life and Fernando Mendoza’s story, and he’s doing it his way, which means, yes, listening to his trainers and his agent and his coaches and his parents and his brother and God but mostly to Fernando Mendoza."
+Elite quarterbacking is me-first, but with a lot of help. "This is Fernando Mendoza’s life and Fernando Mendoza’s story, and he’s doing it his way, which means, yes, listening to his trainers and his agent and his coaches and his parents and his brother and God but mostly to Fernando Mendoza."
 
 The quarterback has to be selfish for the team to win. But he also has to gain trust and expect sacrifice from teammates. If the b-school research holds up, then expectations for quarterbacks should be based on their pragmatic decision-making, consistent with any other roster spot on the team. Coordination among players follows, which appears to be more important than all-out, all-for-one collaboration. 
 
