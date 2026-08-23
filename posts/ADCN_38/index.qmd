@@ -4,9 +4,11 @@ author: "Brad Stenger"
 date: "2026-08-23"
 ---
 
-### Ethics of Biomechanical Constraint
+### Ethics of Biomechanical Constraints
 
 Abby Steiner is a world-class sprinter. She signed her first shoe contract as a professional with Puma in 2022, [the year](https://www.yoursportsedge.com/2022/07/26/gold-medals-were-fitting-end-to-sensational-season-for-abby-steiner/vaughts-views/larryvaught/) she won the NCAA 200-meter championship in 21.80 seconds. Three years later, in August 2025 at age 25 and after a series of foot injuries, she was [no longer competing](https://www.aol.com/abby-steiner-pauses-track-career-150833750.html), having [enrolled](https://sc.edu/study/colleges_schools/public_health/about/news/2026/iampublichealth_steiner_exsc.php) in graduate school at the University of South Carolina.
+
+![](abby_steiner.png)
 
 In April 2026, [filed a lawsuit](https://sports.yahoo.com/olympics/article/star-sprinter-abby-steiner-sues-puma-alleging-defective-and-unsafe-shoes-led-to-career-ending-injuries-184012258.html) against Puma and its technological collaborator, Mercedes-Benz, that claims the midsole materials and design of the Puma shoes Steiner wore "are fundamentally defective, unsafe, and unreasonably dangerous." Additional runners filed [similar suits](https://sports.yahoo.com/articles/two-more-elite-sprinters-accuse-140000646.html) afterward.
 
@@ -18,7 +20,7 @@ Secondarily, younger feet are more plastic. A younger runner can expect to adapt
 
 I will tell parents buying shoes for teenagers to make sure the shoes aren't uncomfortable and, past that, to get whatever their kid was psyched to wear. People who are psyched about their gear use that gear more often.
 
-Thirdly, running is repetitive stress. Rotating running shoes with different shoes on different days can mitigate some of that repetitive stress. This is another way of saying that running in the same shoes every day and doing the same workouts maximizes repetitive stress.
+Thirdly, running is repetitive stress. Rotating running shoes means wearing different shoes on different days and it can mitigate some of that repetitive stress. This is another way of saying that running in the same shoes every day and doing the same workouts maximizes repetitive stress.
 
 Safe to assume that Steiner and her partners adopted this wisdom at some level, and she still hurt herself badly. The situation offers [evidence](https://runningmagazine.ca/the-scene/what-abby-steiners-shoe-injury-lawsuit-could-mean-for-recreational-runners/) that the age of supershoes has changed the standard service of the shoe-fit formula, at least for elite athletes and for motivated wannabe recreational athletes.
 
@@ -40,9 +42,9 @@ ASICS has, like other athletic shoe companies, worked on measurement and product
 
 Ethical and privacy issues will probably arise from this line of inquiry. What if, like Abby Steiner, some feet do not go well with supershoe design and materials? The research should be able to tell us in advance, but does an elite athlete really want to know that their body type can get them to the 99th percentile but not to the 99.9th percentile? 
 
-The example is an extreme case. If a teenager knew the disappointment coming to them in the future, would they put in all the work to get to the top 1% or even to the top 10%, knowing that biomechanical constraints kept them from progressing further?
+The example is an extreme case. If a teenager knew the disappointment coming to them in the future, would they put in all the work to get to the top 1% or even to the top 10%, knowing that a for sure biomechanical constraint will keep them from progressing further?
 
-Steiner played soccer and ran track at the University of Kentucky. She [gave up soccer](https://www.cityscenecolumbus.com/communities/dublinlife/grit-and-glory-the-abby-steiner-story/) to focus on sprinting. Can and should biomechanical constraints affect decisions like those?
+Steiner played soccer and ran track at the University of Kentucky. She [gave up soccer](https://www.cityscenecolumbus.com/communities/dublinlife/grit-and-glory-the-abby-steiner-story/) to focus on sprinting. Can and should biomechanical constraints affect this type of decision?
 
 Questions like this had not been an issue before, but soon they might be.
 
@@ -54,7 +56,7 @@ Readers who enjoy learning and find challenging material compelling reading, I b
 
 The task can be challenging for a communicator. Writing instructors will sometimes recommend simplifying as a necessary step for taking something that is difficult to understand and making it something that a larger, possibly less-educated audience can comprehend.
 
-Tradeoffs are inevitable. Occam's Razor is a heuristic that suggests going with the simplest explanation when choosing among competing options. The heuristic is [consistent with a complex systems approach](https://www.google.com/search?q=occams+razor+and+power+laws), where simple rules have complex outcomes.
+Tradeoffs are inevitable. Occam's Razor is a heuristic that suggests going with the simplest explanation when choosing among competing options. The heuristic is [consistent with a complex systems approach](https://www.google.com/search?q=occams+razor+and+power+laws), where simple rules have complex outcomes. Simplicity and complexity need not always be at odds.
 
 Communication that relies on AI is complexity-sacrificing simplification. It is also error-prone when the ideas being expressed are new or not already well-described in large language models.
 
