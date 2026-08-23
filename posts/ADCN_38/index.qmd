@@ -1,0 +1,93 @@
+---
+title: "ADCN: Feet and Shoes, Communicating and Constraints, News"
+author: "Brad Stenger"
+date: "2026-08-23"
+---
+
+### Ethics of Biomechanical Constraint
+
+Abby Steiner is a world-class sprinter. She signed her first shoe contract as a professional with Puma in 2022, [the year](https://www.yoursportsedge.com/2022/07/26/gold-medals-were-fitting-end-to-sensational-season-for-abby-steiner/vaughts-views/larryvaught/) she won the NCAA 200-meter championship in 21.80 seconds. Three years later, in August 2025 at age 25 and after a series of foot injuries, she was [no longer competing](https://www.aol.com/abby-steiner-pauses-track-career-150833750.html), having [enrolled](https://sc.edu/study/colleges_schools/public_health/about/news/2026/iampublichealth_steiner_exsc.php) in graduate school at the University of South Carolina.
+
+In April 2026, [filed a lawsuit](https://sports.yahoo.com/olympics/article/star-sprinter-abby-steiner-sues-puma-alleging-defective-and-unsafe-shoes-led-to-career-ending-injuries-184012258.html) against Puma and its technological collaborator, Mercedes-Benz, that claims the midsole materials and design of the Puma shoes Steiner wore "are fundamentally defective, unsafe, and unreasonably dangerous." Additional runners filed [similar suits](https://sports.yahoo.com/articles/two-more-elite-sprinters-accuse-140000646.html) afterward.
+
+Puma has a legal [duty of care](https://newsletter.bradstenger.com/posts/ADCN_5/index.html#duty-of-care-for-data) to provide safe equipment to athletes. Steiner [claims](https://www.runblogrun.com/2026/06/some-thoughts-on-abby-steiner-and-her-lawsuit-with-her-sponsor-puma.html) that Puma failed to meet that standard. The issues linking shoes and foot injuries are not so simple.
+
+I work part-time in [outdoor retail](https://www.rei.com/), and sometimes, I sell running shoes. Rule number one: comfort and fit go hand in hand with performance. Whatever fits and feels the best works the best.
+
+Secondarily, younger feet are more plastic. A younger runner can expect to adapt to shoes' design features without injury, while older runners cannot. Exact ages for what's younger and what's older [have more to do with training age than chronological age](https://newsletter.bradstenger.com/posts/ADCN_33/index.html#clocks-not-calendars-with-sensors).
+
+I will tell parents buying shoes for teenagers to make sure the shoes aren't uncomfortable and, past that, to get whatever their kid was psyched to wear. People who are psyched about their gear use that gear more often.
+
+Thirdly, running is repetitive stress. Rotating running shoes with different shoes on different days can mitigate some of that repetitive stress. This is another way of saying that running in the same shoes every day and doing the same workouts maximizes repetitive stress.
+
+Safe to assume that Steiner and her partners adopted this wisdom at some level, and she still hurt herself badly. The situation offers [evidence](https://runningmagazine.ca/the-scene/what-abby-steiners-shoe-injury-lawsuit-could-mean-for-recreational-runners/) that the age of supershoes has changed the standard service of the shoe-fit formula, at least for elite athletes and for motivated wannabe recreational athletes.
+
+The foam and carbon plate in running supershoes have the effect of putting springs underneath runners' feet. Energy put into the ground with each step gets returned. Runners (and their shoe collaborators) have an incentive to continue wearing shoes that enhance performance even when it goes against rule one, rule two, or rule three.
+
+High-stack big-cushion supershoes with carbon plates can have residual vibration. The spring keeps springing. Shoes that are lower-stack (closer to the ground) use composite foams to damp the vibration, but in a supershoe, that might sacrifice performance.
+
+Residual vibration, for some types of feet, can amplify repetitive stress, a real problem.
+
+ASICS and University of Michigan [announced](https://record.umich.edu/articles/u-m-asics-to-launch-groundbreaking-sport-innovation-initiative/) in December that they would collaborate on a new shoe research lab. The new lab will conduct clinical trials to determine the effect of exercise on athletes' bones.
+
+Imaging athletes' bones using CAT scans is less expensive than the MRI (better for soft tissue imaging), and the method should suffice in determining underfoot cushioning's effect on athletes during running.
+
+The studies will need to put feet and shoes in the context of biomechanical models of athletes' running gait cycles. It will build on [work](https://deepblue.lib.umich.edu/items/55adad72-fe3e-41fb-ba44-15d7478b55a0) by Ron Zernicke and Geoff Burns at Michigan earlier this decade.
+
+There is a good chance that diversity in athletes' physiology will lead to complex explanations for the relationship between the forces from exercise and how bones experience those forces. The challenge will be to identify patterns that occur in elite athlete populations, somewhat like Burns was able to do when he tweaked the basic spring-mass gait model to [better describe](https://www.nature.com/articles/s41598-021-89858-1) elite distance runners.
+
+ASICS has, like other athletic shoe companies, worked on measurement and production technologies (like 3-D printing) for [custom manufacturing](https://nypost.com/2026/07/20/health/custom-3d-printed-shoes-promise-a-perfect-fit-do-they-work/). Custom athletic shoe startups [come](https://www.wishtv.com/lifestyle/indiana-ai-3d-printed-shoes/) and they [go](https://www.retaildive.com/news/the-weekly-closeout-hilma-running-inkbox-shut-down/809811/). This research will help to define the variance among athletes for shoe requirements needed for their optimal performance.
+
+Ethical and privacy issues will probably arise from this line of inquiry. What if, like Abby Steiner, some feet do not go well with supershoe design and materials? The research should be able to tell us in advance, but does an elite athlete really want to know that their body type can get them to the 99th percentile but not to the 99.9th percentile? 
+
+The example is an extreme case. If a teenager knew the disappointment coming to them in the future, would they put in all the work to get to the top 1% or even to the top 10%, knowing that biomechanical constraints kept them from progressing further?
+
+Steiner played soccer and ran track at the University of Kentucky. She [gave up soccer](https://www.cityscenecolumbus.com/communities/dublinlife/grit-and-glory-the-abby-steiner-story/) to focus on sprinting. Can and should biomechanical constraints affect decisions like those?
+
+Questions like this had not been an issue before, but soon they might be.
+
+### Complexity, Constraints, Occam's Razor, and Forcing Functions
+
+Tim Harford [recently applied](https://timharford.com/2026/08/explain-it-to-me-like-im-ten/) the principles of constraints to communication, adopting ideas from that David Epstein book, *Inside the Box: How Constraints Make Us Better*. Harford is an author who excels at rendering complex concepts in succinct, understandable fashion without simplifying the material.
+
+Readers who enjoy learning and find challenging material compelling reading, I believe, enjoy works like Harford's that choose not to simplify, as long as the sacrifices in terms of readability are not too great.
+
+The task can be challenging for a communicator. Writing instructors will sometimes recommend simplifying as a necessary step for taking something that is difficult to understand and making it something that a larger, possibly less-educated audience can comprehend.
+
+Tradeoffs are inevitable. Occam's Razor is a heuristic that suggests going with the simplest explanation when choosing among competing options. The heuristic is [consistent with a complex systems approach](https://www.google.com/search?q=occams+razor+and+power+laws), where simple rules have complex outcomes.
+
+Communication that relies on AI is complexity-sacrificing simplification. It is also error-prone when the ideas being expressed are new or not already well-described in large language models.
+
+My former colleague, Laura Noren, says that newsletters can be forcing functions. It's something that I try to do here. Describe the changes and the new ideas related to athletes' data. The goal: let a community form and then help it to invent its future.
+
+### News
+
+[Breaking down Erling Haaland's unique running style: 35.5 km/h top speed, curves and accleration mode](https://www.nytimes.com/athletic/7512975/2026/08/19/erling-haaland-running-analysis-man-city/) in *The Athletic* by Amelie Claydon on August 19, 2026
+
+[Premier League clubs face fines of up to £100,000 if they fail to comply with mandatory cybersecurity rules](https://x.com/TheAthleticFC/status/2089676241146101868) in X/Twitter, *The Athletic* by Amelie Claydon on August 18, 2026
+
+[Stanford just did something unprecedented. They opened up 67 million hours of wearable data across 11,894 consenting participants and 19 sensor channels.](https://www.linkedin.com/feed/update/urn:li:activity:7495849607013310464/) in LinkedIn by Sameer Sontakey on August 19, 2026
+
+[The 6% Problem: The Research Gap Putting Women Athletes at Risk](https://www.womenshealthmag.com/fitness/a73403961/women-athletes-sports-science-gap/) in *Women's Health* by Caroline Fitzgerald on August 19, 2026
+
+[A Youth Sports Giant Promised Reforms to Protect Kids From Sexual Abuse. Most Never Happened.](https://www.propublica.org/article/aau-youth-sports-sexual-abuse-failure-amateur-athletic-union) in *ProPublica*, *The Washington Post* by Molly Hensley-Clancy on August 13, 2026
+
+[Scientists cited by Heritage Foundation report on women’s sports say it misrepresented their research](https://www.scientificamerican.com/article/scientists-cited-by-heritage-foundation-report-title-ix-womens-sports-say-it-misrepresented-their-research/) in *Scientific American* by Adam Kovac on August 18, 2026 
+
+[Robert H. Brooks Sports Science Institute selects recipients of 2026-27 Collaboration Grants Program](https://news.clemson.edu/robert-h-brooks-sports-science-institute-selects-recipients-of-2026-27-collaboration-grants-program/) in Clemson University, *ClemsonNews* on August 12, 2026
+
+[Inside the Sports Science Adoption of Franklin's First Hokies Fall Camp](https://www.thekeyplay.com/virginia-tech-football/2026/08/26100/inside-sports-science-adoption-franklins-first-hokies-fall-camp) in *The Key Play* blog by Dylan Teft on August 10, 2026
+
+[Darolyn Pierce is helping Brooklyn Sports & Entertainment rethink decisions with data](https://www.sportsbusinessjournal.com/Articles/2026/08/17/darolyn-pierce-is-helping-bse-rethink-decisions-with-data/) in *Sports Business Journal* by Joe Lemire on August 17, 2026
+
+[LRC Q&A: Charles Hicks on his climb to 150+ mile weeks, 2028 Olympic marathon qualifying, ditching “Jerry miles” & training metrics](https://www.letsrun.com/news/2026/07/lrc-qa-charles-hicks-on-his-climb-to-150-mile-weeks-2028-olympic-marathon-qualifying-training-metrics/) in *LetsRun.com* by Jonathan Gault on July 30, 2026
+
+["We dove all in": How a small Indiana high school built a modern hitting development machine – with a little help from us](https://drivelinebaseball.com/blogs/blog/bluffton-high-school-hitting-development) in *Driveline Baseball Blog* by Travis Sawchik on August 5, 2026
+
+[Cash-hungry college sports programs are starting nonprofits to make money to stay competitive](https://apnews.com/article/college-football-nonprofits-cardinal-ventures-3a0b99119b33677e9f1adec85bd85637) in *Associated Press* by James Pollard on August 20, 2026
+
+[Elite sports are laboratories of health and performance innovation, but not every experiment belongs in your routine](https://theconversation.com/elite-sports-are-laboratories-of-health-and-performance-innovation-but-not-every-experiment-belongs-in-your-routine-288237) in *The Conversation* by Adam Annaccone on August 18, 2026
+
+[Sports reporters rarely cover college athletes as employees — they should.](https://journalistsresource.org/media/college-athletes-as-employees/) in *Journalists Resource* by Chris Corr on August 20, 2026
+
+[Game exposure shapes intensity and performance in Division I college football](https://www.tandfonline.com/doi/full/10.1080/02640414.2026.2705698#abstract) in *Journal of Sports Sciences* by Jonathon Lever et al. on July 28, 2026
