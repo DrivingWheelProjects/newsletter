@@ -17,13 +17,13 @@ Anna Marie Wagner, a Transfyr co-founder, compared what the company does to athl
 
 Science does not have video replay. "If there's any post-mortem at all, it's nearly impossible to build a shared reconstruction of what actually happened," according to Wagner.
 
-*The Economist* has [a short article](EconomistBartleby.pdf) in a June issue reviewing European startups Celonis (Germany, business admin) and Monumental AI (Holland, bricklaying) that are also capturing tacit knowledge in workflows that are not life science.
+*The Economist* has [a short article](https://newsletter.bradstenger.com/posts/ADCN_39/EconomistBartleby.pdf) in a June issue reviewing two European startups, Celonis (Germany, business admin) and Monumental AI (Holland, bricklaying), that are also capturing tacit knowledge in workflows that are not life science.
 
 The article mentions [work](https://www.hbs.edu/faculty/Pages/item.aspx?num=68816) by Harvard and MIT researchers into "Labor as Capital" that distinguishes between individual and collective data ownership in relation to a company's "knowledge supply." Individual workers have control over contributing their knowledge and more often choose to restrict shared expertise, even though there could be gains for them and their colleagues from analytically driven enhancements. The situation arises regularly between individual athletes and their teams.
 
 The magazine article also raises issues: "Who owns uncodified know-how? How much surveillance is acceptable? And as machines learn more and more, how will that affect the way that people acquire, practise and pass on the expertise?"
 
-Not everyone believes that tacit knowledge can be captured. Peter Denning is a giant in computing research who contributed work in the 60s that led to the first operating systems and then, in the 70s, to the Internet. [He thinks](https://dl.acm.org/doi/10.1145/3822515) that artificial intelligence will not ever be as intelligent as humans because machines are "unlikely to learn human tacit knowledge." Human tacit knowledge is not explicit, and that fact keeps it from being a viable training resource for an LLM.
+Not everyone believes that tacit knowledge can be captured. Peter Denning is a giant in computing research who contributed work in the 60s that led to the first operating systems and then, in the 70s, to the Internet. [Denning believes](https://dl.acm.org/doi/10.1145/3822515) that artificial intelligence will not ever be as intelligent as humans because machines are "unlikely to learn human tacit knowledge." Human tacit knowledge is not explicit, and that fact keeps it from being a viable training resource for an LLM.
 
 Tacit knowledge abounds in sports, in athletes, in coaches, in health professionals, in management, and increasingly, in the other analysts and scientists working throughout sports.
 
