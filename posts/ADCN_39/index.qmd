@@ -1,8 +1,9 @@
 ---
-title: "ADCN: Tacit Knowledge, Communicating and Constraints, News"
+title: "ADCN: Tacit Knowledge, Military-Style Workouts, News"
 author: "Brad Stenger"
 date: "2026-08-30"
 ---
+Brad Stenger produces the Athletes Data Community Newsletter (ADCN). He is a PhD student in Computer Science at the University of Vermont and researches athletes’ data sharing and privacy.
 
 ### Tacit Knowledge and Translating Reseach
 
@@ -32,19 +33,19 @@ It wasn't until her second season with the team that the key to winning soccer g
 
 Randy Bates, age 70, with 40 years of football coaching experience, had a player who couldn't get his act together. He called his daughter, Samantha, a social worker, for advice. Samantha Bates [researches](https://csw.osu.edu/blog/2025/08/04/august-faculty-highlight-dr-samantha-bates/) the impact of mental health training for coaches on athlete well-being at Ohio State.
 
-He wanted to rip him. She suggested, "Catch him on the day he's there on time and looks like he's got it together, and ask him what he's doing on that day." It was, he admitted, a better strategy. The anecdote is from a *USA Today* [article](https://www.usatoday.com/story/sports/2026/07/25/million-coaches-challenge-susan-crown-exchange-ohio-state-positive-quality/91042058007/) on the [Million Coaches Challenge](https://www.millioncoaches.org/).
+Coach Bates wanted to rip the athlete. His daughter suggested, "Catch him on the day he's there on time and looks like he's got it together, and ask him what he's doing on that day." It was, he admitted, a better strategy. The anecdote comes from a *USA Today* [article](https://www.usatoday.com/story/sports/2026/07/25/million-coaches-challenge-susan-crown-exchange-ohio-state-positive-quality/91042058007/) on the [Million Coaches Challenge](https://www.millioncoaches.org/).
 
 Angela Duckworth, a psychology professor at the University of Pennsylvania, [recently wrote](https://www.nytimes.com/2026/08/28/opinion/successful-people-help.html) that the research shows that asking for help is crucial to achievement. "It’s not just stoically making the best of a bad situation—it's proactively making your situation more supportive."
 
 The thing about tacit knowledge is that gaps can be filled, but only if they are recognized. Wagner and Denning are, I think, both right. Tacit knowledge might never be fully captured with computers, but using computers to identify process gaps that can then lead to improvements, that seems worthwhile.
 
-Tacit knowledge is crucial for translating research. It's a selling point in the Transfyr [business plan](https://www.transfyr.ai/technology). The smaller, localized context of a research project rarely (likely never) actually fits real-world workflows. The path to success is simple, however. Just ask for help.
+Tacit knowledge is crucial for translating research. It's a selling point in the Transfyr [business plan](https://www.transfyr.ai/technology). The smaller, localized context of a research project rarely (realistically never) fits real-world workflows. The path to success is simple, however. Just ask for help.
 
 ### Early-Season Military Workouts = Ineffective
 
 The Arizona State men's hockey team was subject to a punishing military-style workout for its first practice of the year. One athlete, a transfer new to the ASU program, collapsed and was hospitalized. As of Saturday, August 29, he was in a coma.
 
-The temperature exceeded 100 degrees. [Reports](https://sports.yahoo.com/articles/shocking-details-emerge-military-style-191123754.html) said that NCAA heat safety guidelines warn that players adjusting to a new program and hotter climate are often at the highest risk.
+The temperature exceeded 100 degrees. [Reports](https://sports.yahoo.com/articles/shocking-details-emerge-military-style-191123754.html) said that NCAA heat safety guidelines warn that players adjusting to a new program and hotter climate are at higher risk.
 
 [An investigation](https://bsky.app/profile/nkalamb.bsky.social/post/3mu5x2jwuic24) into the incident by *The Athletic* describes the risks of bringing in outside trainers. An outsider does not know anything about athletes' limitations. Even team trainers may not know much about athletes right after they return to campus.
 
