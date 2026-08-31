@@ -11,7 +11,7 @@ Carl Zimmer, science writer at *The New York Times*, has [an article](https://ma
 
 "Magic hands" is the term Zimmer uses for skilled experimentalists who, in many cases, cannot fully describe how their excellence occurs. Transfyr, by capturing and accounting for wet lab human workflows, attempts to accurately describe the tacit knowledge that normally remains embodied but not articulated by workers.
 
-Anna Marie Wagner, a Transfyr co-founder, compared what the company does to athletes' individual skill acquisition or team performance in [a newsletter post](https://thehardthing.substack.com/p/on-observability) earlier this year. Observability, like post-game film, creates opportunities to "see what went wrong, what could've been optimized, and think about what to do next," she wrote. 
+Anna Marie Wagner, a Transfyr co-founder, compared what the company does to athletes' individual skill acquisition in [a newsletter post](https://thehardthing.substack.com/p/on-observability) earlier this year. Observability, like post-game film, creates opportunities to "see what went wrong, what could've been optimized, and think about what to do next," she wrote. 
 
 ![](TransfyrObservability.png)
 
@@ -41,7 +41,7 @@ The thing about tacit knowledge is that gaps can be filled, but only if they are
 
 Tacit knowledge is crucial for translating research. It's a selling point in the Transfyr [business plan](https://www.transfyr.ai/technology). The smaller, localized context of a research project rarely (realistically never) fits real-world workflows. The path to success is simple, however. Just ask for help.
 
-### Early-Season Military Workouts = Ineffective
+### Early-Season Military-Style Workouts = Ineffective
 
 The Arizona State men's hockey team was subject to a punishing military-style workout for its first practice of the year. One athlete, a transfer new to the ASU program, collapsed and was hospitalized. As of Saturday, August 29, he was in a coma.
 
