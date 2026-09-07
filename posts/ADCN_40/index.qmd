@@ -44,9 +44,9 @@ University research funding is, at present, uncertain, and the same is true for 
 
 Traditional government research sources like the National Institutes of Health (NIH) and National Science Foundation (NSF) [have changed](https://www.nature.com/articles/d41586-026-02332-8) how they review and execute grants differently. The NSF dramatically [reduced](https://www.nature.com/articles/d41586-026-02574-6) the number of new grants it issues. NIH [plans](https://www.nature.com/articles/d41586-026-02584-4) to revamp methods for scoring research grant proposals.
 
-The [response](https://www.marketplace.org/story/2026/07/27/phd-admissions-have-dropped-15-for-the-new-school-year) from major research universities has been to accept significantly fewer PhD students. 
+The [response](https://www.marketplace.org/story/2026/07/27/phd-admissions-have-dropped-15-for-the-new-school-year) from major research universities has been to accept fewer PhD students. 
 
-These traditional funding sources have not dried up. What counts for a compelling, fundable university research program is, however, unpredictable and not something to plan for in a medium- or long-term time frame. In the short-term, for me as a PhD student, it is a challenge to latch on to research collaborators who have substantial funding.
+These traditional funding sources have not dried up. What counts for a compelling, fundable university research program is, however, unpredictable and not something to plan for in a medium- or long-term time frame. In the short-term, for me as a PhD student, it is a challenge to latch on to research collaborators who have ample funding.
 
 There are two sources that give me, and should give anyone, doing research on or with athletes' data confidence. 
 
@@ -58,17 +58,17 @@ For the undergraduate and graduate student researchers who produce high-quality 
 
 At some point teams will experience a shift in the demand and supply for top talent. It happens with every technology industry, whether that is [biotech](https://academia.stackexchange.com/questions/43375/why-do-companies-fund-academic-research) or [computing research](https://cacm.acm.org/federal-funding-of-academic-research/from-university-research-to-global-impact/).  
 
-Leagues and teams will inevitably have to increase their stakes in university research. The wins are substantial in terms of the access to innovation and to talent.
+Leagues and teams will inevitably have to increase their stakes in university research. The wins are significant in terms of the access to innovation and to talent.
 
 The second scenario currently playing out is major increase in social science research funding. These are private research dollars. OpenAI has committed $250 million to "projects for understanding and supporting the transition to an A.I.-centered economy and sharing its gains" according to [a recent opinion piece](https://x.com/AlisonGopnik/status/2096628557024030883) by leading academic social scientists. Anthropic has $200 million set aside.
 
 If it's true that the best way to predict (and understand) an AI future is to [invent it](https://www.salesforce.com/news/stories/inventing-future-of-ai-agents/), there will be as much construction as there is investigation, sometimes both together. Progress will come as researchers situate AI in a personal or community problem context.
 
-Lots of universities have [chatbots](https://ascode.osu.edu/news/rise-chatbots-higher-education-transforming-teaching-learning-and-student-support) that deliver answers to basic questions about student services and large intro classes.
+Lots of universities have [chatbots](https://ascode.osu.edu/news/rise-chatbots-higher-education-transforming-teaching-learning-and-student-support) that deliver answers to basic questions about student services and large intro classes. 
 
 The university setting is a good place for a living laboratory for interesting human-AI collaboration. Some of that work will include athletes. The social science around psychological aspects of individual and team performance is where social science and sports research connect.
 
-Examples might look like recent computer science research at the University of Washington.  Ashish Sharma and Tim Althoff developed prototype interfaces for a mental health chatbot ([book](https://dl.acm.org/doi/book/10.1145/3749728), [thesis](https://digital.lib.washington.edu/researchworks/items/2007a024-6383-4b15-b2c8-f97986558500/full)).
+Examples might look like recent computer science research at the University of Washington.  Ashish Sharma and Tim Althoff developed prototype interfaces for a mental health chatbot ([book](https://dl.acm.org/doi/book/10.1145/3749728), [thesis](https://digital.lib.washington.edu/researchworks/items/2007a024-6383-4b15-b2c8-f97986558500/full)). The work harkens an earlier Dartmouth app project called [StudentLife](https://web.cs.dartmouth.edu/news/2024/10/2014-student-mental-health-study-wins-ubicomp-10-year-impact-award).
 
 Automated versions of sports psychology can only be as good as their contextualization and the delivery that follows. As with sports medicine, the [athletic population is a useful, if extreme, model for the general population](https://stanmed.stanford.edu/innovative-therapy-injured-athletes-helps-everyone/).
 
