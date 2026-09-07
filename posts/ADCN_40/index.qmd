@@ -3,6 +3,7 @@ title: "ADCN: Biomechanics and Statistics, Research Funding, News"
 author: "Brad Stenger"
 date: "2026-09-06"
 ---
+The next newsletter will be off of the weekend production schedule as I attend the [Cascadia Symposium on Statistics in Sports](https://www.cascadiasports.com/) in Vancouver BC. Please keep an eye out. Thanks!
 
 ### Engineering/Statistical Analysis at 2026 JSM 
 
@@ -24,7 +25,7 @@ We both felt the glove arm momentum was a timing problem. Slower glove arm momen
 
 Compensating for the lost velocity puts the pitchers in an even worse place biomechanically. Hernandez recalled [the inverted W](https://drivelinebaseball.com/blogs/blog/strasburg-the-inverted-w-and-pitching-mechanics), where the glove arm rises above the shoulder, a frightening and debilitating mechanic flaw in some excellent but short-lived pitchers (Mark Prior, Stephen Strasburg).
 
-My thought is that a more athletic pitcher with a stronger core maintains glove-arm momentum better than a pitcher with one or zero of the two characteristics. Athleticism provides the sense for good/bad timing. A strong core helps to unlock the proprioception.
+My thought is that a more athletic pitcher with greater core strength maintains glove-arm momentum better than a pitcher with one or zero of the two characteristics. Athleticism provides the sense for good/bad timing. A strong core helps to unlock the proprioception.
 
 The basic biomechanics of tendon and ligament injuries are something that Keith Baar spent an hour-plus discussing on Eric Cressey's [podcast](https://www.youtube.com/watch?v=dPkQkP0L6B0) last year. At approximately minute 50, Baar explains how "jerk" does a number on soft tissue. Jerk is magnitude of change in acceleration. (Acceleration, which is more familiar, is magnitude of change in velocity.)
 
@@ -72,7 +73,7 @@ Examples might look like recent computer science research at the University of W
 
 The work harkens an earlier Dartmouth app project called [StudentLife](https://web.cs.dartmouth.edu/news/2024/10/2014-student-mental-health-study-wins-ubicomp-10-year-impact-award). That work continues. The same research lab has a new paper with results from the [MindScape Study](https://dl.acm.org/doi/10.1145/3699761). 
 
-Automated versions of sports psychology can only be as good as their contextualization and the delivery that follows. As with sports medicine, the [athletic population is a useful, if extreme, model for the general population](https://stanmed.stanford.edu/innovative-therapy-injured-athletes-helps-everyone/).
+Automated versions of sports psychology can only be as good as their contextualization and the delivery that follows. As with sports medicine, the [athlete population](https://stanmed.stanford.edu/innovative-therapy-injured-athletes-helps-everyone/) is a useful, if extreme, model for the general population.
 
 ### News
 
