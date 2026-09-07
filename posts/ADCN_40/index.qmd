@@ -68,7 +68,9 @@ Lots of universities have [chatbots](https://ascode.osu.edu/news/rise-chatbots-h
 
 The university setting is a good place for a living laboratory for interesting human-AI collaboration. Some of that work will include athletes. The social science around psychological aspects of individual and team performance is where social science and sports research connect.
 
-Examples might look like recent computer science research at the University of Washington.  Ashish Sharma and Tim Althoff developed prototype interfaces for a mental health chatbot ([book](https://dl.acm.org/doi/book/10.1145/3749728), [thesis](https://digital.lib.washington.edu/researchworks/items/2007a024-6383-4b15-b2c8-f97986558500/full)). The work harkens an earlier Dartmouth app project called [StudentLife](https://web.cs.dartmouth.edu/news/2024/10/2014-student-mental-health-study-wins-ubicomp-10-year-impact-award).
+Examples might look like recent computer science research at the University of Washington.  Ashish Sharma and Tim Althoff developed prototype interfaces for a mental health chatbot ([book](https://dl.acm.org/doi/book/10.1145/3749728), [thesis](https://digital.lib.washington.edu/researchworks/items/2007a024-6383-4b15-b2c8-f97986558500/full)). 
+
+The work harkens an earlier Dartmouth app project called [StudentLife](https://web.cs.dartmouth.edu/news/2024/10/2014-student-mental-health-study-wins-ubicomp-10-year-impact-award). That work continues. The same research lab has a new paper, [MindScape Study: Integrating LLM and Behavioral Sensing for Personalized AI-Driven Journaling Experiences](https://dl.acm.org/doi/10.1145/3699761). 
 
 Automated versions of sports psychology can only be as good as their contextualization and the delivery that follows. As with sports medicine, the [athletic population is a useful, if extreme, model for the general population](https://stanmed.stanford.edu/innovative-therapy-injured-athletes-helps-everyone/).
 
