@@ -17,19 +17,19 @@ The situation reveals how difficult it will be to determine college athlete empl
 
 The American Bar Association [lays out how](https://www.americanbar.org/groups/litigation/resources/newsletters/corporate-counsel/ncaa-monopsony-power-center-latest-eligibility-rule-antitrust-case/) (paywall), in another recent 10th Circuit court ruling, college athletes who graduated last spring should, in fact, be fifth-year eligible, "From a monopsony perspective, the district court suggested, the fact that some workers may benefit from restricted competition does not justify buyer-side coordination that harms the labor market overall."
 
-The labor market for college football has become a lot more stable after a few turbulent weeks leading up to the season. Conferences have opportunities to set and enforce rules that affect who can and cannot play, and because those rules only apply to part of the labor market, they are not anti-competitive. A [good rundown](https://www.linkedin.com/posts/professormichaelmccann_the-secs-legal-battle-with-lsu-and-the-share-7503484353046446080-_4QN/) comes from Michael McCann at *Sportico*. 
+As a result of the court rulings, the labor market for college football has become a lot more stable after a few turbulent weeks leading up to the season. Conferences have opportunities to set and enforce rules that affect who can and cannot play, and because those rules only apply to part of the labor market, they are not anti-competitive. A [good rundown](https://www.linkedin.com/posts/professormichaelmccann_the-secs-legal-battle-with-lsu-and-the-share-7503484353046446080-_4QN/) comes from Michael McCann at *Sportico*. 
 
 LSU might want dubious athletes to play for the school, but, unless they want to leave the Southeastern Conference, they [will not risk](https://www.espn.com/college-football/story/_/id/49897284/no-sanctions-lsu-sec-meeting-expulsion) violations of the conference's member-agreed rules. And conferences are now [quite willing](https://bsky.app/profile/mccannsportslaw.bsky.social/post/3mv3wh3z5xc2s) to use [court actions](https://frontofficesports.com/newsletter/sec-escalates-lsu-legal-fight/) to enforce those rules.
 
-The universities, the athletic conferences, and the NCAA all have business models. The decision-making for universities and for conferences that differentiate one from the next is apparent. Student populations, alumni resources, media markets, long-held traditions, organizational structures, and institutional priorities are factors.
+The universities, the athletic conferences, and the NCAA all have business models. The decision-making by universities and conferences that differentiate one from the next is apparent. Student populations, alumni resources, media markets, long-held traditions, organizational structures, and institutional priorities are factors.
 
-The NCAA does not seem to have quite so many different levers to pull. It will be far easier to operate if federal legislation provides it with an anti-trust exemption that will keep its monopsony intact.
+The NCAA does not seem to have quite so many different levers to pull. It will be far easier for the NCAA to operate if federal legislation provides it with an anti-trust exemption that will keep its monopsony intact.
 
-Athletes have the right to choose a school, something that comes down to compensation, NIL opportunities, and relationships with coaches and teammates. What passes for student-athlete employment is still to be determined.
+Athletes have the right to choose a school. Their decisions often comes down to compensation, NIL opportunities, and relationships with coaches and teammates. What passes for student-athlete employment and employment rights are still to be determined.
 
-Both the NCAA and college athletes face complications and, possibly, hardship if each sport (and with it, each gender) has to figure out its path forward.
+Both the NCAA and college athletes face complications and, possibly, hardship if each sport and with it, each gender, have to figure out a path forward.
 
-Randy Levine, part of President Trump’s Saving College Sports roundtable, spoke with Sportico's McCann after federal legislation failed. Levine [said](https://www.sportico.com/law/analysis/2026/pcsa-congress-colleges-ncaa-follow-rules-1234941457/) that without laws in place, “The disparity between big and small schools will multiply in record speed, and student athletes will continue to lose scholarships, health protections and not get paid for their services.”
+Randy Levine, part of President Trump’s Saving College Sports roundtable, spoke with McCann after federal legislation failed. Levine [said](https://www.sportico.com/law/analysis/2026/pcsa-congress-colleges-ncaa-follow-rules-1234941457/) that without laws in place, “The disparity between big and small schools will multiply in record speed, and student athletes will continue to lose scholarships, health protections and not get paid for their services.”
 
 In reality, the chaos is exaggerated. With each court judgment, the challenge that college sports faces clears up. Not that it makes any of it easier. The legal judgments actually show the enormous amount of work it will take to put viable, sustainable, fair employment rights for student-athletes in place.
 
@@ -39,7 +39,7 @@ The Carnegie Mellon Sports Analytics Conference, happening in October, will agai
 
 A [new report](https://bsky.app/profile/nature.com/post/3muzk3wsyb72g) from the World Bank shows that reproducibility failures have inhibited policy advances that could, in theory, improve populations' health and well-being.
 
-The Institute for Replication checked data repositories that were set up for research studies' reproductions. The organization [found](https://bsky.app/profile/i4replication.bsky.social/post/3muz3q2fkok2x) 21 percent of the repositories contained personal identifiable information.
+The Institute for Replication checked data repositories that were set up for research studies' reproductions. The organization [found](https://bsky.app/profile/i4replication.bsky.social/post/3muz3q2fkok2x) that 21% of the repositories contained personal identifiable information.
 
 The UK Biobank is a gigantic human health information resource (500,000+ participants). The data is de-identified, and access to the data is controlled. But there have been [large-scale leaks](https://bsky.app/profile/nature.com/post/3muzez2deoc2f), and re-identification of the data is possible.
 
@@ -49,7 +49,7 @@ Synthetic data is also finding a role in many analysis pipelines. Industry consu
 
 [For example](https://cnr.ncsu.edu/news/2026/09/ai-generated-images-conservation-real-data-essential/), synthetic data improves image-recognition models when real-world data is limited. Synthetic images improved a North Carolina State research model’s ability to recognize trees when real images were limited, But synthetic data miss subtle details and lack nature's variation.
 
-Data sharing increases the importance of data quality measures like these. Sports does not share data as much as it could, and that might be, in part, because the benefit has not been spelled out, while the inconvenience of sharing is more obvious.
+Data sharing increases the importance of data quality measures like these. Sports does not share data as much as it could. The reason might be, in part, because the benefit has not been spelled out, while the inconvenience of sharing is more obvious.
 
 ### News
 
@@ -71,3 +71,4 @@ Data sharing increases the importance of data quality measures like these. Sport
 
 [A big assumption has kept women out of health and fitness studies for years. What if it’s wrong?](https://theconversation.com/a-big-assumption-has-kept-women-out-of-health-and-fitness-studies-for-years-what-if-its-wrong-260055) in *The Conversation* by Maureen MacDonald on September 7, 2026
 
+[The masters runner who turned his comeback into an AI experiment](https://runningmagazine.ca/the-scene/the-masters-runner-who-turned-his-comeback-into-an-ai-experiment/) in *Canadian Running* by Hayden West on September 10, 2026
