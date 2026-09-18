@@ -36,7 +36,7 @@ Writing for an audience and writing for academic publishing has mutual benefits.
 
 The journalism and the research I work on have the opportunity to break new ground. The lack of precedent makes AI mostly unavailable for what I am trying to learn and write about. Still, AI has dramatically affected the research and writing workflows going on all around me.
 
-Colleagues of mine rely heavily on AI, using large language models to draft research questions and then to code much of their technical work. They are far more productive than I am. I won't go so far as to say that do not understand the results and conclusions in their work. But one conference [spot checked submissions](https://bsky.app/profile/yoshitomo-matsubara.net/post/3mvocjv7p5s2f) and were disappointed to see how many authors failed to answer basic questions about their work.
+Colleagues of mine rely heavily on AI, using large language models to draft research questions and then to code much of their technical work. They are far more productive than I am. I won't go so far as to say that do not understand the results and conclusions in their work. One conference [spot checked submissions](https://bsky.app/profile/yoshitomo-matsubara.net/post/3mvocjv7p5s2f) and were disappointed to see how many authors failed to answer basic questions about their work.
 
 Other colleagues of mine depend on AI for interpreting and editing technical articles and drafts. English is not their native language and the work becomes far easier with help from AI, and the situation is not appreciably different from the [students who sacrifice learning for speed](https://www.nytimes.com/2026/09/15/us/universities-ai-warnings-enthusiasm.html) by using AI. 
 
@@ -49,10 +49,10 @@ The less said about AI slop and journalism the better, but it comes down the sam
 Sports science researcher Martin Bucheit recently wrote [guidelines](https://martin-buchheit.net/2026/09/10/if-artificial-intelligence-is-writing-your-report-why-are-you-required/) for where and how to use AI in the athletes' data management and reporting pipeline. Bucheit sees valuable productivity gains early in the pipeline in terms of automating, checking, and otherwise processing the data for reporting. He emphasized the importance of personal accountability and the high stakes for accuracy as the pipeline moves into analysis and report generation, the stuff that collaborators will see. 
 
 And these are a few of the better explainer articles that I have read about AI:
-- [Anthropic and Microsoft Researchers Weigh Limits of Artificial Intelligence at Berkman Klein Panel](https://www.thecrimson.com/article/2026/9/16/ai-panel-harvard-law/) in *The Harvard Crimson* student newspaper by Francesco Palma on September 16, 2026
-- [The AI Inference Revolution Is Here](https://spectrum.ieee.org/inference-hardware-revolution) in *IEEE Spectrum* by Matthew Smith on September 15, 2026
-- [As AI enters health care, are we ready?](https://sph.cuny.edu/life-at-sph/news/2026/09/16/researchers-call-for-health-literate-ai/) in *CUNY SPH Press Releases and Announcements* by Ariana Costakes on September 16, 2026
-- [An M.I.T. Report Warns A.I. Is Causing ‘Cognitive Surrender.’ Universities Are in a Bind.](https://www.nytimes.com/2026/09/15/us/universities-ai-warnings-enthusiasm.html) in *The New York Times* by Mark Arsenault, Dana Goldstein, Alan Blinder and Sarah Mervosh on September 15, 2026
+* [Anthropic and Microsoft Researchers Weigh Limits of Artificial Intelligence at Berkman Klein Panel](https://www.thecrimson.com/article/2026/9/16/ai-panel-harvard-law/) in *The Harvard Crimson* student newspaper by Francesco Palma on September 16, 2026
+* [The AI Inference Revolution Is Here](https://spectrum.ieee.org/inference-hardware-revolution) in *IEEE Spectrum* by Matthew Smith on September 15, 2026
+* [As AI enters health care, are we ready?](https://sph.cuny.edu/life-at-sph/news/2026/09/16/researchers-call-for-health-literate-ai/) in *CUNY SPH Press Releases and Announcements* by Ariana Costakes on September 16, 2026
+* [An M.I.T. Report Warns A.I. Is Causing ‘Cognitive Surrender.’ Universities Are in a Bind.](https://www.nytimes.com/2026/09/15/us/universities-ai-warnings-enthusiasm.html) in *The New York Times* by Mark Arsenault, Dana Goldstein, Alan Blinder and Sarah Mervosh on September 15, 2026
 
 
 ### News
