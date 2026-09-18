@@ -48,7 +48,7 @@ The less said about AI slop and journalism the better, but it comes down the sam
 
 Sports science researcher Martin Bucheit recently wrote [guidelines](https://martin-buchheit.net/2026/09/10/if-artificial-intelligence-is-writing-your-report-why-are-you-required/) for where and how to use AI in the athletes' data management and reporting pipeline. Bucheit sees valuable productivity gains early in the pipeline in terms of automating, checking, and otherwise processing the data for reporting. He emphasized the importance of personal accountability and the high stakes for accuracy as the pipeline moves into analysis and report generation, the stuff that collaborators will see. 
 
-And these are a few of the better explainer articles that I have read about AI:
+These are a few of the better explainer articles that discuss AI from my news stream:
 
 [Anthropic and Microsoft Researchers Weigh Limits of Artificial Intelligence at Berkman Klein Panel](https://www.thecrimson.com/article/2026/9/16/ai-panel-harvard-law/) in *The Harvard Crimson* student newspaper by Francesco Palma on September 16, 2026
 
