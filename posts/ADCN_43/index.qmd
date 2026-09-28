@@ -3,14 +3,15 @@ title: "ADCN: Disaster Cascades, Reverse Centaurs, News"
 author: "Brad Stenger"
 date: "2026-09-27"
 ---
+Brad Stenger produces the Athletes Data Community Newsletter. He is a PhD student at the University of Vermont and researches data sharing and privacy for athletes' data. If you have colleagues who should get this newsletter, please point them to [newsletter.bradstenger.com](https://newsletter.bradstenger.com).
 
 ### Disaster Cascades in the Form of Injuries
 
-Arnold Schwarzenegger was governor of California when I lived in San Francisco. At some point during his time in office I became aware of disaster cascades. To live in California is to live with risk from earthquakes, fires, floods, mudslides, terrorism, gangs, sharks, lions, bears, and snakes. One disaster makes the next one more likely, not less likely (not true for animals). The hallmark of state government under Arnold was legislative gridlock and no safety net for natural disasters. I moved in 2009.
+Arnold Schwarzenegger was governor of California when I lived in San Francisco. At some point during his time in office I became aware of disaster cascades. To live in California is to live with risk from earthquakes, fires, floods, mudslides, terrorism, gangs, sharks, lions, bears, and snakes. One disaster makes the next disaster more likely, not less likely (not true for animals). The hallmark of state government under Arnold was legislative gridlock and no safety net for natural disasters. I moved in 2009.
 
-There is [an article](https://bsky.app/profile/altice.bsky.social/post/3mvssioacis2y) by Ian Bogost in *The Atlantic* that reminded me of California. He describes the disaster cascade at American universities: enrollment, research funding, AI, college sports, wokeness, and all at the same time.
+There is [a new article](https://bsky.app/profile/altice.bsky.social/post/3mvssioacis2y) by Ian Bogost in *The Atlantic* that reminded me of California. He describes the disaster cascade at American universities: enrollment, research funding, AI, college sports, wokeness, Trump, and all at the same time.
 
-In sports, the classic disaster cascade is when a rash of injuries hits a team. The phrase [next man up](https://www.google.com/search?sca_esv=080dae4805299e94&sxsrf=APpeQnslH6WW83ea2ufdc1b7Qqg29kWhGQ:1790598022319&q=next+man+up&tbm=nws) hangs in the air. ([Next woman up](https://www.google.com/search?q=next+woman+up&sca_esv=080dae4805299e94&tbm=nws) means something different, something more career-oriented.) Of course, when teams lose players to injury, the missing players' work gets picked up by teammates, either their frontline peers or by untested reserves. The extra work with its added wear and tear increases injury risk for those athletes.
+In sports, the classic disaster cascade is when a rash of injuries hits a team. The phrase [next man up](https://www.google.com/search?sca_esv=080dae4805299e94&sxsrf=APpeQnslH6WW83ea2ufdc1b7Qqg29kWhGQ:1790598022319&q=next+man+up&tbm=nws) hangs in the air. ([Next woman up](https://www.google.com/search?q=next+woman+up&sca_esv=080dae4805299e94&tbm=nws) means something different in popular culture, something more career-oriented.) Of course, when teams lose players to injury, the missing players' work gets picked up by teammates, either their frontline peers or by untested reserves. The extra work with its added wear and tear increases injury risk for those athletes.
 
 Hockey analyst Stephen Burtch coined the term "injury cascade" in a 2015 *Sportsnet* [article](https://www.sportsnet.ca/hockey/nhl/injury-cascades-which-teams-are-most-at-risk-to-lose-more-players/). The Columbus Blue Jackets had lost eight of their top players, a total of $21 million in combined salaries, at the start of their season. 
 
