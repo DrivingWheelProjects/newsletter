@@ -14,6 +14,8 @@ Bullying is an effective method for drawing lines between who's in and who's out
 
 Scientific consensus has been that the collective "us" needs a "them" in order to exist, but the issue is far from settled. Adam Grant called studying "us without a them" the most important question in organizational psychology on [the podcast](https://thecuriosityshop.com/podcast/can-we-build-an-us-without-a-them-with-john-green/) he hosts with Brené Brown.
 
+![](IngroupOutgroup.png)
+
 [New research](https://www.pnas.org/doi/10.1073/pnas.2517013123) tested the premise that ingroup love goes together with outgroup hate by asking whether ingroup prosociality (behaviors that benefit others) goes with less or more outgroup prosociality. The authors point out that most research asks subjects to choose to interact with one or the other, ingroup or outgroup, precluding outgroup prosociality. They found that people are slightly more prosocial toward their ingroup than the outgroup. And they found those who are prosocial toward the ingroup also tend to be prosocial toward the outgroup.
 
 [Another podcast](https://trainingground.guru/ben-ryan-why-brentford-hire-from-outside-football-for-diversity-of-thought/) (podcasts are not the best sources—apologies) where host Simon Austin interviewed Ben Ryan, the performance director at Brentford soccer club. Ryan had previously coached the Fiji sevens rugby squad to an unexpected 2016 Rio de Janeiro Olympics gold medal. The Fiji team culture prioritized "everyone looks out for everyone."
