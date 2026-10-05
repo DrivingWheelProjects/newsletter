@@ -3,7 +3,7 @@ title: "ADCN: In Groups and Out Groups, Body Sensors, News"
 author: "Brad Stenger"
 date: "2026-10-04"
 ---
-The Athletes Data Community Newsletter is a weekly update on data collection, management, and reporting advances related to athletics. Brad Stenger produces the ADCN. He is a PhD student at the University of Vermont who researches athletes' data sharing and privacy.
+The Athletes Data Community Newsletter is a weekly update on data collection, management, and reporting advances in athletics. Brad Stenger produces the ADCN. He is a PhD student at the University of Vermont who researches athletes' data sharing and privacy.
 
 ### Can We Have an "Us" If There Is No "Them"
 The Arizona State men's hockey team [started its season](https://sports.yahoo.com/articles/arizona-state-finally-orders-investigation-071932824.html) this weekend. The player who was hospitalized after a team-building workout at the start of team training remains on life support. The team's head coach has been placed on leave, but the rest of the coaching staff is still around. 
