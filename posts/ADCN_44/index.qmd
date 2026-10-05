@@ -3,6 +3,7 @@ title: "ADCN: In Groups and Out Groups, Body Sensors, News"
 author: "Brad Stenger"
 date: "2026-10-04"
 ---
+The Athletes Data Community Newsletter is a weekly update on data collection, management, and reporting advances related to athletics. Brad Stenger produces the ADCN. He is a PhD student at the University of Vermont who researches athletes' data sharing and privacy.
 
 ### Can We Have an "Us" If There Is No "Them"
 The Arizona State men's hockey team [started its season](https://sports.yahoo.com/articles/arizona-state-finally-orders-investigation-071932824.html) this weekend. The player who was hospitalized after a team-building workout at the start of team training remains on life support. The team's head coach has been placed on leave, but the rest of the coaching staff is still around. 
@@ -25,7 +26,7 @@ Harvard researchers Todd Rogers, Audrey Feldman, and Ben Valenta recently penned
 
 The authors found that "every fan base in Major League Baseball, the National Football League, and top college football programs remains politically diverse." People from all walks cheer together, rooting for their team, win or lose. And the group identity exceeds individuals' other social group identities.
 
-Bullying remains [a problem](https://www.wgbh.org/tv-shows/2026-09-28/mass-launched-a-program-to-stop-school-sports-bullying-why-are-so-few-schools-using-it) in youth sports. [Research is finding](https://sportinsociety.sites.northeastern.edu/) that education can improve the situation, but even when education programs are resourced, communities do not always value opportunities to participate.
+Bullying remains [a problem](https://www.wgbh.org/tv-shows/2026-09-28/mass-launched-a-program-to-stop-school-sports-bullying-why-are-so-few-schools-using-it) in youth sports. [Research shows](https://sportinsociety.sites.northeastern.edu/) that education can improve the situation, but even when education programs are resourced, communities do not always value opportunities to participate.
 
 Why does this ingroup-outgroup stuff matter for athletes' data? 
 
@@ -36,7 +37,7 @@ The opportunity exists to be prosocial in the intra-team context. The everyone-f
 The better lens for prosocial sharing of athletes' data is probably with regard to fan interest and support. The better the sports entertainment product, the better the fan experience. To the extent that teams or individuals withhold data and impose a lower ceiling on competition entertainment, that seems selfish. 
 
 ### Athletes' Data Collection Technologies Rundown
-The annual *Body Sensor Networks* conference starts on October 10 in Portugal. It is affiliated with the IEEE Engineering in Medicine and Biology Society, and it is the leading research conference for wearable sensing in health applications. The conference has a large footprint in athletics-related work. (Track 2 is "Sensors and systems for digital health, wellness, and athletics.") US university bioengineering research labs are well-represented.
+The annual *Body Sensor Networks* conference starts on October 10 in Portugal. It is affiliated with the *IEEE Engineering in Medicine and Biology Society*, and it is the leading inter-disciplinary research conference for wearable sensing and health applications. The conference has a large footprint in athletics-related work. (Track 2 is "Sensors and systems for digital health, wellness, and athletics.") US university bioengineering research labs are well-represented.
 
 OpenReview.net has [the complete conference proceedings](https://openreview.net/group?id=IEEE.org/EMBS/BSN/2026/Conference&referrer=%5BHomepage%5D(%2F)#tab-accept). What jumps out (to me) is the number of application-specific sensors that have athletic utility:
 
