@@ -22,13 +22,15 @@ The cooperation choice option at Harvard and in sports is different from the mut
 
 Lots of the shared work in sports is mandatory. For all sports that have passes, those passes will have human endpoints. 
 
-In two recent games against Spain, the US Womens National Soccer team won zero. Chemistry, not talent, [seems to be the problem](https://bsky.app/profile/womensgamemib.bsky.social/post/3mydbkn6zfk23). The USWNT has the task of finding the right group to play together, which, in all likelihood, will not necessarily be the 11 best players when the next World Cup begins.
+In two recent games against Spain, the US Womens National Soccer team won none. Chemistry, not talent, [seems to be the problem](https://bsky.app/profile/womensgamemib.bsky.social/post/3mydbkn6zfk23). The USWNT has the task of finding the right group to play together, which, in all likelihood, will not be the 11 best players when the next World Cup begins.
 
 The best example right now where more and better collaboration outperforms less and worse collaboration is baseball. Low-budget, mid-market baseball teams from Tampa Bay and Milwaukee dispatched big-budget, major-market New York and Los Angeles. 
 
 Prioritizing team skills like [balls in play](https://www.espn.com/mlb/story/_/id/50214717/world-series-rays-brewers-first-look-preview), [fielding](https://www.nytimes.com/athletic/7720788/2026/10/25/rays-brewers-world-series-game-2-blown-lead/), and [baserunning](https://www.espn.com/mlb/story/_/id/50263667/rays-ease-basepaths-losing-game-1-world-series) gave the two teams an edge against opponents built around three true outcomes (strikeouts, walks, home runs). (Note: Fielding and baserunning errors have cost the Rays the first two World Series games.)
 
-The Brewers have $146 million in player payroll (14th in MLB). Tampa Bay has $79.3 million (24th in MLB). Anthony Castrovince [describes](https://www.mlb.com/news/brewers-rays-scouting-investment-world-series-2026) the front office operations investments in things like scouting that offset the teams' on-field spend, specifically their investments in analytics and scouting. Milwaukee has a 64-person scouting department and a process that emphasizes being around players and then "blending" what they learn with the rest of the organization's information to make decisions. 
+The Brewers have $146 million in player payroll (14th in MLB). Tampa Bay has $79.3 million (24th in MLB). Anthony Castrovince [describes](https://www.mlb.com/news/brewers-rays-scouting-investment-world-series-2026) the front office operations investments in things like scouting working in tandem with analytics that offset the teams' on-field spend. 
+
+Milwaukee has a 64-person scouting department and a process that emphasizes being around players and then "blending" what they learn with the rest of the organization's information to make decisions. 
 
 It's an 80-person scouting department for Tampa Bay. “Maintaining a robust scouting staff,” said Rays vice president and assistant general manager Kevin Ibach, “allows us to look at these players through a subjective lens and challenge some of the data that we also have working for us as well.”
 
@@ -38,9 +40,9 @@ If working together has clear benefit for undergrads at Harvard, for players on 
 
 This is the story of the 2020 US decennial census, reported by a Cornell sociologist. The fundamental tension comes from competing aspects of a census: one, to be accurate; two, to be useful; and three, to keep confidential personal information private.
 
-Computer scientist Simson Garfinkel [summarizes the tradeoff](https://databasenation.substack.com/p/data-are-made-not-found-book-review) and gives it a name, the [Fundamental Law of Information Recovery](https://arxiv.org/abs/1701.00752). The law states that "if you answer too many questions too accurately on a confidential database, the confidentiality of that database will suffer, and typically in a spectacular way."
+Computing and privacy researcher Simson Garfinkel [summarizes the tradeoff](https://databasenation.substack.com/p/data-are-made-not-found-book-review) and gives it a name, the [Fundamental Law of Information Recovery](https://arxiv.org/abs/1701.00752). The law states that "if you answer too many questions too accurately on a confidential database, the confidentiality of that database will suffer, and typically in a spectacular way."
 
-The 2020 census used a mathematical framework called Differential Privacy to manage the tradeoffs and to produce the data needed for public policy. Making data that has broad utility is an effortful process. As more data becomes available, it will take more work to make useful and accessible, but still private.
+The 2020 census used a mathematical framework called Differential Privacy to manage the tradeoffs and to produce the data needed for public policy. Making data that has broad utility is an effortful process. As more data becomes available, it will take more work to make data that is useful and accessible, but still private.
 
 Differential Privacy is an active area of research. Last June the Census Bureau [banned the framework](https://talkingpointsmemo.com/news/how-a-baseless-right-wing-social-media-panic-led-to-dramatic-changes-at-the-census-bureau) over concerns about its accuracy. A [new investigation](https://mitsloan.mit.edu/press/new-research-finds-privacy-protections-preserve-most-social-science-findings-amid-growing-census-data-debate) from MIT and Carnegie Mellon took public data sets used for social science research and made that data differentially private, then re-ran the social science studies. 91% of the published social science conclusions remain intact despite the noise injected with Differential Privacy.
 
@@ -60,7 +62,7 @@ Ohtani and the Dodgers might take a page from NBA teams that have either announc
 
 NHL hockey has downplayed load management as a function of hockey culture and of league parity. But [it does happen](https://scienceforsport.fireside.fm/291).
 
-Hockey player resting norms may now be different for goalies. The Maple Leafs told #1 goalie Sergei Bobrovsky to [stay home and rest](https://thehockeynews.com/nhl/toronto-maple-leafs/latest-news/it-s-a-smart-thing-to-do-sergei-bobrovsky-a-fan-of-maple-leafs-three-goalie-plan-for-back-to-back-games) for a recent roadtrip. The team has a 3-goalie rotation. Three goalies is also something that the Edmonton Oilers [plan](https://oilersnation.com/news/oilers-three-goalie-system-mcdavid-andersen-levi) to put in place.
+Hockey player resting norms may now be different for goalies. The Maple Leafs told #1 goalie Sergei Bobrovsky to [stay home and rest](https://thehockeynews.com/nhl/toronto-maple-leafs/latest-news/it-s-a-smart-thing-to-do-sergei-bobrovsky-a-fan-of-maple-leafs-three-goalie-plan-for-back-to-back-games) for a recent roadtrip. The team has a 3-goalie rotation. Three goalies is also something that the Edmonton Oilers [plan](https://oilersnation.com/news/oilers-three-goalie-system-mcdavid-andersen-levi) to try.
 
 ### News
 
