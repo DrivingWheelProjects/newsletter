@@ -7,7 +7,7 @@ The Athletes Data Community Newsletter (ADCN) is a weekly update on advances in 
 
 ### Managing Overuse Injury
 
-The NBA has an early-season injury problem. Two weeks into the season and there were 79 NBA players [listed](https://www.theringer.com/2026/10/30/nba/nba-injuries-health-players) as unavailable due to injury or illness on the October 28 injury report. There are only 450 players on NBA active rosters which means that 17 percent of them are injured.
+The NBA has an early-season injury problem. Two weeks into the season, and there were 79 NBA players [listed](https://www.theringer.com/2026/10/30/nba/nba-injuries-health-players) as unavailable due to injury or illness on the October 28 injury report. There are only 450 players on NBA active rosters, which means that 17 percent of them are injured.
 
 How does that figure compare to hockey? According to the Kalshi prediction market NHL [injury tracker](https://kalshi.com/nhl/injury-report), there are 113 (out of 726) NHL hockey players on teams' injured lists. The hockey number works out to about 15 percent.
 
@@ -15,31 +15,31 @@ Late-season NHL hockey games have higher stakes than early-season games, so it m
 
 The [competitive balance among NHL teams](https://www.sportsbusinessjournal.com/Daily/Issues/2016/03/14/Leagues-and-Governing-Bodies/Bettman/) keeps the standings close. The gap between good and mediocre teams is small, and both groups will stay in contention for playoff spots for nearly the full length of the regular season. 
 
-Early-season opportunities for younger, not-established players can also provide roster management benefits if those substitutes can perform at a level that maintains the team's good (or even mediocre) win-loss record. If a couple of young players pass their professional tests thent that team can raise its talent level. And because the top-line players are out, their minutes and statistics are effectively unchanged. 
+Early-season opportunities for younger, not-established players can also provide roster management benefits if those substitutes can perform at a level that maintains the team's good (or even mediocre) win-loss record. If a couple of young players pass their professional tests, then that team can raise its talent level. And because the top-line players are out, their minutes and statistics are effectively unchanged. 
 
 As long as the young talent comes through, everyone (the team, the veterans, the reinforcements) all win. If not, lost games and a team-wide [injury cascade](https://newsletter.bradstenger.com/posts/ADCN_43/index.html#disaster-cascades-in-the-form-of-injuries) become likely.
 
-A quick check of the NHL teams going through injury problems and it's the [Islanders](https://sports.yahoo.com/articles/ryan-pulock-exits-early-latest-013716507.html), [Hurricanes](https://www.newsobserver.com/sports/nhl/carolina-hurricanes/article317683440.html), [Canadiens](https://sports.yahoo.com/articles/canadiens-announce-mixed-bag-injury-201857062.html), [Wild](https://www.twincities.com/2026/10/19/amid-early-season-injuries-wild-learning-to-win-with-what-they-have/), and [Avalanche](https://www.si.com/nhl/avalanche/onsi/news/avalanche-receive-troubling-injury-updates-on-3-forwards-ahead-road-trip). These are teams who can be confident that they have sufficient talent to sacrifice and early-season game or two while developing newer, often younger, players.
+A quick check of the NHL teams going through injury problems, and it's the [Islanders](https://sports.yahoo.com/articles/ryan-pulock-exits-early-latest-013716507.html), [Hurricanes](https://www.newsobserver.com/sports/nhl/carolina-hurricanes/article317683440.html), [Canadiens](https://sports.yahoo.com/articles/canadiens-announce-mixed-bag-injury-201857062.html), [Wild](https://www.twincities.com/2026/10/19/amid-early-season-injuries-wild-learning-to-win-with-what-they-have/), and [Avalanche](https://www.si.com/nhl/avalanche/onsi/news/avalanche-receive-troubling-injury-updates-on-3-forwards-ahead-road-trip). These are teams who can be confident that they have sufficient talent to sacrifice and early-season game or two while developing newer, often younger, players.
 
 The current NBA injury scare may just be an indication that [the league's competitive balance](https://www.sportico.com/leagues/basketball/2026/nba-title-champion-history-adam-silver-parity-1234952621/) and late-season stakes are in a better place than the tankapalooza of recent years.
 
-NBA players are still getting hurt, but league-wide incentives to make the end of the season more competitive change how teams manage hurt those injuries and manage their rosters. Perspectives on why elite basketball players keep getting hurt have arrived at a [consensus](https://www.si.com/nba/why-nba-injury-problem-how-it-can-be-fixed): the more athletic playing style, the intense NBA schedule, the wear and tear from unregulated elite teenage basketball.
+NBA players are still getting hurt, but league-wide incentives to make the end of the season more competitive change how teams manage injuries and manage their rosters. Perspectives on why elite basketball players keep getting hurt have arrived at a [consensus](https://www.si.com/nba/why-nba-injury-problem-how-it-can-be-fixed): the more athletic playing style, the intense NBA schedule, the wear and tear from unregulated elite teenage basketball.
 
-These are, in a word, overuse injuries. They occur when athletes undertake efforts that exceed their body's capacity to recover. The situation is simple enough to understand but in terms of athletes' data, the situation is challenging at many levels.
+These are, in a word, overuse injuries. They occur when athletes undertake efforts that exceed their body's capacity to recover. The situation is simple enough to understand, but in terms of athletes' data, the situation is challenging at many levels.
 
 There are two paths to overuse injury. An athlete can be *unprepared* for the physical demands of training or competition. An athlete can also be *underrecovered* from past training or competition. The two are more codependent than mutually exclusive, a yin and yang for modern athletes.
 
-Physical preparation metrics include the long list of the performance and biometric measures that go into training load calculation. Recovery metrics start with sleep and stress-related heartrate measures (resting heart rate, heart rate variability) and extends into non-sleep recovery (message, normatec) and nutrition. Marginal gains apply to both sets of metrics. Tissue status indicators (biomarkers, imaging, elastography) complicate things further. 
+Physical preparation metrics include the long list of the performance and biometric measures that go into training load calculation. Recovery metrics start with sleep and stress-related heart rate measures (resting heart rate, heart rate variability) and extend into non-sleep recovery (message, normatec) and nutrition. Marginal gains apply to both sets of metrics. Tissue status indicators (biomarkers, imaging, elastography) complicate things further. 
 
 The quantity of applicable athletes' data is enormous. Athletes' data context adds to the challenges. Modern athletic development creates a dynamic balance between preparation and recovery. Physiology does not help. Different tissues (muscles, tendons, bones) adapt and recover at different rates, all subject to further metabolic variation that is [highly individualized](https://newsletter.bradstenger.com/posts/ADCN_48/OutrunInjury.pdf). 
 
-Athlete management systems are imperfect aids. [New research](https://sportrxiv.org/index.php/server/preprint/view/1140) from professional women's soccer in Norway shows that athlete monitoring systems are prone to false alarms, actually false alerts, that add substantially to staff workload. Only 0.2–1.2% of new alerts (based on acute-chronic workload ratio, training load increase, wellness scores, or training monotony score) were followed by an actual injury report.
+Athlete management systems are imperfect aids. [New research](https://sportrxiv.org/index.php/server/preprint/view/1140) from professional women's soccer in Norway shows that athlete monitoring systems are prone to false alarms, actually false alerts, that add to staff workload. Only 0.2–1.2% of new alerts (based on acute-chronic workload ratio, training load increase, wellness scores, or training monotony score) were followed by an actual injury report.
 
 If the goal is to have the team's best players ready for a championship run through the playoffs, cautious health management early in the season makes for bouts of detraining and retraining throughout the season. The injured-list resets are probably easier than continuous attempts to assess and cope with the range of small but playable impairments that might or might not get remedied.
 
 Jess McClain had a great finish, second place, in the 2026 New York City Womens Marathon.  Overuse injuries had plagued her initial post-college professional career. Her contract with Brooks led her to train with a group in Seattle. In [an interview](https://marathonhandbook.com/jess-mcclain-2024-nyc-marathon-interview/) before the 2024 NYC marathon, McClain described how seasonal affect, weight training, high mileage, and three hard workouts per week contributed to stress fracture injuries. "I resolved then that I was never going to let myself get to a starting line not healthy again," she said at the time.
 
-McClain has [streamlined her training](https://www.flotrack.org/articles/16318580-a-streamlined-training-routine-fuels-jess-mcclains-resurgence) this year, working with new coaches, Megan and David Roche, who are highly training data-literate. (Megan's MD/PhD at Stanford focused on female athlete health.) Roche [told LetsRun.com](https://www.letsrun.com/news/2026/11/sheila-chepkirui-wins-nyc-marathon-jess-mcclain-ends-eight-year-american-podium-drought-with-surprise-second/), he focused training on "zone compression" (changing paces, going from below and above threshold). McClain, Roche said, could recover and shuttle lactate while still running at 5:20 per mile. McClain ran the last four miles at 5:15, faster than the race winner, Sheila Chepkirui.
+McClain [streamlined her training](https://www.flotrack.org/articles/16318580-a-streamlined-training-routine-fuels-jess-mcclains-resurgence) this year, working with new coaches, Megan and David Roche, who are highly data-literate. (Megan's MD/PhD at Stanford focused on female athlete health.) David Roche [told LetsRun.com](https://www.letsrun.com/news/2026/11/sheila-chepkirui-wins-nyc-marathon-jess-mcclain-ends-eight-year-american-podium-drought-with-surprise-second/) that he focused training on "zone compression" (changing paces, moving between below and above threshold). According to David Roche, McClain could recover and shuttle lactate while still running at 5:20 per mile. McClain ran the last four miles at 5:15 pace, faster than the race winner, Sheila Chepkirui.
 
 Overuse injury at the highest levels of endurance competition can be mitigated. Challenges that bridge suffering and success are inevitable and very difficult to overcome.
 
@@ -50,11 +50,12 @@ The National Coach Survey is a collaboration between the Aspen Institute for Pro
 ![](NCS_banner_small.png)
 
 The National Coach Survey targets **ALL youth sport coaches who work with young people in any sport setting** including organized sport and free play. The survey questions focus on:
- - Coaches’ background and training
- - The reason they began coaching and what keeps them coaching
- - Their confidence level based upon their training 
- - The additional supports they need to be an effective coach
- - Their perceptions of the current youth sports system in their community
+
+- Coaches’ background and training
+- The reason they began coaching and what keeps them coaching
+- Their confidence level based upon their training 
+- The additional supports they need to be an effective coach
+- Their perceptions of the current youth sports system in their community
 
 This short online survey should be taken by **anyone who is or has been a youth sports coach** and will take 20-30 minutes to complete. For respondents willing to provide an email address, one person from every 500 will win a $50 electronic gift card. 
 
@@ -66,7 +67,7 @@ Tell your colleagues and take the survey online at [as.pn/coachsurvey](https://a
 
 [Can Scientists Make Football Safer?](https://www.nytimes.com/2026/10/28/science/cte-nfl-football-brain-safety.html) in *The New York Times* by Lynne Peeples on October 28, 2026
 
-[Knee Surgery Isn’t Always the Answer. Here’s How to Avoid It.](https://www.nytimes.com/2026/10/28/well/move/avoid-knee-surgery-advice.html) in *The New York Times*, Well newsletter by Ian McMahan on October 28, 2026
+[Knee Surgery Isn’t Always the Answer. Here’s How to Avoid It.](https://www.nytimes.com/2026/10/28/well/move/avoid-knee-surgery-advice.html) in *The New York Times*, *Well newsletter* by Ian McMahan on October 28, 2026
 
 [Panthers Laying Groundwork for On- and Off-Field Transformation](https://sports.yahoo.com/articles/panthers-laying-groundwork-off-field-183942787.html) in Yahoo Sports, *Front Office Sports* by David Rumsey on October 27, 2026
 
