@@ -5,7 +5,6 @@ date: "2026-10-24"
 ---
 The Athletes Data Community Newsletter (ADCN) is a weekly update on advances in sports-related data collection, management, and reporting. Brad Stenger produces the ADCN. He is a PhD student at the University of Vermont and researches athletes’ data sharing and privacy.
 
-
 ### Keep Cooperating
 
 Harvard economists Ed Glaeser and Davide Viviano have [an editorial](https://www.thecrimson.com/article/2026/10/22/glaeser-viviano-harvard-collaborating-under-grade-cap/) in the *Harvard Crimson* student newspaper. They ask and answer the question, "Should you stop cooperating with your classmates once there are only a fixed number of A's to go around?" 
