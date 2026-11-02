@@ -15,11 +15,11 @@ Late-season NHL hockey games have higher stakes than early-season games, so it m
 
 The [competitive balance among NHL teams](https://www.sportsbusinessjournal.com/Daily/Issues/2016/03/14/Leagues-and-Governing-Bodies/Bettman/) keeps the standings close. The gap between good and mediocre teams is small, and both groups will stay in contention for playoff spots for nearly the full length of the regular season. 
 
-Early-season opportunities for younger, not-established players can also provide roster management benefits if those substitutes can perform at a level that maintains the team's good (or even mediocre) win-loss record. If a couple of young players pass their professional tests, then that team can raise its talent level. And because the top-line players are out, their minutes and statistics are effectively unchanged. 
+Early-season opportunities for younger, not-established players can also provide roster management benefits if those substitutes can perform at a level that maintains the team's good (or even mediocre) win-loss record. If a couple of young players pass their professional tests, then that team raises its talent level. And because the top-line players are out, their top-line minutes and statistics (and paydays) are effectively unchanged. 
 
-As long as the young talent comes through, everyone (the team, the veterans, the reinforcements) all win. If not, lost games and a team-wide [injury cascade](https://newsletter.bradstenger.com/posts/ADCN_43/index.html#disaster-cascades-in-the-form-of-injuries) become likely.
+As long as the young talent comes through, everyone (the team, the veterans, the reinforcements) all win. If not, game losses and a team-wide [injury cascade](https://newsletter.bradstenger.com/posts/ADCN_43/index.html#disaster-cascades-in-the-form-of-injuries) become likely.
 
-A quick check of the NHL teams going through injury problems, and it's the [Islanders](https://sports.yahoo.com/articles/ryan-pulock-exits-early-latest-013716507.html), [Hurricanes](https://www.newsobserver.com/sports/nhl/carolina-hurricanes/article317683440.html), [Canadiens](https://sports.yahoo.com/articles/canadiens-announce-mixed-bag-injury-201857062.html), [Wild](https://www.twincities.com/2026/10/19/amid-early-season-injuries-wild-learning-to-win-with-what-they-have/), and [Avalanche](https://www.si.com/nhl/avalanche/onsi/news/avalanche-receive-troubling-injury-updates-on-3-forwards-ahead-road-trip). These are teams who can be confident that they have sufficient talent to sacrifice and early-season game or two while developing newer, often younger, players.
+A quick check of the NHL teams going through injury problems, and it's the [Islanders](https://sports.yahoo.com/articles/ryan-pulock-exits-early-latest-013716507.html), [Hurricanes](https://www.newsobserver.com/sports/nhl/carolina-hurricanes/article317683440.html), [Canadiens](https://sports.yahoo.com/articles/canadiens-announce-mixed-bag-injury-201857062.html), [Wild](https://www.twincities.com/2026/10/19/amid-early-season-injuries-wild-learning-to-win-with-what-they-have/), and [Avalanche](https://www.si.com/nhl/avalanche/onsi/news/avalanche-receive-troubling-injury-updates-on-3-forwards-ahead-road-trip). These are teams who can be confident that they have sufficient talent to sacrifice an early-season game or two while developing newer, often younger, players.
 
 The current NBA injury scare may just be an indication that [the league's competitive balance](https://www.sportico.com/leagues/basketball/2026/nba-title-champion-history-adam-silver-parity-1234952621/) and late-season stakes are in a better place than the tankapalooza of recent years.
 
@@ -27,7 +27,7 @@ NBA players are still getting hurt, but league-wide incentives to make the end o
 
 These are, in a word, overuse injuries. They occur when athletes undertake efforts that exceed their body's capacity to recover. The situation is simple enough to understand, but in terms of athletes' data, the situation is challenging at many levels.
 
-There are two paths to overuse injury. An athlete can be *unprepared* for the physical demands of training or competition. An athlete can also be *underrecovered* from past training or competition. The two are more codependent than mutually exclusive, a yin and yang for modern athletes.
+There are two paths to overuse injury. An athlete can be *unprepared* for the physical demands of training or competition. An athlete can also be *underrecovered* from past training or competition. The two are more codependent than mutually exclusive, a yin and yang for modern elite athletes.
 
 Physical preparation metrics include the long list of the performance and biometric measures that go into training load calculation. Recovery metrics start with sleep and stress-related heart rate measures (resting heart rate, heart rate variability) and extend into non-sleep recovery (message, normatec) and nutrition. Marginal gains apply to both sets of metrics. Tissue status indicators (biomarkers, imaging, elastography) complicate things further. 
 
@@ -49,13 +49,9 @@ The National Coach Survey is a collaboration between the Aspen Institute for Pro
 
 ![](NCS_banner_small.png)
 
-The National Coach Survey targets **ALL youth sport coaches who work with young people in any sport setting** including organized sport and free play. The survey questions focus on:
+The National Coach Survey targets **ALL youth sport coaches who work with young people in any sport setting** including organized sport and free play. 
 
-- Coaches’ background and training
-- The reason they began coaching and what keeps them coaching
-- Their confidence level based upon their training 
-- The additional supports they need to be an effective coach
-- Their perceptions of the current youth sports system in their community
+The survey questions focus on: (1) coaches’ background and training, (2) the reason they began coaching and what keeps them coaching, (3) their confidence level based upon their training, (4) the additional supports they need to be an effective coach, and (5) their perceptions of the current youth sports system in their community.
 
 This short online survey should be taken by **anyone who is or has been a youth sports coach** and will take 20-30 minutes to complete. For respondents willing to provide an email address, one person from every 500 will win a $50 electronic gift card. 
 
