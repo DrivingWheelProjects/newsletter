@@ -19,10 +19,13 @@ The data visualization research community holds its annual conference, [IEEE Vis
 
 Vis conference papers to highlight:
 
- * [PoseForge: Editable Pose Analytics for AI-Assisted Sports Coaching](https://ieeevis.org/year/2026/program/content/735d1607-6743-4f0e-8b86-1a793d35d531/) ([arXiv](https://arxiv.org/abs/2608.05971)) is a visual analytics system that presents 3D skeletal poses of interactive movement analysis for cricket players and coaches
- * [Authoring Narrative Visualization in Motion:Visual Storytelling in Swimming Videos](https://ieeevis.org/year/2026/program/content/aede009e-85e8-4949-966c-bb1e01a96921/) ([arXiv](https://arxiv.org/abs/2607.14924)) automates storytelling by tracking swimmers participating in high-level competition
- * [VIGMA: An Open-Access Framework for Visual Gait and Motion Analytics](https://ieeevis.org/year/2026/program/content/1da6f750-8fe6-4cf4-8ccb-6b0b0fd097f7/) ([arXiv](https://arxiv.org/abs/2504.17960)) is a general-purpose visual analytics framework for all types of gait analysis
- * [Who's That Player?: Externalizing Query Interpretation in Spoken XR Sports Interaction](https://ieeevis.org/year/2026/program/content/a6a811db-f906-4dea-bae8-5a160321102e/) ([arXiv](https://arxiv.org/abs/2608.00876)) is a spoken language interface that keeps up with game activity in an immersive sports interaction system by narrowing the scope of queries along four dimensions: temporal, metrics, referential, and spatial
+[PoseForge: Editable Pose Analytics for AI-Assisted Sports Coaching](https://ieeevis.org/year/2026/program/content/735d1607-6743-4f0e-8b86-1a793d35d531/) ([arXiv](https://arxiv.org/abs/2608.05971)) is a visual analytics system that presents 3D skeletal poses of interactive movement analysis for cricket players and coaches
+
+[Authoring Narrative Visualization in Motion:Visual Storytelling in Swimming Videos](https://ieeevis.org/year/2026/program/content/aede009e-85e8-4949-966c-bb1e01a96921/) ([arXiv](https://arxiv.org/abs/2607.14924)) automates storytelling by tracking swimmers participating in high-level competition
+
+[VIGMA: An Open-Access Framework for Visual Gait and Motion Analytics](https://ieeevis.org/year/2026/program/content/1da6f750-8fe6-4cf4-8ccb-6b0b0fd097f7/) ([arXiv](https://arxiv.org/abs/2504.17960)) is a general-purpose visual analytics framework for all types of gait analysis
+
+[Who's That Player?: Externalizing Query Interpretation in Spoken XR Sports Interaction](https://ieeevis.org/year/2026/program/content/a6a811db-f906-4dea-bae8-5a160321102e/) ([arXiv](https://arxiv.org/abs/2608.00876)) is a spoken language interface that keeps up with game activity in an immersive sports interaction system by narrowing the scope of queries along four dimensions: temporal, metrics, referential, and spatial
 
 Vis researchers will also put work in academic research outlets for computer vision and health technology. Authors of the last paper in the list, Chunggi Lee and Hanspeter Pfister from Harvard, also created a [computer-vision system to gauge real-time injury](https://vcg.seas.harvard.edu/publications/vair-visual-analytics-for-injury-risk-exploration-in-sports/paper) for basketball athletes presented on video. The work came out late in 2025 at the [IEEE Workshop on Visual Analytics in Healthcare](https://visualanalyticshealthcare.github.io/homepage/2025/).
 
@@ -30,11 +33,15 @@ Vis researchers will also put work in academic research outlets for computer vis
 
 Quality proof-of-concept papers that describe video classification of sports tracking and biomechanics poses, actions, and events appear regularly on arXiv. Recent examples:
 
- * soccer - [Zero-Shot Multimodal Event Spotting in Soccer Broadcasts](https://arxiv.org/abs/2610.37583)
- * volleyball - [Volley3D: Unified 3D Full-Sequence Reconstruction from Monocular Broadcasts]()
- * basketball - [Explaining Basketball Shot Classifications with Grad-CAM: An Investigation of Shortcut Reliance with Spatiotemporal Correlations](https://arxiv.org/abs/2610.33263)
- * basketball - [Training-Free Long-Term Multi-Object Tracking for Sports Video Analytics](https://arxiv.org/abs/2608.15688)
- * track - [MuyBridge: Mobile Human Center-of-Mass Estimation from Monocular Video via Sparse Fusion](https://arxiv.org/abs/2609.02854)
+Soccer: [Zero-Shot Multimodal Event Spotting in Soccer Broadcasts](https://arxiv.org/abs/2610.37583)
+
+Volleyball: [Volley3D: Unified 3D Full-Sequence Reconstruction from Monocular Broadcasts]()
+
+Basketball: [Explaining Basketball Shot Classifications with Grad-CAM: An Investigation of Shortcut Reliance with Spatiotemporal Correlations](https://arxiv.org/abs/2610.33263)
+
+More basketball: [Training-Free Long-Term Multi-Object Tracking for Sports Video Analytics](https://arxiv.org/abs/2608.15688)
+
+Track: [MuyBridge: Mobile Human Center-of-Mass Estimation from Monocular Video via Sparse Fusion](https://arxiv.org/abs/2609.02854)
 
 These papers all come out of university research and fit the profile of exploratory data analysis. The volume of work on video in sports is substantial. Non-video work is a little harder to come by. 
 
