@@ -17,7 +17,7 @@ During an earlier stint in grad school, I interned with a big architecture firm 
 
 The architects I worked with spent long hours in conversation with lab directors, asking them what they wanted in their facility. These directors were the actual building designers. The process usually worked. I remember one time that it didn't.
 
-[![[Bossie The Cow](https://aadl.org/taxonomy/term/37058)](elevator_cow.png)]
+![](elevator_cow.png)
 
 The client needed a biocontainment laboratory and decided to put it on an upper floor in a new building for security. It also needed to bring cattle-size animals to their biosafety-level 4 rooms, requiring a giant elevator close to the loading dock. The architect asked the scientist, "How should we make this work for you?" The scientist told the architect, "I don't know. You tell me. You're the expert." But the architect wasn't an expert, just an assembler. Fortunately, the architect had a boss who was expert and had an answer.
 
